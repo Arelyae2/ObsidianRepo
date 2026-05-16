@@ -10,7 +10,7 @@ right: Player
 
 < Hello ! My name is Charles Du-Moulin, charged by Baron Central to guide you through the Transitionnal Bunker© !
 
-< The Transitionnal Bunker©, is a bunker that will help you transitioning into one of our more secured facility. 
+< The Transitionnal Bunker©, is a bunker that will help you transition into one of our more secured facility. 
 
 ```
 ---
@@ -24,7 +24,7 @@ right: Player
 
 < You will see on your screen the current state of the main systems composing the extremely complex machine that is the Transitionnal Bunker©.
 
-< If the last person you were with correctly followed the instructions like you, then you will find all systems correctly working.
+< If the last person you were with, correctly followed the instructions like you, then you will find all systems correctly working.
 
 < But of course mistakes are in the nature of everyone, and even more in someone not up the the standards of Baron Central.
 
@@ -40,7 +40,7 @@ right: Player
 
 < In order to let you fix some equilibrium misshaps that could have been left by the previous occupant. Baron Central provides every Transitional Bunker with their own dedicated map ! 
 
-< Letting you not only see ! But control your habitat in every way ! With a safe, and ergonomic way.
+< Letting you not only see ! But control your habitat in every way ! With a safe, and ergonomic system.
 
 < Of course, certain important features are safe behind an administrator password. If you wish to access them, we will require you to ask for a parent, or the person the closest to being a responsible adult.
 
@@ -66,9 +66,9 @@ right: Player
 left: The All Knowing Fish
 right: Player
 
-< Baron Central being, first of all, a small Optical Company, we wanted to stay true to our core values, and provide our occupants the ability to modify their own view of the world if they wanted to !
+< Baron Central being, first of all, an Optical Company, we wanted to stay true to our core values, and provide our occupants the ability to modify their own view of the world if they wanted to !
 
-< If you vision does not suit you at this moment, you can change them in the "Vision Settings" tab of your certified Baron Central Computing System.
+< If you vision does not suit you at this moment, you can change them in the "Settings" tab of your certified Baron Central Computing System.
 
 ```
 ---
@@ -93,7 +93,7 @@ right: Player
 
 > How many Bunkers are there?
 
-< Through the year, Bunker Central has helped the French, Califorinian, Chinese, and Korea government, build more than nine hundreds and ninety nine of them !
+< Through the year, Bunker Central has helped the French, Californian, Chinese, and Korea government, build more than nine hundreds and ninety nine of Transitional Bunker !
 
 ```
 
@@ -128,8 +128,6 @@ right: Player
 ```
 
 ---
-
-
 
 ### Terms of Conditions
 

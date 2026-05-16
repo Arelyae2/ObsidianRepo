@@ -1,0 +1,12 @@
+[[Breaking bad improvisation 💊]]
+[[Difficile de faire un jeu vidéo 👩‍💻]]
+[[La critique de Specs Ops The Line 🔫]]
+[[Non le gaming n’est pas mort🎮]]
+[[Dark Souls 1]]
+[[Le GOTY 2025]]
+[[Les 6 façons de faire de la musique dans le jeu vidéo]]
+[[Inception en Game Design]]
+[[Chroma - Tintin le film de spielberg]]
+[[Chroma - Minecraft Le Film]]
+[[La Philosophie au cinéma]]
+

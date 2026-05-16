@@ -1,0 +1,144 @@
+# Session Report — 2026-03-26
+
+## Summary
+
+First full working session on SelectAll(). Started from a blank studio template and an existing Godot 4.6 prototype in a separate folder. By end of session: the project is fully set up, the roadmap is defined, and 4 of 7 MVP GDDs are written.
+
+---
+
+## What Was Done
+
+### Project Setup
+- Migrated existing Godot 4.6 prototype from `/home/mrbisou/Documents/GameDev/selectall/rectangle-selection` into the studio template
+- Kept Godot directory structure intact (`scripts/`, `scenes/`, `resources/`, `fonts/`) to preserve `res://` paths
+- Moved GDD from `Documentation/gdd.md` → `design/gdd/gdd.md`
+
+### Systems Decomposition (`/map-systems`)
+- Identified and mapped **20 systems** across 6 categories (Core Mechanic, Progression, Feature, Presentation, Technical, Platform)
+- Established dependency layers (L0–L5) with no circular dependencies
+- Assigned priority tiers (MVP, Vertical Slice, Alpha)
+- Defined design order (12 systems to GDD, 8 already implemented)
+- Key additions during review: Localization (MVP), CrazyGames Platform Requirements (MVP)
+- Key removals: Shape Lifetime/Ephemerality, Object Pool (deferred as too micro)
+- Delivered: `design/gdd/systems-index.md`
+
+### Art Direction Decision
+- Moved away from current CRT/glow aesthetic (Nodebuster-like)
+- New direction: **vector/geometric style** (Utopia Must Fall, v99 engine)
+- Affects: Shape Types, Feedback & Signals, Main Flow UI
+
+### Platform Decision
+- Primary release: **CrazyGames** (web, free)
+- Secondary release: **Steam Premium** (conditional on CrazyGames traction)
+- Traction gate: CrazyGames KPIs — D1 retention, D7 retention, avg. playtime
+
+### Milestone Planning
+- Defined 9 milestones across two tracks + post-launch
+- CrazyGames track: M1 Pre-Production (~Apr 11) → M2 Alpha (~Apr 25) → M3 Beta (~May 9) → M4 Launch (~May 16)
+- Steam track: M5–M8 (summer, conditional on traction)
+- Post-Steam: M9 CG Ad Integration
+- Delivered: `production/milestones/roadmap.md` + individual milestone files M1–M9
+
+### Release Checklist
+- Generated initial release checklist tailored to CrazyGames (web)
+- Identified 5 hard blockers as of session start
+- Delivered: `production/releases/release-checklist-0.0.1.md`
+
+### GDD Writing (4/7 MVP)
+
+**1. CrazyGames Platform Requirements**
+- Two-stage launch model: Basic Launch (M4) → Full Launch (M9)
+- SDK v3 integration sequence, required vs. optional calls
+- Ad break rules, content policy, technical constraints
+- Godot 4.6 single-threaded export confirmed compatible
+- File: `design/gdd/crazy-games-platform-requirements.md`
+
+**2. Run Lifecycle**
+- Infinite arena loop — no timer, no lives, player-driven shop visits
+- Score is persistent currency, never resets between visits
+- Start Over: resets score + upgrades, returns to Arena (CG) or Main Menu (Steam)
+- SDK hook placement confirmed: gameplayStop before fade, gameplayStart after fade
+- Shop classified as non-gameplay screen (enables banner ads in Full Launch)
+- File: `design/gdd/run-lifecycle.md`
+
+**3. Main Flow**
+- Architecture: `app.tscn` as persistent root; Arena + Shop + ScreenFade as children
+- Managers (CrazyGamesManager, SaveSystem, AudioManager) as Autoloads — consistent with existing UpgradeManager
+- Transitions: visibility toggles + ScreenFade (≤ 500ms) — zero load time
+- Start Over confirmation: overlay within Shop, no scene change
+- Save trigger: periodic during arena play (interval TBD in Save System GDD) + on Shop entry + on Start Over
+- Note: investigate atomic write strategy for browser-close mid-save scenario
+- File: `design/gdd/main-flow.md`
+
+**4. Scoring**
+- Hard rule established: **score never decreases**
+- Decoupled `is_harmful` from `selection_mode` — prototype uses INTERSECT as proxy; must be refactored before Alpha
+- Wipe now triggers with any selection containing a wipe shape (not just gold alone)
+- Shape values and multipliers are unbounded (64-bit int)
+- "Réduction de pénalité toxique" upgrade removed — no penalty to reduce
+- Score display position TBD (candidate: near Shop button)
+- Camera shake may conflict with vector aesthetic — flagged for Feedback & Signals GDD
+- File: `design/gdd/scoring.md`
+
+---
+
+## Key Decisions
+
+| Decision | Rationale |
+|----------|-----------|
+| CG build launches directly into Arena | Instant engagement critical for web platform |
+| Score never decreases | Prototype evolved away from penalty; hard rule simplifies design |
+| `is_harmful` decoupled from `selection_mode` | Prototype shortcut; full game needs flexible shape type system |
+| Wipe triggers with multiple shapes selected | Prototype "gold alone" rule was too restrictive |
+| Managers as Autoloads, not app.tscn children | Consistent with UpgradeManager; globally accessible without path lookups |
+| Localization added as MVP system | CrazyGames requires English; no hardcoded strings must ship |
+| Mid-May as CG launch target | Progress-driven, not hard deadline; part-time schedule acknowledged |
+
+---
+
+## Open Items Carried Forward
+
+| Item | Blocks |
+|------|--------|
+| Score display position in Arena UI | Feedback & Signals GDD |
+| Zero-score selection: silent or visual? | Feedback & Signals GDD |
+| Camera shake vs. alternative for vector style | Feedback & Signals GDD |
+| Save interval tuning | Save System GDD |
+| Atomic write strategy on browser close | Save System GDD |
+| `is_harmful` refactor in ShapeData + arena.gd | Before Alpha (M2–M3) |
+| CrazyGames traction KPI thresholds | Post-M4 launch |
+
+---
+
+## Next Session
+
+Start with: `/design-system feedback-and-signals`
+
+Remaining MVP GDDs: Feedback & Signals, Shape Types, Localization (3 of 7).
+
+---
+
+## Files Created or Modified This Session
+
+| File | Action |
+|------|--------|
+| `design/gdd/gdd.md` | Migrated from prototype |
+| `design/gdd/systems-index.md` | Created |
+| `design/gdd/crazy-games-platform-requirements.md` | Created |
+| `design/gdd/run-lifecycle.md` | Created |
+| `design/gdd/main-flow.md` | Created |
+| `design/gdd/scoring.md` | Created |
+| `production/milestones/roadmap.md` | Created |
+| `production/milestones/m1-pre-production.md` | Created |
+| `production/milestones/m2-alpha.md` | Created |
+| `production/milestones/m3-beta.md` | Created |
+| `production/milestones/m4-cg-launch.md` | Created |
+| `production/milestones/m5-steam-pre-production.md` | Created |
+| `production/milestones/m6-steam-alpha.md` | Created |
+| `production/milestones/m7-press-build.md` | Created |
+| `production/milestones/m8-steam-launch.md` | Created |
+| `production/milestones/m9-cg-ad-update.md` | Created |
+| `production/releases/release-checklist-0.0.1.md` | Created |
+| `production/session-state/active.md` | Created and updated throughout |
+| `scripts/`, `scenes/`, `resources/`, `fonts/` | Migrated from prototype |
+| `project.godot`, `game_data.json`, `icon.svg`, `export_presets.cfg` | Migrated from prototype |

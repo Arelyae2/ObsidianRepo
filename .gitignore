@@ -1,0 +1,19 @@
+# Obsidian config (local app settings)
+.obsidian/
+
+# Optional: keep shared config (uncomment if you want to version themes/plugins)
+# !.obsidian/plugins/
+# !.obsidian/themes/
+# !.obsidian/snippets/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary / cache files
+*.tmp
+*.swp
+*.bak
+
+# Logs
+*.log

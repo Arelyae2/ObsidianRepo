@@ -154,7 +154,7 @@ It is used as a way to go to **higher places** by grappling on given surfaces an
 
 The player can use [[LPOM-3C#Targeting|Targeting]] to automatically aim their grappling hook.
 
-It can be used **in combat** for the player to grapple on enemies, and follow it with a sword hit.
+It can be used **in combat** for the player to remove enemy shield.
 
 ---
 #### Double
@@ -199,17 +199,6 @@ The player will obtain a sword from the [[LPOM-Narrative Design#Consort of the G
 The **Banishing Sword** has a sort of glass effect, with depth inside.
 
 ![[SS_Master_Sword_Artwork.png]]
-### Cat
-
-After the **battle of the Eluryian fields**, the player rescues a main coon cat kitten. 
-
-The kitten takes refuge in their **backpack**, and can **hop on their shoulder** when walking, discussion, or during combat to **jump** at enemies.
-
-![[MainCoonCatKitten.png|400]]
-
-The cat also serve as a way to fetch particular objects unattainable for the player in temples or the world.
-
-![[MainCoonCat.png|400]]
 
 ### Double Gun
 The player obtains a second gun in the last temple, this new gun **automatically has the current upgrades** of the one the player has.
@@ -261,52 +250,14 @@ They can however ignore **cracked walls** and **fences**, completely **passing t
 They can still attack but do **less damage**.
 
 #### Possessions
-What the player can do however in spirit form, is **possess** other entities, **weak minded** living beings.
+What the player can do however in spirit form, is **transfom** into an animal entity between three possibility.
 
 ![[MarioOdysseyPossession.png|500]]
 
-To possess an entity, it must be reachable in a **1 meter** circle, **not behind a wall,** and **targetable**.
-They must then target it, and press the given input.
-
-They must press the the **same input** to **get out** of a possession.
-
-##### Guard
-The guard/soldier of the place, they can go to places the [[#Citizen]] are not permitted to be and can attack. They **can't** take any **objects** in their hand.
-
-However, they have to follow a very strict path to guard around a given zone, if the payer diverts from it, they will be chased by the **yellow guardians**.
-
-![[CityGuard.png|300]]
-
----
-##### Citizen
-The simple citizen of the city, they can **carry objects**, and walk around more freely, but a lot of part of a given zone are **restricted** to them and they can't attack.
-
----
-
-When possessing any animal, the player gets their **perks and disadvantage** as well.
-
----
-##### Pests
-- Rats - Can go in **narrow places**, but get **hunted by humans** and other animals (except fish and flying animals).
-- Lizards - Can go in **narrow places** but get **hunted** by other animals.
-
----
-##### Swimmers
-- Fish - Can **swim in narrow** places, but get **hunted by alligators**.
-- Alligator - Can **swim** and **attack** but cannot go in narrow places, get **hunted by guards**.
-
----
-##### Flying
-- Bat - They can see in the dark with **infrared vision** and fly, but only **upside down**, with inverted controllers. They get **hurt in the light of the sun**.
-- Sun bird, they can fly across the map, but are **slow**, and get hurt at night.
-
----
-##### Pets
-- Dog - Can run but get hunted by guards
-- Cat - Can run but get hunted by guards
-
----
-
+- Rats
+- Cat
+- Fish
+- Small bird
 ### Objects Movement
 #### Grappling Hook
 ##### General
@@ -326,8 +277,6 @@ It can be used **in combat** for the player to grapple on enemies, and follow it
 The double grappling hook is a possible upgrade **after obtaining a second gun**. The player will then have the ability to grapple onto surfaces and objects, while **already being** suspended or grappled on.
 
 ![[GrapplingHookDragonZelda.png|600]]
-
-
 
 #### Boots
 The player can obtain boots that allows them to **stick on given surfaces** (metallic one), and **defy gravity**.
@@ -524,7 +473,7 @@ By holding and releasing the *attack input*, the player does a circular attack. 
 ---
 #### Destabilization
 
-By rapidly doing a **backward dodge** and **firing** their gun using only the *fire input* (no need for the aim), the player can directly **knock an enemy on the ground**.
+By rapidly doing a **backward dodge** and **firing** their gun using only the *fire input* (no need for aim), the player can directly **knock an enemy on the ground**.
 
 ---
 #### Back Counter
@@ -540,30 +489,14 @@ If the player perfectly dodge a hit at the right moment, they can immediately **
 
 ---
 #### Counter more enemies
-This is an upgrade of the counter, the player will, **after** one shotting a **first** enemy, be given the ability to **fire** a shot to the **nearest enemy** and **kill them instantly** as well.
+This is an upgrade of the counter, the player will, **after** one shotting a **first** enemy, be given the ability to **fire** a shot to the **evaded enemy** and **kill them instantly** as well.
 
 ![[GOTChainAssassinate.png|500]]
 
 ---
-#### Instant Kill
-
-By holding **two specific input** (yet to be specified), the player will enter in a **flow state**, that will allow them to **target** up to 2 **enemies**, and **kill them instantly**.
-
-This capacity **consumes health** of the player.
-
-![[MiniNinjaPowerAttack.png|500]]
-
-This capacity can be upgraded by defying the **[[LPOM-Narrative Design#Forgotten Swordsman|Forgotten Swordsman]]** in singular combat. Up to *5* **targets at maximum.**
-
----
 ### Other Object Impact
-
-#### Cat
-The cat of the player can **automatically**, **without other inputs from the player**, lunge at enemies, and **forbid them to attack the player**.
-
-![[MainCoonCat.png|500]]
 
 #### Grappling Hook
 
-The grappling hook can be used for the player to **lunge** at certain enemies, **stun** them, or remove their shields.
+The grappling hook can be used for the player to remove **enemy shields**.
 ![[GrapplingHook.png|500]]

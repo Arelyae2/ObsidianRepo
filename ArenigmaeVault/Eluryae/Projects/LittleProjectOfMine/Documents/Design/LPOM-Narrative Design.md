@@ -427,16 +427,13 @@ As the **battlefield clears** up, the [[#Yellow King]] decides to flee north, to
 [[#Brennan The Malenaian Traveler|Brennan]]'s wife, [[LPOM-Side Quests#Simon|Simon]], is **nowhere to be seen**, presumed dead.
 
 [[#Regent Manuel|Manuel]] and the rest of the allies decide to **send the player after him**, as even if he is losing, he still poses a **potential threat**. While the rest of the army gather up to prepare an **offensive towards the city**, and clear up the [[#Great Eluryian Fields]] and around.
-
-Just **before leaving**, the player will get the [[LPOM-Player Design#Cat|Cat]], wandering **around the battlefield**.
-
 ##### Seventh temple
 
 The **[[LPOM-Level Design#Shadow Temple|Shadow Temple]]** is located in the cracks of the [[#Lost Mountains]], it is the home of the fanatics of the [[#Golden Corruption]], and where the [[#Yellow King]] is hiding.
 
 ![[ShadowTempleOOT.png|500]]
 
-The player, with the help of the cat, will traverse it, and find the [[#Yellow King]] praying, he will act as the final boss of the temple.
+The player, will traverse it, and find the [[#Yellow King]] praying, he will act as the final boss of the temple.
 
 ###### The Death of the Yellow King
 

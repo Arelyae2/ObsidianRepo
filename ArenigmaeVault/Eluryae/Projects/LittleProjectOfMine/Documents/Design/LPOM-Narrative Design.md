@@ -418,7 +418,7 @@ After a last meeting between [[#Regent Manuel]], [[#Brennan The Malenaian Travel
 
 ![[MonsterBattleArmy.png|415]]
 
-Even with the enormous [[#Golden Corruption]] forces, the player, with the help of **Simon** and [[#Ema the Alfiryan|Ema]], they will bring down most of the enemy, forcing the [[#Yellow King]] to enter the battle and challenges the player on **single duel** that the player will get **out of victorious**, and winning the battle.
+Even with the enormous [[#Golden Corruption]] forces, the player, with the help of **Simon** and [[#Ema the Alfiryan|Ema]],  will bring down most of the enemy, forcing the [[#Yellow King]] to enter the battle and challenges the player on **single duel** that the player will get **out of victorious**, and winning the battle.
 
 ---
 
@@ -461,7 +461,7 @@ He looks at the player.
 
 And cast a **powerful unknown magic**, opening a **rift in reality**, the player is sucked in it.
 
-*I will take more than pleasure of torturing the expression of their desperation, as for the rest of you, start your march towards the capital*
+*I will take more than pleasure of torturing the expression of their desperation, as for the rest of you,  march towards the capital*
 
 The player is now in the [[#Nine Hells]], he sees monsters around him, imps and demon, ignoring him and going towards a gigantic palace in the distance, the home of the [[#True Order]].
 

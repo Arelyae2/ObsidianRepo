@@ -10,7 +10,7 @@ right: Player
 
 < Hello ! My name is Charles Du-Moulin, charged by Baron Central to guide you through the Transitionnal Bunker© !
 
-< The Transitionnal Bunker©, is a bunker that will help you transition into one of our more secured facility. 
+< The Transitionnal Bunker©, is a bunker, that will help you transition into one of our more secured facility. 
 
 ```
 ---
@@ -20,7 +20,7 @@ right: Player
 left: The All Knowing Fish
 right: Player
 
-< As the quote says "Leave this place as clean as you found it". That is why we ask all of our occupants to take care, of the Transitionnal Bunker©. Making you part of the Baron Central family !
+< As the quote says "Leave this place as clean as you found it". That is why we ask all of you, occupants, to take care of the Transitionnal Bunker©. Making you part of the Baron Central family !
 
 < You will see on your screen the current state of the main systems composing the extremely complex machine that is the Transitionnal Bunker©.
 

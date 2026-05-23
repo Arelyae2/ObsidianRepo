@@ -182,3 +182,74 @@ Any dispute, claim, or controversy arising from this Agreement or the Inhabitant
 
 
 Thank you.
+
+
+## Lore
+
+
+### Story mood
+
+
+
+
+### Baron Central
+
+#### Overall
+
+Baron Central is an optical company that started 70 years before the events of the game, becoming extremely powerful immedtiately, as it genetically modified in real time the human body to correct eyesights.
+
+20 Years later, Baron Central was now fixing the entire human world, costing more and more in order to maximize profits quickly.
+
+Their head scientists discovered that with time, the gene introduced in the human DNA was slowly building up quicker and quicker, and that every people now considered as "infected" with it, would have their body unable to recognise wich type of cell should be or do.
+
+This would create symptoms first on the organs that was cured (a person cured for his eyesight would become blind, an alzheimer patient would see his disease go back and even worsen).
+
+This would then suddenly propagate in a matter of hours to the rest of the body.
+
+In time, making people fuse with each other, or their own body, forming in time massive blobs of unrecognisable flesh that feeds on itself or anything that is a cell, even not human, plants, animals...The fusion would include the clothes or accessories the people were wearing, phones, watches...
+
+By testing already advanced subject before the breakout, Baron Central discovered that the blob like flesh masses would eventually connect to one another by "moving" around with what rests of their limbs, or even obey archaics thoughts like "reaching out", extending an infitily growing arm or other member, creating appendices to fuse with other blobs.
+
+It was not proved at any moment by the tests that the blobs lost their intelligence, consciousness, or memory, or weren't aware of what they were doing.
+
+During an accident, an intern tripped and fell on one fo the blobs, it immediately got fused with the rest, proving that even the people not inoculated with the gene were not safe from being absorbed, and needed a secured location to save humanity.
+
+In reaction to this, Baron Central decided to secretly round up the wealthiest who were not inoculated the gene, and build bunkers around, as well as a gigantic underground facility.
+
+In order to build rapidly these centers, Baron Central decided to manipulate certain subjects into perfect tool of obedience to carry heavy objects with a single task, hammer a nail...
+
+For security, the ability to fuse was severed with a thick, coated white skin.
+
+This was 20 years ago.
+
+2 years before the breakout, Baron Central had weakened itself in panic of building the bunkers, eventually making mistakes, eventually, the creatures started to fight each other and their master in pure unfathomable rage, and their gene uncloking back the possibility to fuse with others
+
+Baron Central decided to act quick in panic, and put every people they recorded in bunkers, with limited food, and unfinished bunkers.
+
+The events of the game are 10 years after the breakout.
+
+#### Reports
+
+We have encountered a critical miscalculation in the BCOCP vector. The integrated gene is not stable; it is accumulating exponentially within the host genome, accelerating its own replication cycle with each generation.
+
+The consequences are systemic. At a cellular level, the body is losing **histological awareness**. Cells are entirely forgetting their specialized functions; a cardiomyocyte or a neuron no longer recognizes its role or its physical boundaries. The baseline instruction set for human morphology has corrupted.
+
+If the first symptoms—minor dermal softening—are declared in the morning, the patient’s body becomes entirely unrecognisable by nightfall. The tissue rapidly dissolves into an amorphous, non-differentiated mass. Worryingly, this phenomenon is already present in 99.99% of the global population.
+
+Observations of advanced subjects reveal that these tissue masses are not stagnant. When placed in proximity, separate biomasses actively alter their geometry to connect with one another. They utilize the remnants of structural limbs to generate crude locomotion, but more disturbingly, they exhibit intentionality.
+
+They appear to obey archaic, deeply embedded cognitive impulses—specifically, the impulse to "reach out." The biomass will project an infinitely growing arm or corded appendix across vast distances solely to fuse with another blob.
+
+Furthermore, this fusion process is violently absolute. It is not limited to organic matter. The masses assimilate the inorganic materials worn or carried by the subjects at the time of dissolution. Clothes, wristwatches, and cellular devices are dragged into the cellular matrix, permanently suspended within the translucent, churning layers of flesh.
+
+We must address a deeply unsettling possibility regarding the internal state of these entities. Data from our localized neural-density scans does not support the hypothesis of brain death or cognitive termination.
+
+At no point during our testing has it been proven that the blobs lose their intelligence, memories, or core consciousness. On the contrary, the synchronized, low-frequency electromagnetic fields emitted by the fused masses suggest a hyper-aware, collective cognitive state.
+
+They do not appear to be mindless. Every expansion, every agonizing reaching motion, and every act of consumption may be completely intentional. We must operate under the assumption that the individuals trapped within the biomass are fully aware of what they are doing, and what they have become. The implications of this are... difficult to quantify objectively.
+
+An un-inoculated research intern tripped and fell directly onto the perimeter of Subject Group 09.
+
+Absorption was instantaneous. Upon physical contact, the intern's non-modified tissues were immediately overwritten and fused into the main mass. This confirms our worst-case scenario: **the convergence does not require the Baron transgene to propagate.** The biomass itself acts as an aggressive, predatory catalyst. It will assimilate anything composed of eukaryotic cells—human, animal, or plant matter.
+
+Non-inoculated humanity possesses zero natural immunity to physical assimilation upon contact. If we are to preserve a baseline human species, immediate evacuation to a structurally isolated, hermetically sealed, and heavily secured location is no longer a contingency plan. It is our sole remaining imperative.

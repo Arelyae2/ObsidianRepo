@@ -4,9 +4,10 @@
 - Lya Renard
 - Ema Guignot
 - Carla Monnet--Bourin
-- Lukas Otiz 
+- Lukas Hortiz 
 
 
 ## Première Année
+
 - Lukas Talpain
 - Romain Unternaehrer

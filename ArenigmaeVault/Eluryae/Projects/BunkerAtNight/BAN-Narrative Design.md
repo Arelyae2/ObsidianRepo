@@ -1,5 +1,5 @@
 
-![[FishTest.png|403]]
+![[FishTest.png|521]]
 [Lien](https://www.youtube.com/watch?v=gLD8etLlrBs)
 ## Dialog Tutorial
 ### Introduction
@@ -13,6 +13,7 @@ right: Player
 < The Transitionnal Bunker©, is a bunker, that will help you transition into one of our more secured facility. 
 
 ```
+
 ---
 
 ### System
@@ -45,6 +46,7 @@ right: Player
 < Of course, certain important features are safe behind an administrator password. If you wish to access them, we will require you to ask for a parent, or the person the closest to being a responsible adult.
 
 ```
+
 ---
 
 ### Entertainment

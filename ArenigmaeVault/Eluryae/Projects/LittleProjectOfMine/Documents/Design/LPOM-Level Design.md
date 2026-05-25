@@ -1,6 +1,5 @@
 ## World
 
-
 ## Temples
 Non linear:
 - Choice of where to spend a small key

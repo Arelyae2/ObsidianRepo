@@ -1541,8 +1541,6 @@ They are **not a combative species**, but can be **extremely efficient if killin
 
 #### Relation with the player
 
-
-
 ### The Sentinels
 
 The sentinels are a tribe of humanoids cannibalistic monsters that lives in the [[#Great Eluryian Forest]].
@@ -1561,7 +1559,7 @@ But their lack of knowledge of the forest made it impossible for them to **hunt 
 This way of life **transformed them** in the generations, along with **incest and bloodlust**.
 Their biggest mutation came with the **rise and fall of magic in ancient Elury**, finally transforming them into a **complete monstrous species**.
 
-![[Monsters.png|300]]
+![[Monsters.png|271]]
 
 They became **fast and agile**, their arms became as long as their already **elongated legs**
 
@@ -1602,7 +1600,7 @@ They pray to what they believe is **an outer god they call the "Harbinger"**, th
 
 The "Harbinger" is actually a **long living representation of the [[#Golden Corruption]]**, and feast on the sacrifices infused with the fear of the sentinels from it.
 
-![[LovecraftianHorror.png|600]]
+![[LovecraftianHorror.png|494]]
 
 ---
 #### Relation with the player

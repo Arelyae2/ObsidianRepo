@@ -2,6 +2,8 @@
 - Grand tableau véléda sur pied
 - Aspirateur
 - Set de poêle
+- Set de casserole
 - Chaise de bureau
 - Bureau assis-debout
 - Thermomix...
+- 

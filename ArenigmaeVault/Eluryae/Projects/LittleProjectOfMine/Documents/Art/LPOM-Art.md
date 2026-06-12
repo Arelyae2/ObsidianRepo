@@ -42,7 +42,16 @@ https://www.youtube.com/watch?v=viF8XBYuUqk
   
 - [[LPOM-Narrative Design#Greater Ones]] - Female Choir - Orgue
 
+#### Opening
 
+A la fin du tuto après 2-3 heures de gameplay, un opening se lance.
+
+https://youtu.be/jaDZZO4FQ38?si=OzH4ObK3waRTq8tR
+![[007FirstLightThumbnail.png|382]]
+
+
+https://www.youtube.com/watch?v=DeumyOzKqgI
+![[SkyfallAdeleThumbnail.png|386]]
 ### Mixing
 
 Horizontal mixing: Seamless segway between songs using transitions from place to place (outside, village, house...)

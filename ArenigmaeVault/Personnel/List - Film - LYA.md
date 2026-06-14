@@ -1,0 +1,21 @@
+
+- Skyfall
+- No Time To Die
+- Margin call
+-  Steve Jobs
+- The social network
+- Inglorious Basterds
+- Django
+- Les 8 salopards
+- Le bon la brute et le truand
+- Pour une poignée de dollar
+- Shawshank Redemption
+- Rogue One
+- Wiplash
+- Bladerunner 
+- Bladerunner 2049
+- Dune
+- Dune II
+- Pacific Rim
+- Hot fuzz
+- Les aventures de Tintin

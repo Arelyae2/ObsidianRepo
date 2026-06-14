@@ -18,4 +18,7 @@
 - Dune II
 - Pacific Rim
 - Hot fuzz
-- Les aventures de Tintin
+- Planète des singes, rise
+- The rock
+- Truman show
+- La grande aventure lego

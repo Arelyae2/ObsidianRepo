@@ -1,7 +1,7 @@
-
+## Not Done
 - Skyfall
 - No Time To Die
-- Margin call
+- Vice
 -  Steve Jobs
 - The social network
 - Inglorious Basterds
@@ -22,3 +22,7 @@
 - The rock
 - Truman show
 - La grande aventure lego
+
+## Done
+- Margin call
+- Bottoms 4/5

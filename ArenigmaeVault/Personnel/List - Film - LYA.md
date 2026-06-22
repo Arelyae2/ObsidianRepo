@@ -4,11 +4,8 @@
 - Vice
 -  Steve Jobs
 - The social network
-- Inglorious Basterds
 - Django
 - Les 8 salopards
-- Le bon la brute et le truand
-- Pour une poignée de dollar
 - Shawshank Redemption
 - Rogue One
 - Wiplash
@@ -22,7 +19,11 @@
 - The rock
 - Truman show
 - La grande aventure lego
-
+- Barbarian
 ## Done
+
 - Margin call
+- Inglorious Basterds
+
 - Bottoms 4/5
+- Nimona 2.5/5

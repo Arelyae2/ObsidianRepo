@@ -6,4 +6,5 @@
 - Chaise de bureau
 - Bureau assis-debout
 - Thermomix...
-- 
+- Appareil photo hybride
+- éclairage photo led 3 points

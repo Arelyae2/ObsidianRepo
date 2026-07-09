@@ -6,5 +6,5 @@
 - Chaise de bureau
 - Bureau assis-debout
 - Thermomix...
-- Pc portable de dev
-- Imprimante 3D Bambu lab
+- Appareil photo hybride
+- éclairage photo led 3 points

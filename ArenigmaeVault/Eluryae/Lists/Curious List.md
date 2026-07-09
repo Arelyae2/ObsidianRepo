@@ -11,3 +11,9 @@
 
 - Lukas Talpain
 - Romain Unternaehrer
+
+
+
+## Internet
+- Kathleen Petrilli (chanteuse)
+- Opus June (compositeur)

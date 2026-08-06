@@ -90,6 +90,7 @@ We first define what the story is, and then how we will convey it with the mecan
 - [[LPOM-Narrative Design#Environnements|Environments]]
 - [[LPOM-Narrative Design#Cutscene|Cutscenes]]
 - [[LPOM-Narrative Design#Races & Factions|Race & factions]]
+- [[LPOM-Complete Lore|Complete Lore]]
 
 ![[SimonClairObscur.png|400]]
 

@@ -2,11 +2,11 @@
 
 A civilisation, an advanced civilisation was here, and appeared on earth, coming from space.
 
-Blessed by their technological capabilities they already merged with, to naturally manipulate the elements of the very fabric of the world.
+Blessed by their technological capabilities they already merged with and called magic, to naturally manipulate the elements of the very fabric of the world.
 
 However, the more they went deep into their manipulation, the more dangerous it was becoming.
 
-Having reached a goal of peace, unity, and infinite prosperity as their scientific claimed, their elite saw everything clear, they could not bring anything new to their universe, and decided to annihilate themselves in order to give a chance to future civilization.
+Having reached a goal of peace, unity, and infinite prosperity as their scientific claimed, their elite saw everything clear, they could not bring anything new to their universe without destroying it, and decided to annihilate themselves in order to give a chance to future civilization.
 
 To this end, they decided to unify all of their magic into a single instance in space and time, pulling all matter in the universe into a single point, sacrificing themselves in the process. 
 
@@ -18,24 +18,35 @@ The conscious of these beings did not die, their only failure was in not destroy
 
 This failure also released the traits their species thought they killed even before they attained this level of science and wisdom. 9 Malicious traits who where released once again in the world.
 
+- Fear
+- Sadness
+- Envy
+- Tyranny
+- Anger
+- Death
+- Vanity
+- Abios (**A**(ancient greek for without) - **bios** (life in greek))
+- Pride
+
+
 In this state of the universe, along the matter, the atom, the newly born stars, also was drifting the minds of powerful beings, and their faults alongside.
 
-In order to contain it, the beings decided to take physical forms once again, merging their minds and spirits into cloud of gas, stars, light, and other cosmic wonders.
+In order to contain it, the beings decided to take physical forms once again, **merging their minds** and spirits into **cloud of gas**, **stars**, **light**, and other **cosmic wonders**.
 
 Resulted the creation of the 12 [[LPOM-Narrative Design#Greater Ones|Greater Ones]]. 
 
-- Nyekar - The sinner one
-- Appallo - 
-- Elyrie - The father one
-- Obassida - 
+- Nyekar - The Sinner one
+- Appallo - The Stranger one
+- Elyrie - The Mother/Father one
+- Obassida - The negotiant one
 - Oora - The dead one
-- Zoplomaketanape
-- Wougrla
-- Uftae - The Golden King
-- Lourlye
-- Fdassete
-- Uchtu
-- Kleapta
+- Zoplomaketanape - The unknown
+- Wougrla - The Judge
+- Uftae - The Killer/Golden King
+- Lourlye - The 
+- Fdassete - The
+- Uchtu - The
+- Kleapta - The
 
 But they were not secured, of themselves. 
 
@@ -50,34 +61,104 @@ As the blue pearl grew, and established itself in the golden circle of it's star
 Elyrie, particularly, took interest into a particular member of the species, eventually revealing themselves to him. The greater one and the being passed time together, and, in knowing of the nature of Elyrie, conceived a child, naming it Elurye.
 ### The conflict of the greater ones.
 
-This direct interaction and fusion between a being and a greater one was so powerful that it was able to attract from afar the 9 Malicious spirits firstly released during the bing-bang, having now found where the greater ones where, they could influence them, and the inhabitants of Earth.
+This direct interaction and fusion between a being and a greater one was so powerful that it was able to **attract from afar** the **9 Malicious spirits** firstly released during the bing-bang, having now found where the greater ones where, they could influence them, and the inhabitants of Earth.
 
 This allowed **Fear to invade Oora**, fear for Elyrie, making them completely unable to fight against **Anger**, and attempting to destroy the child Elurye.
 
 This sudden sparks of malice triggered a great war on earth, giving an easy way for **Sadness into the mind of Uftae**, seeing that the Greater Ones were feeble against the malicious spirits, and that the effects were multiplying onto more weaker beings.
 
-Uftae decided to kill Oora as well as Elyrie, protecting Elurye in the process.
-In the conflict, Uftae succeeded to kill Elyrie, this death, directly on Earth, sparked an explosion of power so massive that it ejected an enormous amount of it's mass orbiting into space, forming the moon in the future.
+**Uftae decided to kill Oora** as well as **Elyrie, protecting Elurye in the process**.
+In the conflict, Uftae succeeded to kill Elyrie, this death, **directly on Earth**, sparked an **explosion of power** so massive that it ejected an enormous amount of it's mass orbiting into space, **forming the moon** in the future.
 
 ![[51if0xbp6bb21.gif|367]]
 
 Leaving the Earth still in a liquid state, **Uftae follow a fleeing Oora**, but was stopped by **Nyekar who sacrificed themselves**, a **useless** act that resulted in the death of Oora.
 
-**Oora's body, still invaded by Fear**, was a **catalyst for the malicious trait** to spread everywhere in the universe, and **rain above Earth** into a shower of **black and gold rain**.
+**Oora's body, still invaded by Fear**, was a **catalyst for the malicious trait** to spread everywhere in the universe, and **rain above Earth** into a shower of **black and gold rain.**
 
 A powerful, and now **corrupted magic**, dispersed on earth, the **embodiment of fear**, thriving into it, and **corrupting the one feeling it**. Thus was born the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]]
 
-Elurye saw, and decided to become Earth's guardian, and give it's inhabitants reassurance, hope, and magic to fight against the new threat.
+![[GoldAndBlackLiquidGoldenCorruptionPure.png|331]]
+
+**Elurye saw**, and decided to become Earth's guardian, and in the future, give it's inhabitants reassurance, hope, and magic to fight against the new threat.
 
 Uftae, in their act, **alerted the other greater ones**, who immediately understood and saw what happened. 
 
-The **9 malicious spirits** could still invade them, hence, they decided to all trap them into the body of Nyekar, using it as a small parallel dimension of fire and blood, and decided to enclosed Uftae within it as well, still filled by Sadness and now Anger.
+The **9 malicious spirits** could still invade them, hence, they decided to all trap them into the body of Nyekar, using it as a small parallel dimension of fire and blood, and decided to enclosed **Uftae within** it as well, still filled by Sadness and now Anger.
 
-This resulted in the creation of the [[LPOM-Narrative Design#Nine Hells|nine hells]]. **Uftae now fully invaded** by the malicious spirits, was also the **first victim** of the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]], and since being a Greater One, became it's mind as well, the [[LPOM-Narrative Design#Golden King|Golden King]].
+**Uftae now fully invaded** by the malicious spirits, was also the **first victim** of the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]], and since being a Greater One, became it's mind as well, the [[LPOM-Narrative Design#Golden King|Golden King]], trapped in the body of his dead kin.
 
-Life formed into the body of Nyekar, a distorded, violent, and bloodthirsty life, that quickly separated into nine factions who fought for domination, but could never gain the upper hand.
+**Life formed** into the **body of Nyekar**, a **distorded, violent, and bloodthirsty life**, that quickly separated into nine factions who fought for domination, but could never gain the upper hand, thus were born the [[LPOM-Narrative Design#Nine Hells|Nine Hells]].
+
+![[NineHells.png|582]]
+
+### Earth after the Greater Conflict
+
+After the emprisonment of Uftae, the Greater Ones left the Earth, not abandoning it. But knowing that the malicious traits were emprisoned as well, they could let the blue pearl lay and reconstruct in peace.
+
+As for the Elyrie's child, Elurye, they were part of a Greater One, but also partly of the being living on Earth before it's destruction.
+
+Elurye decided to **sit on the moon** and wait for Earth to reconstruct itself, to cool down. For billions of years, they waited.
+
+Seeing that Earth was **still of lava** after the death of their father and mother, Elurye decided to **bring the rain**.
+A **gigantic rain that would cool down the molten rock into solid**, and soon fill the planet into a blue pearl anew.
+
+As the ocean filled Earth, Elurye ventured into them, and discovered there was nothing, but sparks of life of her father and mother, Elyrie, still was wandering without purposes.
+
+And so, Elurye decided to gather those sparks into a single organism, who quickly died after it's short life, so Elurye decided to take the path of their father and mother, and taught the little life how to expand and reproduce.
+
+The cells **quickly began to multiply**, and Elurye **cared for them**, at day they would observe and **help the cells to find food**, and at night, they would **stay on the moon and see Earth into a larger distance**.
+
+One day, Elurye saw that the **sky was as blue as the oceans**, and that maybe, the cells could and would go from the water to the earth. To celebrate, Elurye decided to bring rain again for some other millions of years.
+
+Hence were born again the clouds of the Earth, and land peeking out of the ocean, and mountains out of the land.
+
+Suddenly, Elurye saw that the cells they taught evolved into multiple species, and that the grass and the trees were here again on the planet.
+
+Quickly again, the **species came onto Earth**. Elurye, over millions of years, as it was becoming **quicker and quicker**, helped them evolve into more and more intelligent creatures.
+
+A lizard of stone, especially was the target of their favours, they liked to collect gems and precious stone around them, having a flair for it.
+
+![[OuroborosLizard.png|305]]
+
+So, Elurye, helped them becoming more intelligent, helping them gaining the traits to build tools, and fire to cook their food.
+
+As years passed, their scale became rounder with age, their body learned to sit up and walk on two legs. Thus were born the [[LPOM-Narrative Design#Malenaians|Malenaians]].
 
 
+
+- Humans
+- Merovlogiens
+
+
+### The Nine Hells after the Greater Conflict
+
+Uftae, now the [[LPOM-Narrative Design#Golden King|Golden King]], abandonned himself to all the 9 Malicious traits, but the biggest one was Fear, by the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]] itself. 
+
+During billions of years, he stayed himself inside his dead kin, devolving from a Greater One, gaining a **lower conscious**, more emotions, **similar to the being** that Elyrie fathered a child with.
+
+As years passed inside this dimension, life emerged around the fire and the lava, **demons** of hellish horns and teeth of blood, born out of the **combination of the 9 Malicious traits**, wanting only to **expand, as life wants**, and eradicate, as they "wanted".
+
+But of course, being as malicious as they were, even now armed with intelligence, they could **never understand each other**, not even themselves, and so, they entered an eternal conflict between each other, all Traits, except fear, entered into the war. All choosing a faction to support from afar.
+
+- **Sadness** -> The Damned Innocents
+- **Envy** -> The Chosens of Fire
+- **Tyranny** -> The Bloody Legions
+- **Anger** -> The Chaos Soldiers
+- **Death** -> The Heir of Nyekar (taking the name of their dead world)
+- **Vanity** -> The Corrupted Cinder
+- **Abios**  -> The Guardians Of Souls
+- **Pride** -> The Sons of Raphaël
+
+Only lasted Fear, who still invaded in the form of the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]], the [[LPOM-Narrative Design#Golden King|Golden King]]. And in fear of losing, decided to wake him up, and give it's control to him, awakening him, and starting [[LPOM-Narrative Design#True Order|The True Order]].
+
+As time passed, the 9 traits **forgot the reason of their conflicts**. The Golden King only, was the one "remembering" of the existence of something outside of the Nine Hells
+
+
+### The Rift between the Hells and the Earth - The birth of the Alfiryans
+
+- Alfiryans
+- Pyrofeu
 ## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].
 
 ### Preface
@@ -100,4 +181,6 @@ This determination only confirmed my doubts of a common ancestor among every liv
 ...is what i am trying to determine by my ink. 
 
 
-## The Bible of the men
+## The Bible of Eluryae
+
+## The scrolls of the Greater Ones

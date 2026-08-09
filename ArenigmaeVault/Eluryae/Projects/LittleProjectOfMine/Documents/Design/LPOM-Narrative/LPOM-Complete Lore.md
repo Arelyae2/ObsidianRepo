@@ -1,6 +1,6 @@
 ## The truth
 
-A civilisation, an advanced civilisation was here, and appeared on earth, coming from space.
+A civilisation, an advanced civilisation was here, before everything, a univere was here before everything, a reality was here before everything.
 
 Blessed by their technological capabilities they already merged with and called magic, to naturally manipulate the elements of the very fabric of the world.
 
@@ -123,16 +123,23 @@ A lizard of stone, especially was the target of their favours, they liked to col
 
 So, Elurye, helped them becoming more intelligent, providing the traits to build tools, and fire to cook their food, and the machine of time was launched.
 
-During a small earthquake, a part of the small stone lizards were separated from their counterpart, (become the merovlogiens)
+As years passed, their scale became rounder with age, their body learned to sit up and walk on two legs. Becoming **bigger, more intelligent**. Thus were born the [[LPOM-Narrative Design#Malenaians|Malenaians]], the first civilisation on their continent.
 
-As years passed, their scale became rounder with age, their body learned to sit up and walk on two legs. Becoming bigger, more intelligent. Thus were born the [[LPOM-Narrative Design#Malenaians|Malenaians]], the first civilisation on their continent.
+During a small earthquake, a part of the Malenaians were separated from other, forcing them to live apart.
 
+The one separated in the south were not adapared to their environment, the waters were deep, the foods were in too high trees. They prayed to Elyrie to relieve them of their suffering.
 
+In reaction to this, Elyrie appeared in the form of a small bird during one night, and spoke to them, they loved their creation like childrens, and could not abandon them, nor wish to destroy them.
 
-- Humans
-- Merovlogiens
+![[MartinPêcheurOisea.png|222]]
 
+*"All of you, will cover yourself in the fruit of the the water and the earth, and bathe yourself in the river. You will die as yourself, and reborn as I am now"*
 
+They **obeyed**, and as they **bathed the mud disappeared**, and they all saw, that in place of stone, were feather, and in mouths, beeks, in place of arms, wings. Thus were born the [[LPOM-Narrative Design#Merovlogiens|Merovlogiens]].
+
+![[ShawshankRedemptionShotRain.png|366]]
+
+This is how the Earth was now, this is how it will be, thought Elyrie.
 ### The Nine Hells after the Greater Conflict
 
 Uftae, now the [[LPOM-Narrative Design#Golden King|Golden King]], abandonned himself to all the 9 Malicious traits, but the biggest one was Fear, by the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]] itself. 
@@ -156,11 +163,16 @@ Only lasted Fear, who still invaded in the form of the [[LPOM-Narrative Design#G
 
 As time passed, the 9 traits **forgot the reason of their conflicts**. The Golden King only, was the one "remembering" of the existence of something outside of the Nine Hells
 
-
 ### The Rift between the Hells and the Earth - The birth of the Alfiryans
 
 - Alfiryans
 - Pyrofeu
+
+### The coming of Humans
+
+- Humans
+
+
 ## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].
 
 ### Preface

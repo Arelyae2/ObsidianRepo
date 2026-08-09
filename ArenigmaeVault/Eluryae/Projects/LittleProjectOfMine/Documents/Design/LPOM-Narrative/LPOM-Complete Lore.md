@@ -121,9 +121,11 @@ A lizard of stone, especially was the target of their favours, they liked to col
 
 ![[OuroborosLizard.png|305]]
 
-So, Elurye, helped them becoming more intelligent, helping them gaining the traits to build tools, and fire to cook their food.
+So, Elurye, helped them becoming more intelligent, providing the traits to build tools, and fire to cook their food, and the machine of time was launched.
 
-As years passed, their scale became rounder with age, their body learned to sit up and walk on two legs. Thus were born the [[LPOM-Narrative Design#Malenaians|Malenaians]].
+During a small earthquake, a part of the small stone lizards were separated from their counterpart, (become the merovlogiens)
+
+As years passed, their scale became rounder with age, their body learned to sit up and walk on two legs. Becoming bigger, more intelligent. Thus were born the [[LPOM-Narrative Design#Malenaians|Malenaians]], the first civilisation on their continent.
 
 
 

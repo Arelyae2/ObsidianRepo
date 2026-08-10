@@ -140,6 +140,7 @@ They **obeyed**, and as they **bathed the mud disappeared**, and they all saw, t
 ![[ShawshankRedemptionShotRain.png|366]]
 
 This is how the Earth was now, this is how it will be, thought Elyrie.
+
 ### The Nine Hells after the Greater Conflict
 
 Uftae, now the [[LPOM-Narrative Design#Golden King|Golden King]], abandonned himself to all the 9 Malicious traits, but the biggest one was Fear, by the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]] itself. 
@@ -163,15 +164,51 @@ Only lasted Fear, who still invaded in the form of the [[LPOM-Narrative Design#G
 
 As time passed, the 9 traits **forgot the reason of their conflicts**. The Golden King only, was the one "remembering" of the existence of something outside of the Nine Hells
 
-### The Rift between the Hells and the Earth - The birth of the Alfiryans
+### The Sons of Raphaël
 
-- Alfiryans
-- Pyrofeu
+As the [[LPOM-Narrative Design#Malenaians|Malenaians]], and the [[LPOM-Narrative Design#Merovlogiens|Merovlogiens]] lived their life, unaware of each other, and forgot since long of their separation, the Nine Hells were progressing in their all out war.
 
-### The coming of Humans & the Death of Elyrie
+![[NineHells.png|582]]
+
+War did not discourage progress, as long as it was for more killing and a small chance of victory for either faction.
+
+---
+
+The faction of the **Pride, the Sons of Raphaël**, led by Pride itself in the form of a **demon called Raphaël**, was a cunning and vicious creature, but still an intelligent one.
+
+They saw life as it was, needing time to produce more life, or as Raphaël saw it, more soldiers. The administrative pain of it was slowing them down, and only certain beings of the army could "produce".
+
+Raphaël decided to **separate the producers from the soldiers**, so much so to modify how they were named.
+
+---
+
+The producers were "**Sha-e**" (pronounced She ) and the soldiers "**Ha-e**" (He).
+
+As **millions of years passed**, the producers and soldiers **separated physically**, for the first one lost their wings of war, and the other **gained monstrous traits**.
+
+Among the producers, **anger rose**, their pride were hurt, as they were still invaded by it. But the war lived on.
+### The Rift between the Hells and the Earth - 
+
+As Earth progressed, the [[LPOM-Narrative Design#Malenaians|Malenaians]], **experimented** for the first time a gift they always had, magic. Some children of them gained the ability to **manipulate minor aspect** of their environment. 
+
+A small **gush** of wind, a **spark** to light the fires, **heated hands** to melt the metal.
+
+And as **generation progressed, so did the magic**. How good for nature that it's people not knew war, as it would be already **dead if the contrary was true**.
+
+Unfortunately, **magic is a power of risks**, it attracts the **sinnest of the sins**, their most <font color="#ff0000">Malicious traits.</font>
+
+And the **9 Hells, felt** those new users of magic. 
+
+---
+
+As the **first sword** was forged in the kiln of the [[LPOM-Narrative Design#Malenaians|Malenaians]], a sudden explosion in the north provoked a lightning of the night sky. 
+
+The 9 Hells had found the Earth. As much as they wanted to conquer the other, no land was more attractive than an innocent one.
+
+### The coming of Humans - Birth of Alfyrians, & the Death of Elyrie
 
 - Humans
-
+- Alfiryans
 
 ## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].
 

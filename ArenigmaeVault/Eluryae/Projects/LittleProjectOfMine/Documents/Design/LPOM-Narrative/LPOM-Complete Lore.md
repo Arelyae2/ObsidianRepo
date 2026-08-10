@@ -168,7 +168,7 @@ As time passed, the 9 traits **forgot the reason of their conflicts**. The Golde
 - Alfiryans
 - Pyrofeu
 
-### The coming of Humans
+### The coming of Humans & the Death of Elyrie
 
 - Humans
 

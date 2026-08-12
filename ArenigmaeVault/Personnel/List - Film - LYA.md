@@ -6,7 +6,7 @@
 - The social network
 - Django
 - Les 8 salopards
-- Shawshank Redemption
+
 - Rogue One
 - Wiplash
 - Bladerunner 
@@ -24,6 +24,8 @@
 
 - Margin call
 - Inglorious Basterds
+- Shawshank Redemption
+
 
 - Bottoms 4/5
 - Nimona 2.5/5

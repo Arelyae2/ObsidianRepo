@@ -24,7 +24,7 @@ There is no quest journal (or not a normal one, the player could have a a notebo
 - No shrine on shrine island
 
 ### Places
-- baldur's gate companion's statue in ruins
+- Baldur's gate companion's statue in ruins
 - Kratos like axe ?
 - wind fish mural in a cavern
 - the office in the city's library
@@ -45,7 +45,7 @@ There is no quest journal (or not a normal one, the player could have a a notebo
 	- glorytoarstotzka (close the game)
 	- obradinn (add a crt filter until deactivation in the options)
 	- twentytwominutes (set a timer of 22 minutes)
-	- wheeloffortune (1 chance out of 4 to kill the player instantly)
+	- wheeloffortune (1 chance out of 4 to not kill the player instantly)
 	- gamesifitweremadeby (deactivate collision)
 	- thegreaterone (activate debug in settings)
 
@@ -76,7 +76,7 @@ There is also a shop where the player can buy lootboxes with their money, and ma
 ## Challenges
 ### Simon
 ### Eluryae
-## Others
+## Questline
 
 ### Beyond Elury
 
@@ -84,15 +84,15 @@ There is also a shop where the player can buy lootboxes with their money, and ma
 
 ## Optional Zones
 
-### The Dream tower
+### The Dream Tower
 
 An ancient place in the city of [[LPOM-Narrative Design#Eluryae the Great|Eluryae]] where the player can revisit certain bosses, temples, or mission. 
 
-### The Ancient Cavern
+### The Ancient Caverns
 
 A forgotten place where the player can tap into it's [[LPOM-Narrative Design#Greater Ones|Greater One]] power to see what could be, this gives places that cannot be narratively justified more reason, more weird or intricate level design temples. 
 
-### The trials of Eluryae
+### The Tower of Trials
 
 A rogue like place where the player is emptied of it's inventory and hearts and has to complete challenges, having to choose between certain equipments and ressources...
 

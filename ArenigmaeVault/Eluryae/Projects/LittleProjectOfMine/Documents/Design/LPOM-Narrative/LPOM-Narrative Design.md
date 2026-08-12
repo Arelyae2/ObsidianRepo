@@ -995,6 +995,12 @@ There is **no snow**, even at the highest levels, **no water**, only **mist and 
 
 ![[GiantSkeleton.png]]
 
+In the deepest part of this regions, lies a human made, artificial forest of spike, traps, and corpes, as if the ancestors wanted to warn anyone to not enter these lands.
+
+It does not have any name, nor referenced on any map, but [[#The Golden Masters]] refer to it as "**Thornins**".
+
+![[HostileArchitectureNuclearWaste1.png|521]]
+
 It contains the ruins of the [[#Forgotten City]].
 
 #### Rocky Chains
@@ -1656,6 +1662,15 @@ The humans are ruled by a **Regent**.
 	Example: "*Master* Ema, i am Master Manuel, i am pleased to meet you."
 	
 	Here, **Ema is referred as Master**, as **they do not refer to themselves as Male nor Female**, this is an **[[#Alfiryans]] exceptions**. The Alfyrians being entirely female, they have the **liberty to choose their gender** during their life.
+
+
+## Sub-Factions
+
+### The Golden Masters
+
+
+
+
 
 ## Religions
 

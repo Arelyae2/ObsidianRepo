@@ -38,11 +38,13 @@ The player obtains the [[LPOM-Player Design#Magnetic Boots]]
 
 ![[DormantVolcano.png|500]]
 ### Sky Temple
+
 Non linear temple
 The player obtains the [[LPOM-Player Design#Mount]], and got the [[LPOM-Player Design#Spirit Totem]]
 
 ![[CanyonTemple.png|500]]
 ### Melting Glacier Temple
+
 Linear temple
 The player obtains a [[LPOM-Player Design#Better sword]]
 

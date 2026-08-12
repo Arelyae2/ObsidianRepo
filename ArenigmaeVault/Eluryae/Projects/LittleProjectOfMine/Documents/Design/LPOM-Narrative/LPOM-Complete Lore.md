@@ -44,9 +44,9 @@ Resulted the creation of the 12 [[LPOM-Narrative Design#Greater Ones|Greater One
 - Wougrla - The Judge
 - Uftae - The Killer/Golden King
 - Lourlye - The 
-- Fdassete - The
-- Uchtu - The
-- Kleapta - The
+- Fdassete - The protector one
+- Uchtu - The shy one
+- Kleapta - The brother one
 
 But they were not secured, of themselves. 
 

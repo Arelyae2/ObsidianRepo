@@ -659,7 +659,17 @@ Combined with the impossibility of going through the chain of mountains, the **E
 
 ---
 
-The planet on wich the Eluryian realms lives disposes of three suns, one of them being hided by another, showing only two in the sky.
+The planet on wich the Eluryian realms lives disposes of three suns.
+
+According to the **Three God :**
+
+- Dass is said to protect the other two, by radiating the clearer light
+- Uchu is the biggest of all, but also the least seen, as we can only see it's crown, hidden behind Dass.
+- Klea, the small sister of Dass and Uchu, always accompanying them even in the night.
+
+---
+
+One of them being hided by another, showing only two in the sky.
 
 ![[TwinSuns.png|400]]
 

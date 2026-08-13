@@ -661,11 +661,11 @@ Combined with the impossibility of going through the chain of mountains, the **E
 
 The planet on wich the Eluryian realms lives disposes of three suns.
 
-According to the **Three God :**
+According to the [[#Three Gods]] :
 
-- Dass is said to protect the other two, by radiating the clearer light
-- Uchu is the biggest of all, but also the least seen, as we can only see it's crown, hidden behind Dass.
-- Klea, the small sister of Dass and Uchu, always accompanying them even in the night.
+- **Dass** is said to protect the other two, by radiating the clearer light
+- **Uchu** is the biggest of all, but also the least seen, as we can only see it's crown, hidden behind Dass.
+- **Klea**, the small sister of Dass and Uchu, always accompanying them even in the night.
 
 ---
 
@@ -673,7 +673,7 @@ One of them being hided by another, showing only two in the sky.
 
 ![[TwinSuns.png|400]]
 
-When the Golden Corruption takes hold of a territory, it darkens the two first sun, showing a giant golden eclipse in the sky.
+When the Golden Corruption takes hold of a territory, **Dass** and **Klea** darkens, showing a giant golden eclipse in the sky.
 ![[SimonClairObscur 1.png|400]]
 %%Because it's fucking cool%%
 
@@ -783,7 +783,7 @@ This council **never truly worked**, only serving as a way to falsely **create d
 Only the **Alfiryans**, **Humans**, and **Malenaians**, sits at the table, the Pyrofeu and Merovlogiens ambassadors were never seen.
 #### Effof City
 
-The City of **Effof** is the **main City** of the [[#Alfiryans]]. Sitting in the [[#Great Eluryian Canyons]], as a **giant bridge** above the **most profound crack**.
+The City of **Effof** is the **main and last City** of the [[#Alfiryans]]. Sitting in the [[#Great Eluryian Canyons]], as a **giant bridge** above the **most profound crack**.
 
 ![[GrandCanyon.png|300]]
 
@@ -845,6 +845,8 @@ The Great Sea is the body of water at the far west of Elury, **extending until t
 ![[BretagneMerPlage.png|500]]
 
 The shores are made of **long beaches** of sand that extend far when the tides are low.
+
+![[LowTides.png|386]]
 
 There are only a **few amounts of cliff** in the north and south side of the realm.
 
@@ -914,6 +916,7 @@ The **deepnesses** are **beyond the Malenaians Mines**, places **rediscovered** 
 However, ancient structures, and **signs of life**, **humans and Malenaians**, were discovered by explorers.
 
 ![[GrandCavern.png|400]]
+
 #### Great Eluryian Volcano
 
 The Great Volcano of Elury is a **dormant mount** that is still getting out fumes constantly in the air.
@@ -1005,13 +1008,13 @@ There is **no snow**, even at the highest levels, **no water**, only **mist and 
 
 ![[GiantSkeleton.png]]
 
-In the deepest part of this regions, lies a human made, artificial forest of spike, traps, and corpes, as if the ancestors wanted to warn anyone to not enter these lands.
+In the deepest part of this regions, lies a **human made**, artificial forest of spike, traps, and corpes, as if the ancestors wanted to **warn anyone to not enter these lands**.
 
 It does not have any name, nor referenced on any map, but [[#The Golden Masters]] refer to it as "**Thornins**".
 
 ![[HostileArchitectureNuclearWaste1.png|521]]
 
-It contains the ruins of the [[#Forgotten City]].
+It contains the ruins of the [[#Forgotten City]], and the **rift** to the [[#Nine Hells]]
 
 #### Rocky Chains
 
@@ -1020,7 +1023,7 @@ The Rocky chains are a set of **giant mountains** circling around the realm, com
 ![[GiantMountainChains.png]]
 #### Beyond Elury
 
-No one reportedly came beyond the rocky chains, and by proxy the Eluryian realm, no logs are telling what is beyond the realm...
+No one reportedly came beyond the rocky chains, and by proxy the Eluryian realm, no logs are telling of what is beyond the realm...
 
 
 ## Races & Factions
@@ -1325,7 +1328,7 @@ Their **horns varies greatly** in range.
 
 Their height go **from 1.8 meters to 2.5 at maximum (without horns)**.
 
-They **do not need a male part to reproduce**, and have developed a way to create children via **cloning and mixing their genes** (there is history of Alfiryans leaving the tribe to form a family out of the town).
+They **do not need a male part to reproduce**, and have developed a way to create children via **cloning and mixing their genes** (there is history of Alfiryans leaving the tribe to form a family out of the town with others, or even humans).
 
 Their culture being concentrated on combat and dance, they are naturally **muscular**.
 
@@ -1333,7 +1336,7 @@ They live up to **100 years at their oldest**.
 
 #### Culture
 
-Alfiryans are a **very opened and respectful species** of others. Welcoming with pleasure other visitors, but quickly protective of themselves when necessary.
+Alfiryans are a **species respectful** of others. Welcoming other visitors, but quickly protective of themselves when necessary.
 
 They send ambassadors around the world to **spread their culture** and sell their **services as mercenaries**.
 
@@ -1355,7 +1358,7 @@ A **squad** of Alfyrian warriors is equally composed of both the **defensive** a
 
 ![[Vibadass.png|500]]
 
-All Alfiryans warriors generally cut their hair to not be distracted when fighting. They generally dye them with **black and enemy blood**.
+All Alfiryans warriors cut their hair to not be distracted when fighting. They generally dye them with **black and enemy blood**.
 
 ---
 
@@ -1406,7 +1409,7 @@ And a combination of **deep throat** singing from the older ones, and **lighter*
 
 The dancers wear a lot of **fabric to create shadows** and images. They also let their **hair grow out** more, and **decorate their horns** with jewelery and metal.
 
-![[TieflinfJewelry.png|200]]
+![[TieflinfJewelry.png|308]]
 
 ##### Science
 
@@ -1417,6 +1420,8 @@ Staying in the **enclosed part of the city**, they have a cover story of what th
 ---
 
 They create **fertilized embyros** from others cells (while keepind the genetic diversified), and **give them to the public with abundance**, as a way to not create a limit of possible Aflyrians.
+
+It is said that procreation was much easier before with the use of magic, but is now a forgotten art and work.
 
 ---
 
@@ -1674,11 +1679,11 @@ The humans are ruled by a **Regent**.
 	Here, **Ema is referred as Master**, as **they do not refer to themselves as Male nor Female**, this is an **[[#Alfiryans]] exceptions**. The Alfyrians being entirely female, they have the **liberty to choose their gender** during their life.
 
 
-## Sub-Factions
+### Sub-Factions
 
-### The Golden Masters
+#### The Golden Masters
 
-
+A small army of castrated men and women that are found in the **Thornins** of the [[#Lost Mountains]].
 
 
 
@@ -1704,8 +1709,9 @@ The way of praying is similar to the **Catholic Religion**, with it's faults and
 
 ![[Catholicism.png|500]]
 
+### Three Gods
 
-### Magic
+## Magic
 
 Magic in Elury was **rumored to exist during an ancient period of time**, with **living beings** having the ability to **manipulate elements of nature**.
 

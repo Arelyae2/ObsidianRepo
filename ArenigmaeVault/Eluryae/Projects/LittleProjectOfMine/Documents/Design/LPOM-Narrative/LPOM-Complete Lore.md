@@ -103,7 +103,7 @@ Elurye decided to **sit on the moon** and wait for Earth to reconstruct itself, 
 Seeing that Earth was **still of lava** after the death of their father and mother, Elurye decided to **bring the rain**.
 A **gigantic rain that would cool down the molten rock into solid**, and soon fill the planet into a blue pearl anew.
 
-As the ocean filled Earth, Elurye ventured into them, and discovered there was nothing, but sparks of life of her father and mother, Elyrie, still was wandering without purposes.
+As the ocean filled Earth, Elurye ventured into them, and discovered there was nothing, but sparks of life of her father and mother, Elurye, still was wandering without purposes.
 
 And so, Elurye decided to gather those sparks into a single organism, who quickly died after it's short life, so Elurye decided to take the path of their father and mother, and taught the little life how to expand and reproduce.
 
@@ -127,9 +127,9 @@ As years passed, their scale became rounder with age, their body learned to sit 
 
 During a small earthquake, a part of the Malenaians were separated from other, forcing them to live apart.
 
-The one separated in the south were not adapared to their environment, the waters were deep, the foods were in too high trees. They prayed to Elyrie to relieve them of their suffering.
+The one separated in the south were not adapared to their environment, the waters were deep, the foods were in too high trees. They prayed to Elurye to relieve them of their suffering.
 
-In reaction to this, Elyrie appeared in the form of a small bird during one night, and spoke to them, they loved their creation like childrens, and could not abandon them, nor wish to destroy them.
+In reaction to this, Elurye appeared in the form of a small bird during one night, and spoke to them, they loved their creation like childrens, and could not abandon them, nor wish to destroy them.
 
 ![[MartinPêcheurOisea.png|222]]
 
@@ -139,7 +139,7 @@ They **obeyed**, and as they **bathed the mud disappeared**, and they all saw, t
 
 ![[ShawshankRedemptionShotRain.png|366]]
 
-This is how the Earth was now, this is how it will be, thought Elyrie.
+This is how the Earth was now, this is how it will be, thought Elurye.
 
 ### The Nine Hells after the Greater Conflict
 
@@ -205,7 +205,7 @@ As the **first sword** was forged in the kiln of the [[LPOM-Narrative Design#Mal
 
 The 9 Hells had found the Earth. As much as they wanted to conquer the other, no land was more attractive than an innocent one.
 
-### The coming of Humans - Birth of Alfyrians, & the Death of Elyrie
+### The coming of Humans - Birth of Alfyrians, & the Death of Elurye
 
 - Humans
 - Alfiryans

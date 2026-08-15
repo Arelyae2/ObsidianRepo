@@ -1,5 +1,5 @@
 - Machine à café à grain
-- Grand tableau véléda sur pied
+- **Grand tableau véléda sur pied**
 - Aspirateur
 - Set de poêle
 - Set de casserole

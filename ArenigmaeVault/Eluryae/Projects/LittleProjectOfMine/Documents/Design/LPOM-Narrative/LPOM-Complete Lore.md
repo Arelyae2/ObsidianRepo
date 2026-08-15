@@ -205,10 +205,59 @@ As the **first sword** was forged in the kiln of the [[LPOM-Narrative Design#Mal
 
 The 9 Hells had found the Earth. As much as they wanted to conquer the other, no land was more attractive than an innocent one.
 
-### The coming of Humans - Birth of Alfyrians, & the Death of Elurye
 
-- Humans
-- Alfiryans
+###  Birth of Alfyrians, & the Death of Elurye
+
+- The war begins
+- They lose
+- Elurye sees conflict within the sons of Raphael, they see potential
+- Elurye sacrifice themselves in order to let life go through the sons of Raphaël
+- Before dying, they name them "Alfiryans"
+- The Alfiryans push back against the armies and sends them back to hell, they become a new people
+- They name the land on wich they live "Elury"
+- The 9 malicious traits go through the nine hells, letting the faction fights, and are now part of every living beings, the death of Elurye reestablished them as part of nature.
+
+### History of humanity
+
+- On the other side of the sea, the spirit of Elurye is reborn through the birth of a human girl, Eluryae.
+- She sees while as an adult, the true reality of the world, the true story
+- She doesn't remember all, but tell to humans the concept of the hells, of the corruption of fear, of the 9 "sins", they interpret it as best as they can
+- She becomes a prophet among the human, a god even, even more powerful than Elurye was she tells them of the future.
+- Earth is now at the peak of it's Bronze Age
+- The goddess Eluryae is immortal, lives thousands of years, and before long, the Greater Ones notices, they want to ascend her as another Greater One, as the precedent interaction of one with another destroyed earth and it's beings.
+- Eluryae, being a human, doesn't accept, and lauches a holy war against the Greater Ones
+- Apallo and Obassida take a physical form and Earth and decide to fight Eluryae
+- The holy war lasts hundreds of years, accelerating technological development on the human side.
+- During the war, Eluryae continues to act as a prophet, she tells of a land on the other side of the sea, where she comes from, and where humanity will fight against it's greatest threat.
+- She sees a hand, a cadaver, an evil man covered in gold. forbidding gold to be used in anything. 
+- Eluryae kills Appallo and Obassida, but in the process, half of humanity is sacrificied
+- She sees her error, and ascend without telling the rest of humanity.
+- Humanity believed that Eluryae sacrificed herself for them, and start a religion in her name. "House of Eluryae"
+- Humanity advances
+
+### The land of Elury
+
+- As the humans evolved, on the other side, in the land of Elury, the new Alfiryans, as well as Merovlogiens, and Malenaians, go back to their time
+- As victims of war, they now must count on their own, Malenaians decide to become pacifists, as they nearly came extinct, Merovlogiens become Nomads, and Alfiryans decide to be the "sword" of the realm in order to defend others against greater threat.
+- Trading goes in place, religion develop as well, technology slowly advance in peace.
+- The holy war was not known at the time, but it's violence allowed for the magic of the Golden Corruption to become more powerful and potent.
+- It emerged from the rift, still and permanently open, but forgotten, not in barren lands where nothing grows or lives.
+- It's corruption held hundred of lives, the Malenaians hid, the Merovlogiens and Alfiryans fought greatly
+- They pushed it back in the rift, teaching their child not to fear it, as it was what gives it strenght.
+- They then built a giant forest of artificial spike around it in order to make scare away curious ones, and banished gold as a decoration in anything.
+- The land was at the time at the peak of it's magic, but the apparition of the Golden Corruption, and the dilution of Eluryie's magic, not only scared them from using it, but also made it less and less powerful
+
+### The coming of humans
+- 10 000 years before the events of our story, half of humanity set sails to the land of Elury, the others who stayed did not believe in Eluryae's prophecies.
+- They came ashore after their boat crashed, and quickly established several settlement
+- Not before long, a lack of ressources created conflict, one of the settlement ventured into the forest, they became isolated, and after time, were known as the sentinels
+- Others decided to follow the rivers, meeting the Merovlogiens
+- At first, collaboration was established, even with a heavy barrier language, most of the humans establised themselves on rivers, but the biggest colony was on the side of the mountains on the east, where no one who crossed came back. Thus founding the city of Eluryae the Great.
+- They then met the Alfiryans and Malenaians, but the people of Elury were not trusting humans, as they were so culturally different
+- And the humans did not either, as they thought the autochtones could be the great evil the prophecies of Eluryae spoke of.
+
+### The history of Elury
+- During the beginning of the iron age. 345 years after Eluryae's Death, and 29 years after the arrival of Humans on the land of Elury. The first conflict between humans and Alfiryans happened
 
 ## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].
 

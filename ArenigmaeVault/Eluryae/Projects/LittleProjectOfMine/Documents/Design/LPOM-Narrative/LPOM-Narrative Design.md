@@ -1008,7 +1008,7 @@ There is **no snow**, even at the highest levels, **no water**, only **mist and 
 
 ![[GiantSkeleton.png]]
 
-In the deepest part of this regions, lies a **human made**, artificial forest of spike, traps, and corpes, as if the ancestors wanted to **warn anyone to not enter these lands**.
+In the deepest part of this regions, lies an artificial forest of spike, traps, and corpes, as if the ancestors wanted to **warn anyone to not enter these lands**.
 
 It does not have any name, nor referenced on any map, but [[#The Golden Masters]] refer to it as "**Thornins**".
 

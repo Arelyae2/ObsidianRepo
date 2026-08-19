@@ -7,3 +7,5 @@
 - Bureau assis-debout
 - Thermomix...
 - éclairage photo led 3 points
+- Sodastream et bouteilles en verts
+- Ventilateur de plafond

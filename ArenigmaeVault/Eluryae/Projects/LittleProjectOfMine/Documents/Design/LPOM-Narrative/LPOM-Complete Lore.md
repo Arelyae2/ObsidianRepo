@@ -252,12 +252,45 @@ The 9 Hells had found the Earth. As much as they wanted to conquer the other, no
 - They came ashore after their boat crashed, and quickly established several settlement
 - Not before long, a lack of ressources created conflict, one of the settlement ventured into the forest, they became isolated, and after time, were known as the sentinels
 - Others decided to follow the rivers, meeting the Merovlogiens
-- At first, collaboration was established, even with a heavy barrier language, most of the humans establised themselves on rivers, but the biggest colony was on the side of the mountains on the east, where no one who crossed came back. Thus founding the city of Eluryae the Great.
-- They then met the Alfiryans and Malenaians, but the people of Elury were not trusting humans, as they were so culturally different
-- And the humans did not either, as they thought the autochtones could be the great evil the prophecies of Eluryae spoke of.
+
 
 ### The history of Elury
+
+#### Neo-Initium Era
+
+- At first, collaboration was established, even with a heavy barrier language, most of the humans establised themselves on rivers, but the biggest colony was on the side of the mountains on the east, where no one who crossed came back. Thus founding the city of Eluryae the Great.
+- They then met the Alfiryans and Malenaians, but the people of Elury were not trusting humans, as they were so culturally different
+
+- And the humans did not either, as they thought the autochtones could be the great evil the prophecies of Eluryae spoke of.
+
 - During the beginning of the iron age. 345 years after Eluryae's Death, and 29 years after the arrival of Humans on the land of Elury. The first conflict between humans and Alfiryans happened
+
+#### Era of Community
+
+#### Era of beliefs
+
+#### Era of Dragons
+
+#### Era of Darkness
+
+#### Era of War
+
+#### Era of Silver
+
+#### Era of Man
+
+#### Era of Negoc
+
+#### Era of Conflicts
+
+#### Era of Cheaters
+
+#### Era of Prosperity
+
+#### Current Era of War
+
+
+
 
 ## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].
 

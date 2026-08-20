@@ -2,13 +2,13 @@
 
 A civilisation, an advanced civilisation was here, before everything, a univere was here before everything, a reality was here before everything.
 
-Blessed by their technological capabilities they already merged with and called magic, to naturally manipulate the elements of the very fabric of the world.
+Blessed by their **technological capabilities they already merged with and called magic**, to naturally manipulate the elements of the very fabric of the world.
 
-However, the more they went deep into their manipulation, the more dangerous it was becoming.
+However, the more they went deep into their manipulation, the **more dangerous** it was becoming.
 
-Having reached a goal of peace, unity, and infinite prosperity as their scientific claimed, their elite saw everything clear, they could not bring anything new to their universe without destroying it, and decided to annihilate themselves in order to give a chance to future civilization.
+Having reached a **goal of peace, unity, and infinite prosperity** as their scientific claimed, their elite saw everything clear, they could **not bring anything new to their universe without destroying it**, and decided to annihilate themselves in order to give a chance to future civilization.
 
-To this end, they decided to unify all of their magic into a single instance in space and time, pulling all matter in the universe into a single point, sacrificing themselves in the process. 
+To this end, they decided to **unify all of their magic** into a single instance in space and time, pulling **all matter in the universe into a single point**, sacrificing themselves in the process. 
 
 This single point would then contain all of their consciousness during billions of years, and exploded again in the form of the big bang.
 
@@ -70,7 +70,7 @@ This sudden sparks of malice triggered a great war on earth, giving an easy way 
 **Uftae decided to kill Oora** as well as **Elyrie, protecting Elurye in the process**.
 In the conflict, Uftae succeeded to kill Elyrie, this death, **directly on Earth**, sparked an **explosion of power** so massive that it ejected an enormous amount of it's mass orbiting into space, **forming the moon** in the future.
 
-![[51if0xbp6bb21.gif|367]]
+![[MoonCreationGif.gif|367]]
 
 Leaving the Earth still in a liquid state, **Uftae follow a fleeing Oora**, but was stopped by **Nyekar who sacrificed themselves**, a **useless** act that resulted in the death of Oora.
 
@@ -201,33 +201,93 @@ And the **9 Hells, felt** those new users of magic.
 
 ---
 
-As the **first sword** was forged in the kiln of the [[LPOM-Narrative Design#Malenaians|Malenaians]], a sudden explosion in the north provoked a lightning of the night sky. 
+As the **first sword** was forged in the kiln of the [[LPOM-Narrative Design#Malenaians|Malenaians]], a sudden explosion in the north provoked a red lightning of the night sky, a **Rift had opened in the mountains**, leading to the 9 hells.
 
-The 9 Hells had found the Earth. As much as they wanted to conquer the other, no land was more attractive than an innocent one.
-
+The 9 Hells had found the Earth. As much as they wanted to conquer the other, no **land was more attractive than an innocent one**.
 
 ###  Birth of Alfyrians, & the Death of Elurye
 
-- The war begins
-- They lose
-- Elurye sees conflict within the sons of Raphael, they see potential
-- Elurye sacrifice themselves in order to let life go through the sons of Raphaël
-- Before dying, they name them "Alfiryans"
-- The Alfiryans push back against the armies and sends them back to hell, they become a new people
-- They name the land on wich they live "Elury"
-- The 9 malicious traits go through the nine hells, letting the faction fights, and are now part of every living beings, the death of Elurye reestablished them as part of nature.
+The war began as a massacre, as a chasing of the survivors through the burning forests. The Malenaians and Mervovlogiens quickly, were outnumbered. 
+
+Elurye was desperate for help, they asked for the help of the Greater Ones, who did not answer.
+
+They decided to help, taking **physical form as a powerful warrior**, teaching the people how to fight, but even with the help of a Greater One's child, the 9 hells were too powerful.
+
+Elurye decided to be clever, and **infiltrated the 9 hells** by going through the rift, and observing it. They saw that the 9 hells were also **a creation of life**, but so **unrecognisable and twisted** by the malicious traits, that not even the **Greater Ones would dare** to approach it.
+
+Elurye saw it, but they especially saw the **conflict inside the sons of Raphaël**, there were certains who were eager to change their ways for the better, liberating the producers of soldiers from their chains, and helping them out of the 9 hells.
+
+Once out of the 9 hells, Elurye decided to **remove from their entire people, the hate, and corruption they endured over thousands of years**.
+
+During one night, **in a great lake**, Elurye gathered everyone, taking as **witnesses the Malenaians and Merovlogiens**, they elevated in the air, and **sliced their own veins**, so that their blood could **flow through and from above**, making them able to talk again, to see again, to live again.
+
+![[GiannaDANTONIODeathBloodSacrificeJohnWick.png|256]]
+
+Thus, **were born the [[LPOM-Narrative Design#Alfiryans|Alfiryans]]**, thus was **how Elurye named them**.
+
+As the ritual finished, **Elurye fell from the air**, into the arms of the Alfiryans, and asked one favor of them **before dying**.
+
+*"Before my last breath in this world i fathered and mothered, heed those words,
+I ask of you, to be the sword of your people against the darkness,
+I ask of you, to be the light against the dooms of hell,
+I ask of you, to defend the weak, and the innocent, 
+I ask of you, Alfiryans, only this,
+Hence, my last breath is spoken."*
+
+And **Elurye died**, the **Alfiryans, now part of Earth**, filled their duty, and **filled their hands with spears and swords**.
+
+Quickly, they **pushed back against the 9 hells**, not only with **sharp blades, but also wits**, manipulating the others into fear, envy, anger, using the **malicious traits against themselves**.
+
+The **war was ended exactly a year after it started**, but the death were countless, and the sacrifice more. To honor their **dead creator and god**, the people of Earth decided to name the **land on wich they live "Elury"**.
+
+As for the **Malicious traits**, they **left the 9 hells**, humiliated, and weakened.
+Now freely roaming the universe, but **unable to possess anything** but to slightly manipulate emotions to **bring chaos, but without great success**.
 
 ### History of humanity
 
-- On the other side of the sea, the spirit of Elurye is reborn through the birth of a human girl, Eluryae.
-- She sees while as an adult, the true reality of the world, the true story
-- She doesn't remember all, but tell to humans the concept of the hells, of the corruption of fear, of the 9 "sins", they interpret it as best as they can
-- She becomes a prophet among the human, a god even, even more powerful than Elurye was she tells them of the future.
-- Earth is now at the peak of it's Bronze Age
-- The goddess Eluryae is immortal, lives thousands of years, and before long, the Greater Ones notices, they want to ascend her as another Greater One, as the precedent interaction of one with another destroyed earth and it's beings.
-- Eluryae, being a human, doesn't accept, and lauches a holy war against the Greater Ones
-- Apallo and Obassida take a physical form and Earth and decide to fight Eluryae
-- The holy war lasts hundreds of years, accelerating technological development on the human side.
+If **Elurye was dead**, their **vision, and power, were not**, they were reborn into the birth of a young **human girl**.
+
+For Elurye **cared for only a part of Earth**, and decided long ago to **leave the rest alone**, and this lone continent, **evolved a new intelligent species, Homo-Sapiens**.
+
+And that is were **Elurye was reborned**, as young girl **named Eluryae**.
+
+At that time, while the Eluryian people where still in their bronze age, the humans were already in the age of iron. Eluryae grew up as the chief of her tribe, transitioning from nomads to sedentary people.
+
+One night, exactly 25 years after the death of Elurye, and the anniversary of her grand father and mother, Elyrie. **Eluryae had a vision**, of the **past of a life** she didn't know but still lived.
+
+On top of that, she suddenly, was **able to control magic**, unlike the rest of the human species.
+She is able to **convince the truth of her sayings to her tribes**, and quickly, unites almost all of the human species against what she sees in her visions.
+
+She sees the [[LPOM-Narrative Design#Nine Hells|Nine Hells]], she sees the [[LPOM-Narrative Design#Golden Corruption|Golden Corruption]], she sees the 9 Malicious traits, she sees thousands of death, an army of [[LPOM-Narrative Design#Alfiryans|horned demons]]. Humans interpret these as best as they can, she invents writing for them to remember.
+
+![[PaulMuadibAtreidesDuneArrakisLisanAlGaib.png|533]]
+
+Quickly, she realises that **she is immortal**, and becomes a **prophet, a god** even among the humans. **Without a lack of ambition**, she learns **control over her powers** as years pass, becoming **more powerful than Elurye ever was**.
+
+But this **surge of power** in an overall, now quiet world, did not go unnoticed to the eyes of the Greater Ones. **Wougrla, the Judge**, descend on earth by **taking a physical form**. They **inform Eluryae of the origin of her power** a bit more, enough so she understands the necessity of the choice she has to make, that the last interaction of a powerful being with Earth **resulted in much more than what can be qualified as a catastrophe**.
+
+![[MoonCreationGif.gif|367]]
+
+Wougrla wants her to ascend and destroy her physical form, abandoning her human part, to become a greater one. But the human emotions are strong, and Eluryae refuses.
+**Not surprised** by the outcome of this first choice, **Wougrla propose another possibility**, to **abandon her Greater Ancestry**. But **Eluryae is a proud and ambitious person**, who refuses to abandon her powers.
+
+Wougrla warns her that **this will not end well**, but she retorts that this was the **fault of the Greater Ones** themselves that she is there. She **kills the physical form of Wougrla**, provoking the Greater Ones
+
+This act, launched the beginning of the **Holy War**.
+
+**Apallo, and Obassida**, decided to take physical form in **two gigantic armies** against the humans, and **kill Eluryae**, recruiting other human tribes in the process to destroy the "false god", the "witch".
+
+The holy war had several effects on humans, first, it accelerated the technological advancements of their race, but it also killed half of their population in the hundreds of years that it lasted.
+
+Between battles, Eluryae continued to act as a prophet, she tells of a land on the other side of the sea, that is the destiny of her people, that it is where she comes from. And upon reaching her 800 anniversary, she now sees vision of the future.
+
+Quick images, a hand coming out of a cadaver, a man covered in gold and blood, a rift in mountains, and a person holding a candle in the darkness.
+
+She tells of those visions to her people, 
+
+
+
+
 - During the war, Eluryae continues to act as a prophet, she tells of a land on the other side of the sea, where she comes from, and where humanity will fight against it's greatest threat.
 - She sees a hand, a cadaver, an evil man covered in gold. forbidding gold to be used in anything. 
 - Eluryae kills Appallo and Obassida, but in the process, half of humanity is sacrificied

@@ -519,13 +519,11 @@ All people **were evacuated**, and are now hiding inside the [[#Grand Eluryian C
 
 The refuges inside the [[#Grand Eluryian Caverns]] will soon be discovered, and the rest of the army, **Alfyrian**, **Human**, **Malenaians**, and **Pyrofeu**, the city must not only be retaken, but what is hiding inside, the [[#Golden King]]., must be eliminated.
 
-
 [[#Ema the Alfiryan|Ema]], and [[#Regent Manuel|Manuel]] proposes a **full offensive**, even giving **weapons to non adult soldiers**. [[#Brennan The Malenaian Traveler|Brennan]], volunteer first, followed by others. Troops will be transported in **Malenaians** [[#Travelers|Traveler's]] caravans.
 
 Meanwhile, the player and a few chosen will be **infiltrating** the city by the **side gates**, and kill every enemy **from the inside**.
 
 At the **signal of the player**, the [[#Battle of the Order]] begins.
-
 ##### Battle of the Order
 
 The morning after, The Player, [[#Brennan The Malenaian Traveler|Brennan]], [[#Ema the Alfiryan|Ema]], her **wife**, and an **Aflyrian squad**, travels towards the side of the gate of [[#Eluryae the Great]] as the **Eluryian army pushes** towards the front gate, it is **heavily raining**, and **fog clouds** the horizon.
@@ -583,12 +581,12 @@ The player will be **given a choice** by the [[#Greater Ones]].
   They will have to **abandon the rest of the Eluryian realm** on it's own, only **being an observer**, knowing that magic is know in the world anew, dangerous things will come, and the player will **not be there to protect the realm**.
 
 ![[ClairObscurEndsing.png|450]]
-%%It's not as a good choice as this but we need a non linear conclusion%%
+%%It's not as a good choice as this but we want a non linear conclusion%%
 
 
 - They can also choose to **stay in Elury**, and live the rest of their lives as a **mortal human**, and **protect the realm** of the upcoming magic. 
   
-  They will still **keep their Greater ancestry**, but only partly, and upon dying, their **Golden Ancestry** will release, and the **Golden Corruption** will spread again in the world.
+  They will have to abandon their **Greater Ancestry**, and upon dying, their **Golden Ancestry** will release, and the **Golden Corruption** will spread again in the world.
 
 The first option ends the game and rolls credit with view **from afar of each important's character's epilogue. It then quits the game**. 
 If the player launches again, it starts just before the final boss.
@@ -744,7 +742,7 @@ The city contains **most of the [[#Humans]] inhabitants** of Elury, and is the p
 
 ![[HyruleCastleTown.png|500]]
 
-It also welcomes all races, and **adapt** certain part of it in consequence (**wider street** for [[#Malenaians]], **lava pool** for [[#Pyrofeu]] (wich are, **barn** for the Asmodens of the [[#Alfiryans]]...)
+It also welcomes all races, and **adapt** certain part of it in consequence (**wider street** for [[#Malenaians]], **lava pool** for [[#Pyrofeu]], **barn** for the Asmodens of the [[#Alfiryans]]...)
 
 However, most of those collaborations dates from another time, and are either abandonned, or directly destroyed and replaced for humans only. The politics of the world slowly changing.
 
@@ -1670,14 +1668,6 @@ They are also in a **political conflict against the Pyrofeus** since they refuse
 
 The humans are ruled by a **Regent**.
 
-### General Trivia
-
-- The word **"Madame"** or **"Sir"** and their derivatives, **do not exist in the world** of Elury. People refer to other as **"Master" or "Mistress"** (according to the gender) followed by their name. 
-  
-	Example: "*Master* Ema, i am Master Manuel, i am pleased to meet you."
-	
-	Here, **Ema is referred as Master**, as **they do not refer to themselves as Male nor Female**, this is an **[[#Alfiryans]] exceptions**. The Alfyrians being entirely female, they have the **liberty to choose their gender** during their life.
-
 
 ### Sub-Factions
 
@@ -1711,7 +1701,7 @@ The way of praying is similar to the **Catholic Religion**, with it's faults and
 
 ### Three Gods
 
-## Magic
+### Magic
 
 Magic in Elury was **rumored to exist during an ancient period of time**, with **living beings** having the ability to **manipulate elements of nature**.
 
@@ -1720,3 +1710,14 @@ It is now **asleep**, said to be shut by **Eluryae**, the only rare occurence be
 The events of the game **awakens the magic** in Elury and the rest of the world.
 
 ![[AncientMagic.png|500]]
+
+## General Trivia
+
+- The word **"Madame"** or **"Sir"** and their derivatives, **do not exist in the world** of Elury. People refer to other as **"Master" or "Mistress"** (according to the gender) followed by their name. 
+  
+	Example: "*Master* Ema, i am Master Manuel, i am pleased to meet you."
+	
+	Here, **Ema is referred as Master**, as **they do not refer to themselves as Male nor Female**, this is an **[[#Alfiryans]] exception**. The Alfyrians being entirely female, they have the **liberty to choose their gender** during their life.
+
+
+- The term **"Magic", is used as both**, the **inexplicable manipulation** of elements, and now in the "modern world", as what we would call **science**.

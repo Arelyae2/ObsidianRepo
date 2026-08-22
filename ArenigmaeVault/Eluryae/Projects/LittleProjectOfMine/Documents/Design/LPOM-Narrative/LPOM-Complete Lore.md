@@ -1,4 +1,8 @@
 ## The truth
+![[howdidthishappenhistoryoftheworldplanet.gif|469]]
+
+
+### In the beginning
 
 A civilisation, an advanced civilisation was here, before everything, a univere was here before everything, a reality was here before everything.
 
@@ -236,7 +240,7 @@ Hence, my last breath is spoken."*
 
 And **Elurye died**, the **Alfiryans, now part of Earth**, filled their duty, and **filled their hands with spears and swords**.
 
-Quickly, they **pushed back against the 9 hells**, not only with **sharp blades, but also wits**, manipulating the others into fear, envy, anger, using the **malicious traits against themselves**.
+Quickly, they **pushed back against the 9 hells**, not only with **sharp blades, but also wits**, manipulating the others into fear, envy, anger, using the **malicious traits against themselves**. Even closing the rift on their own.
 
 The **war was ended exactly a year after it started**, but the death were countless, and the sacrifice more. To honor their **dead creator and god**, the people of Earth decided to name the **land on wich they live "Elury"**.
 
@@ -277,46 +281,79 @@ This act, launched the beginning of the **Holy War**.
 
 **Apallo, and Obassida**, decided to take physical form in **two gigantic armies** against the humans, and **kill Eluryae**, recruiting other human tribes in the process to destroy the "false god", the "witch".
 
-The holy war had several effects on humans, first, it accelerated the technological advancements of their race, but it also killed half of their population in the hundreds of years that it lasted.
+The holy war had **several effects** on humans, first, it accelerated the **technological advancements** of their race, but it also **killed half of their population** in the hundreds of years that it lasted.
 
-Between battles, Eluryae continued to act as a prophet, she tells of a land on the other side of the sea, that is the destiny of her people, that it is where she comes from. And upon reaching her 800 anniversary, she now sees vision of the future.
+Between battles, Eluryae continued to act as a prophet, she tells of a **land on the other side of the sea**, that is the destiny of her people, that it is where she comes from. And upon reaching her **800 anniversary, she now sees vision of the future.**
 
-Quick images, a hand coming out of a cadaver, a man covered in gold and blood, a rift in mountains, and a person holding a candle in the darkness.
+Quick images, a **hand coming out of a cadaver**, a **man covered in gold and blood**, a **rift** in mountains, and a **person holding a candle in the darkness**.
 
-She tells of those visions to her people, 
+She tells of those visions to her people, **becoming symbols, retranscribed** in full on **prophecies**. They now have a destiny.
 
+During a gigantic battle **assembling armies** made of **men, women, children, elders, and even newborn**, Eluryae, at the cost of thousands of people, **kills Appallo and Obassida** completely by **absorbing their soul and powers**, signing the end of the war, and the victory of her side.
 
+This sudden power however, erases her human side, and make her decide to ascend as Wougrla asked once, without informing her people.
 
+Humanity now believes that **Eluryae decided to sacrifice herself for them**, they definitely see her as a **god**, as none of the people knowing her for her human side were alive anymore.
 
-- During the war, Eluryae continues to act as a prophet, she tells of a land on the other side of the sea, where she comes from, and where humanity will fight against it's greatest threat.
-- She sees a hand, a cadaver, an evil man covered in gold. forbidding gold to be used in anything. 
-- Eluryae kills Appallo and Obassida, but in the process, half of humanity is sacrificied
-- She sees her error, and ascend without telling the rest of humanity.
-- Humanity believed that Eluryae sacrificed herself for them, and start a religion in her name. "House of Eluryae"
-- Humanity advances
+A new religion, named the "**[[LPOM-Narrative Design#House of Eluryae|House of Eluryae]]**" is created.
 
 ### The land of Elury
 
-- As the humans evolved, on the other side, in the land of Elury, the new Alfiryans, as well as Merovlogiens, and Malenaians, go back to their time
-- As victims of war, they now must count on their own, Malenaians decide to become pacifists, as they nearly came extinct, Merovlogiens become Nomads, and Alfiryans decide to be the "sword" of the realm in order to defend others against greater threat.
-- Trading goes in place, religion develop as well, technology slowly advance in peace.
-- The holy war was not known at the time, but it's violence allowed for the magic of the Golden Corruption to become more powerful and potent.
-- It emerged from the rift, still and permanently open, but forgotten, not in barren lands where nothing grows or lives.
-- It's corruption held hundred of lives, the Malenaians hid, the Merovlogiens and Alfiryans fought greatly
-- They pushed it back in the rift, teaching their child not to fear it, as it was what gives it strenght.
-- They then built a giant forest of artificial spike around it in order to make scare away curious ones, and banished gold as a decoration in anything.
-- The land was at the time at the peak of it's magic, but the apparition of the Golden Corruption, and the dilution of Eluryie's magic, not only scared them from using it, but also made it less and less powerful
+As humans evolved on one side of the world, the land of Elury evoloved as well. 
+
+The new [[LPOM-Narrative Design#Alfiryans|Alfiryans]], with the [[LPOM-Narrative Design#Merovlogiens|Merovlogiens]], and [[LPOM-Narrative Design#Malenaians|Malenaians]], go back to their time, as victim of war, they all heal in their manner. 
+
+Merovlogiens, as they were continuously hunted from village to village, decided to become Nomad again, and to never settle on any land. 
+
+The Malenaians, as they saw that violence nearly wiped them out, decide to become pacifist in their realm, and to only carry a blade for the most necessary duties that they could and would encounter.
+
+The Alfiryans, respected the duty that Elurye gave them, and became the sword of the realm by training in the art of combat.
+
+Technology slowly progress with trading, the use of magic making things easier, there was no true need of any large technological advancement. 
+Religion spreads more as well, as year passed, witness die out, and now only stories who become legends remains.
+Hence religions develop and spread, and branches out as population increases, those who believe in the Greater Ones, and those who believe in Elurye as their God.
+
+During this time, the Holy War on the other side began, it was not known, but it's violence reached the Eluryian people in other way. The presence of several, powerful wielder of magic like the Greater One and Eluryae, allowed the magic of the Golden Corruption to be more powerful and potent.
+
+It first emerged in the nightmares of people, and then, gain power enough to gain a physical form in the form of a black and golden mud.
+
+![[GoldAndBlackLiquidGoldenCorruptionPure.png|358]]
+
+(To see how the Golden Corruption works, see [[LPOM-Narrative Design#Effects On Living Beings|Golden Corruption -> Effect on Living Beings]])
+
+The Golden Corruption held hundred of lives, medication were tested, ways how to fight it. 
+The Alfiryans fought greatly against it, defending the Malenaians and Merovlogiens, pushed it back, but realised that the key was in the education of their own. They taught them not to fear it, how to fight it even at a young age.
+
+The ones who could not be killed were banished around the rift, and a giant forest of [[LPOM-Narrative Design#Lost Mountains|artifical spikes]] was then built to deter anyone from going. 
+
+Gold was also banished in any form of rituals or decoration, silver taking it's place.
+
+The use of magic was also less and less common, as people saw that magic attracted the Golden Corruption, but also that Elurye's magic was diluting more and more away. Making it less powerful.
+
+As the holy war was raging on the other side, the **last user of magic**, an **old Malenaian** who could only **produce sparks with his fingers**, died.
 
 ### The coming of humans
-- 10 000 years before the events of our story, half of humanity set sails to the land of Elury, the others who stayed did not believe in Eluryae's prophecies.
-- They came ashore after their boat crashed, and quickly established several settlement
-- Not before long, a lack of ressources created conflict, one of the settlement ventured into the forest, they became isolated, and after time, were known as the sentinels
-- Others decided to follow the rivers, meeting the Merovlogiens
 
+10 000 years before the birth of the [[LPOM-Narrative Design#CP|player's character]]. Human, who set sail on boats, came to crash on the shore of Elury, a thousands years after the end of the holy war. 
+
+A handful of colonies, as the other did not believe in Eluryae's religion and their prophecies.
+Their boat were destroyed in a huge storm, and crashed, they quickly established several settlements on the coast before venturing into the land.
+
+At the time, the land of Elury is at the beginning of it's iron age, but the humans, even if more advanced technology, lost it with the crash of their boats and the death of many of their scientist and thinking heads. 
+
+They still kept elements that put them at a technological advantage.
+
+The first contact was with a Malenaian child who was confused as an adult by their cheer size. 
+
+The second was when a group of human children where playing by the river, and got captured by a Merovlogiens chief, who quickly understood the situation and established contact.
+
+The third was a group of Alfiryan hunters encircling humans while they were sleeping, and waited for them to wake up to parley.
+
+This quickly dissuaded humans from any violent possibilities when exchanging their first ressources, marking the true beginning of Elury's history.
 
 ### The history of Elury
 
-#### Neo-Initium Era
+#### Neo-Initium Era -10 000 BH
 
 - At first, collaboration was established, even with a heavy barrier language, most of the humans establised themselves on rivers, but the biggest colony was on the side of the mountains on the east, where no one who crossed came back. Thus founding the city of Eluryae the Great.
 - They then met the Alfiryans and Malenaians, but the people of Elury were not trusting humans, as they were so culturally different

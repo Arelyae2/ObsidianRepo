@@ -742,8 +742,7 @@ The city contains **most of the [[#Humans]] inhabitants** of Elury, and is the p
 
 ![[HyruleCastleTown.png|500]]
 
-It also welcomes all races, and **adapt** certain part of it in consequence (**wider street** for [[#Malenaians]], **lava pool** for [[#Pyrofeu]], **barn** for the Asmodens of the [[#Alfiryans]]...)
-
+It also welcomes all races, and **adapt** certain part of it in consequence (**wider street** for [[#Malenaians]], **lava pool** for [[#Pyrofeu]], **barn** for the Asmodens of the [[#Alfiryans]]..
 However, most of those collaborations dates from another time, and are either abandonned, or directly destroyed and replaced for humans only. The politics of the world slowly changing.
 
 #### Castle Of Light
@@ -1107,7 +1106,7 @@ She then prayed, and **the Greater Ones intervened**, by sending help, and **giv
 As soon as the woman fled, **she was hunted by the fanatics**, but **hid her child** in a small village before **dying through the torture** of her kidnappers.
 [[LPOM-3C#Character|Character]]
 
-#### Effets On Living Beings
+#### Effects On Living Beings
 
 When any being is **touched** by the Golden Corruption, it's **fear is multiplied**, allowing the Corruption to take **fully control of it's victim**.
 
@@ -1241,6 +1240,11 @@ They can be **from 2 meters to 5 in height**, and are naturally muscular.
 They are an **androgynous** species, **male and female are not discernable**.
 
 ![[Gorons.png|500]]
+
+They descend from a **small stone lizard**. The **tail was lost** as time progressed, but most of the **features are still there and there**.
+
+![[OroborosStoneLizard.png|272]]
+
 
 They can live up to **300 years** at their oldest, and attain **maturity at around 80 years old**. This is also the time where they decide if they will be [[#Settlers]] or [[#Travelers]]
 
@@ -1649,7 +1653,7 @@ The humans are the **dominating species of Elury**, their technological advancem
 
 ![[AgricultureHumans.png]]
 
-Their main city is at the **far East** of Elury, in the grand city of [[#Eluryae]], a castle surrounded by a small city, sitting on a gigantic mountain chain. 
+Their main city is at the **far East** of Elury, in the grand city of [[#Eluryae the Great]], a castle surrounded by a small city, sitting on a gigantic mountain chain. 
 
 This main city communicates with other villages via trade routes.
 
@@ -1689,7 +1693,7 @@ The few intervention the [[#Greater Ones]] made them being seen as Gods to [[#Al
 
 They are **represented** either by a **sun, or an open hand**.
 
-### Eluryae
+### House of Eluryae
 
 The Godess Eluryae is the god of the [[#Humans]], they see it as the one that **created magic and gave life to the world**.
 

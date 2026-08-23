@@ -355,6 +355,15 @@ This quickly dissuaded humans from any violent possibilities when exchanging the
 
 #### Neo-Initium Era -10 000 BH
 
+##### Arrival
+Collaboration, establishement of colonies
+
+##### War over ressources
+Scare ressources during winter, conflict, sentinels
+
+##### Peace, trading routes
+Currencies, trading routes, breeding, technology advance, from nomad to final sedentary
+
 - At first, collaboration was established, even with a heavy barrier language, most of the humans establised themselves on rivers, but the biggest colony was on the side of the mountains on the east, where no one who crossed came back. Thus founding the city of Eluryae the Great.
 - They then met the Alfiryans and Malenaians, but the people of Elury were not trusting humans, as they were so culturally different
 
@@ -363,30 +372,113 @@ This quickly dissuaded humans from any violent possibilities when exchanging the
 - During the beginning of the iron age. 345 years after Eluryae's Death, and 29 years after the arrival of Humans on the land of Elury. The first conflict between humans and Alfiryans happened
 
 #### Era of Community
+##### Corruption
+Trading exchange, rich and poor rises, cultural rise with game as well, stories, richer, several settlements and villages, corruption rise, disparity poverness
+
+##### Revolution
+Anger of the poor against the rich wich results in a more controlled distribution of ressources
+
+##### Rise of Gold
+A fast prosperity, but lack of ressources, pushes tons of unused gold to enter the market again, sparking anger in religious families, and a diabolisation of trading.
 
 #### Era of beliefs
+##### Religion war
+The religious settlement rally a cause to defend their beliefs, provoking the massacre of an entire trading settlements on the fields.
+Leading to the rest of the religion rallying against or with each other, a war lasting 50 years, ending in each side stopping and accepting a truce.
 
 #### Era of Dragons
 
+##### Dragon era
+Dragon come from the mountains, wild animals attacking the villages, people hiding under Malenaian caverns
+
+##### Conquest
+Technology rapidly advance, catapult, armor, steel, a human conqueror rally the entire Eluryian people with no exception against the dragons, and wins.
+
+##### Unification
+She unifies the people under one banner, the realm of Elury, with the capital as Eluryae, silencing the religious meddling as well.
 #### Era of Darkness
+##### Broken Kingdoms
+The human regent assassination divide the kingdoms into several groups.
+
+##### Golden Fanatics
+A cult known as the golden fanatics reveal themselves.
+
+##### Second unification
+150 years hole in history, second unification, establishment of a new dinasty.
 
 #### Era of War
+##### People of the sea
+Airship lifted by air, with people armed with guns and cannons attack the realm, the defeat of Elury is imminent even with the resistance.
+
+##### Pyrofeu Emergence
+The pyrofeu people emerges by provoking the eruption of the mountain into a volcano and make the mother ship explode, they are merged with the rest of the Eluryian realm.
+
 
 #### Era of Silver
+##### Alfiryan Revolt
+The Alfiryan people revolt after a surplus of taxes and lack of aid from the other people.
+
+#####  Malenaians Trading
+
+The Malenaians steps in and take dominance by leading the negotiations and redefining themselves the trade routes in their advantage, they also install silver as a universal currency, making their mines the only provider.
 
 #### Era of Man
+##### Three regent
+The death of the current regent without heir send for three pretendant to war.
+
+##### Third Unification
+The conqueror descendant unite the realms once more, and establish back the original family and dinasty.
+
+##### Prosperity
+A long period of prosperity in the realm.
 
 #### Era of Negoc
+##### Pyrofeu and Malenaians
+Malenaians started to mine on Pyrofeu territory, resulting in a conflict between the two.
 
+##### Forced treaty
+The humans steps in, with a greater military strenght, force the two to co exist, and weaken Malenaian's power.
+
+##### Tensed time
+The distress among people rise up, racism, higher prices, less trade, economic and political tension
 #### Era of Conflicts
+##### Alfiryan Isolation
+The Alfiryan people isolate themselves more and more over the years, going further as their science advance, until they establish themselves in the isolated canyons of Elury.
 
-#### Era of Cheaters
+##### Economic crisis
+An economic crash provokes a massive emigration, death count, and poverty rise.
 
-#### Era of Prosperity
+##### Humans & Merovlogiens
+The rivers are disputed for their ressources
+
+##### East and West
+The dispute of the rivers escalate, separating two faction
+
+##### Plague
+A sudden plague stops the war, forcing a Fourth unification
+#### Era of Corruption
+##### Political Crisis
+A sudden sentinel attack on the capital during the night killing most of the highers ups. They were corrupted by the Golden Corruption.
+##### Golden Corruption
+Without rise of magic in Elury, the Golden Corruption becomes potent anew, the Golden Fanatics by their side, they nearly wipe out the Golden Corruption.
+##### Blood war
+A great war in the north, making religion rises, old ways come back, Alfiryan returning once more as the sword of Elury.
+
+##### Fanatic Controls
+A sudden discovery by the army generals that everything was orchestrated by the Golden Fanatics, the culprit are found, and either killed or send to the desolated mountains to be banished. A prison is built around what is believed to be the rift.
+
+#### Era of Change
+##### Plague
+The plague destroy a good part of the realm again, as it was not correctly severed for the first time, this 
+##### Traderoutes redraw
+An era of prosperity where several new villages are founded, people send, and new technologies discovered. The capital is rebuilt anew as well and fitted out for everyone, not just humans.
 
 #### Current Era of War
+##### Malenaians - Pyrofeu
+Malenaians and Pyrofeu continue to dispute territories, and are at each other's throat.
 
-
+##### Gunpowder
+Humans master gundpower and force the Malenaians and Pyrofeu once more to co exist, they become more and mroe agressive in their hard and soft power.
 
 
 ## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].

@@ -745,6 +745,22 @@ The city contains **most of the [[#Humans]] inhabitants** of Elury, and is the p
 It also welcomes all races, and **adapt** certain part of it in consequence (**wider street** for [[#Malenaians]], **lava pool** for [[#Pyrofeu]], **barn** for the Asmodens of the [[#Alfiryans]]..
 However, most of those collaborations dates from another time, and are either abandonned, or directly destroyed and replaced for humans only. The politics of the world slowly changing.
 
+#### Library of Eluryae
+
+The library of Eluryae is at the **center of the Eluryian academy**, educating the most intelligent [[#General Trivia|Boffins]] from **around the realm**, every race included.
+
+![[TibetanScrollLibrary.png|218]]
+
+Thousands of **scroll and tablets of clays** dating back to the **first humans setting foot** on the Eluryian's shores.
+
+![[ClayTabletLibrary.png|283]]
+
+This is also where most of the archeologic research is made, a **group of Boffins** called the **Curators**, with the **First-Curator** as the head of the library, attend to the old artifacts.
+
+![[LibraryOfCongress.png]]
+
+The player will be **able to access most of the scrolls** in a given list for their **quests and research**, as it is normally only **allowed to noble, apprentice Boffins**, or people with enough money to **fund the library or the First-Curator's pocket**.
+
 #### Castle Of Light
 
 The representation of the humans dominance over the other races (also the last dungeon).
@@ -1718,6 +1734,8 @@ The events of the game **awakens the magic** in Elury and the rest of the world.
 
 ## General Trivia
 
+### Vocabulary
+
 - The word **"Madame"** or **"Sir"** and their derivatives, **do not exist in the world** of Elury. People refer to other as **"Master" or "Mistress"** (according to the gender) followed by their name. 
   
 	Example: "*Master* Ema, i am Master Manuel, i am pleased to meet you."
@@ -1726,3 +1744,49 @@ The events of the game **awakens the magic** in Elury and the rest of the world.
 
 
 - The term **"Magic", is used as both**, the **inexplicable manipulation** of elements, and now in the "modern world", as what we would call **science**.
+
+- Scientists are called Boffins.
+
+### Systems
+
+#### Metric System
+
+![[MetricSystemPulpFictionGif.gif]]
+
+The Eluryian world uses a set of metrics similar to the real world European one.
+Kilograms - Liters...
+
+But since not every Eluryian inhabitants is of the same species, with huge differences in size, strenght, and culture. Some traduction and conversion are made.
+
+##### Weight
+
+Humans, Merovlogiens and Alfiryans uses the **Kilogram** system, the reference for the realm.
+
+The Malenaians, being more than double the size of others, use the **Heap** system.
+
+The Pyrofeu uses the **Pack** system, as they are still a new population in the realm, and have less strenght.
+
+A Heap is **8.34** Kilograms and **12.26** Packs
+ A Pack is **0.68** Kilograms and **0.0815** Heap
+
+---
+
+To go from a Heap to a Pack: **multiply** by *12.26*
+To go from a Heap to a Kilogram: **divide** by *8.34*
+
+To go from a Pack to a Kilogram: **divide** by *0.68*
+To go from a Pack to a Heap: **multiply** by *0.0815*
+
+To go from a Kilogram to a Heap: **multiply** by *8.34*
+To go from a Kilogram to a Pack: **multiply** by *0.68*
+
+---
+##### Distance
+
+
+#### Communication
+
+#### Language
+
+#### Trading & Economy
+

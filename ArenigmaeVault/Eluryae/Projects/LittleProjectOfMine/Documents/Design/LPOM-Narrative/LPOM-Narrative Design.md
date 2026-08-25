@@ -675,6 +675,26 @@ When the Golden Corruption takes hold of a territory, **Dass** and **Klea** dark
 ![[SimonClairObscur 1.png|400]]
 %%Because it's fucking cool%%
 
+This make'sthe **Eluryian Earth magnetic's field** **three time stronger** than the real world one.
+
+![[LPOM-EluryianSolarSystemThreeSuns.png]]
+*S1 : **Dass**
+S2 : **Uchu**
+S3 : **Klea***
+
+The precise organisation would look like something similar to the schematics above.
+
+Earth & **Dass** both orbit around **Uchu** at a timing in wich **Dass is always above** Uchu in Earth's point of view.
+
+**Klea also orbits** around Uchu, but in a **right angle in relation with Earth** in it's orbit.
+
+Where **Earth make a full tour in 365 days**, a full calendar year. Klea takes twice the time, meaning that the smallest of the stars is only half the time, one year after the other, creating two types of year.
+
+The **short years**, for the even ones, a colder year with shorter days.
+
+The **long years**, for the odd ones, a hotter years with longer days.
+
+
 ---
 ### Towns and Cities
 #### Town of Deybut
@@ -1753,16 +1773,16 @@ The events of the game **awakens the magic** in Elury and the rest of the world.
 
 ![[MetricSystemPulpFictionGif.gif]]
 
-The Eluryian world uses a set of metrics similar to the real world European one.
+The Eluryian world uses a set of **metrics similar to the real world European** one.
 Kilograms - Liters...
 
-But since not every Eluryian inhabitants is of the same species, with huge differences in size, strenght, and culture. Some traduction and conversion are made.
+But since **not every Eluryian inhabitants is of the same species**, with huge differences in size, strenght, and culture. Some **traduction and conversion** are made.
 
 ##### Weight
 
 Humans, Merovlogiens and Alfiryans uses the **Kilogram** system, the reference for the realm.
 
-The Malenaians, being more than double the size of others, use the **Heap** system.
+The **Malenaians**, being more than **double the size** of others, use the **Heap** system.
 
 The Pyrofeu uses the **Pack** system, as they are still a new population in the realm, and have less strenght.
 
@@ -1785,6 +1805,18 @@ To go from a Kilogram to a Pack: **multiply** by *0.68*
 
 
 #### Communication
+
+The world of Elury, other than language, uses different system to make travel messages, informations, research, and even object.
+
+##### Order of the Triskelions
+
+The order of the Triskelions is an organisation of people swore to transport those messages, divided into two groups.
+
+The runners:
+
+The whisperers:
+
+![[TriskelionLegSymbolArmored.png|217]]
 
 #### Language
 

@@ -78,6 +78,10 @@ There is also a shop where the player can buy lootboxes with their money, and ma
 ### Eluryae
 ## Questline
 
+Certain optional quest can be found after cutscenes that the player can "stumble" into, similar to random encounters in Red Dead Redemption II.
+
+![[RedDeadRedemption2Combat.png]]
+
 ### Beyond Elury
 
 ### The Fate of the Merovlogiens

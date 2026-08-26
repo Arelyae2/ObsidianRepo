@@ -1,7 +1,5 @@
 ## The truth
 ![[howdidthishappenhistoryoftheworldplanet.gif|469]]
-
-
 ### In the beginning
 
 A civilisation, an advanced civilisation was here, before everything, a univere was here before everything, a reality was here before everything.
@@ -505,6 +503,10 @@ This determination only confirmed my doubts of a common ancestor among every liv
 ...is what i am trying to determine by my ink. 
 
 
-## The Bible of Eluryae
+## The House of Eluryae
 
 ## The scrolls of the Greater Ones
+
+## The Tablets of the three suns
+
+## The story of Elurye

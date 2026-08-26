@@ -722,15 +722,22 @@ An **outpost** at the beginning, it is now a **trading point** between the two c
 
 ![[TradingTown.png|400]]
 
-Cobbly was first started as an **outpost** by the Eluryian army to do **surveillance on the Aflyrians**. Tee objective was to **make them disappear**.
+Cobbly was first started as an **outpost** by the Eluryian army to do **surveillance on the Aflyrians**. 
 
-The humans quickly realized the **resiliency of the horned tribe**, and switched to another strategy by trading and **imposing their soft power** on the Aflyrians (wich **never worked**).
+The humans, knowing the **resiliency of the horned tribe**, switched to another strategy by trading and **imposing their soft power** on the Aflyrians (wich **never worked**).
 
 By the years, the **families trying to destroy the Alfiryans either died or switched their mind** with the generations. The outpost quickly turned into a **thriving town** and is now a **beacon of peace between the two species.**
 
 ---
 
 More than a **glorified marketplace**, Cobbly is also containing **most of the Eluryien army** on the north of the realm, the **harsh conditions making it perfect for training**.
+
+##### Temple of Strenght Legs
+
+![[AncientDesertTower.png|368]]
+
+
+
 #### Mudda Town
 
 Mudda Town is a **human settlements** in the [[#Eluryian Swamps]].
@@ -1813,6 +1820,9 @@ The world of Elury, other than language, uses different system to make travel me
 ![[TriskelionLegSymbolArmored.png|217]]
 
 The **order of the Triskelions** is an organisation of people swore to transport messages across the realm, divided into two groups.
+
+They are localized in the **[[#Temple of Strenght Legs]]** in [[#Cobbly Village]].
+
 ###### The Runners
 
 They are the most used part of the Triskelions, someone who will carry written messages & objects as fast as they can.

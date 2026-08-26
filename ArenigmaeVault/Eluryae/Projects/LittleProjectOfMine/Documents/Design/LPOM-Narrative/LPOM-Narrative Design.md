@@ -1810,13 +1810,27 @@ The world of Elury, other than language, uses different system to make travel me
 
 ##### Order of the Triskelions
 
-The order of the Triskelions is an organisation of people swore to transport those messages, divided into two groups.
-
-The runners:
-
-The whisperers:
-
 ![[TriskelionLegSymbolArmored.png|217]]
+
+The **order of the Triskelions** is an organisation of people swore to transport messages across the realm, divided into two groups.
+###### The Runners
+
+They are the most used part of the Triskelions, someone who will carry written messages & objects as fast as they can.
+
+###### The Whisperers:
+The second part of the order are Triskelions so secret that most people do not know of their existence, living secretly in the order. 
+
+They are older Triskelions who were runners once, and who swore an oath to stay as Triskelions until their death, to be impartial no matter the species.
+
+This allows for a total fidelity from them, the message they carry being extremely secret, they will learn it and burn it before carrying it, and saying it directly to the ear of the recipient.
+
+They are instructed, if captured, and without escape, to cut out their own tongue with a single knife. Or better, to cut their own throat.
+
+---
+
+Since the Triskelions are a non profitable order, they take fund and gifts from everyone who benefits from their service.
+
+It is tradition to welcome a Triskelion as a good omen into one's home when they travel.
 
 #### Language
 

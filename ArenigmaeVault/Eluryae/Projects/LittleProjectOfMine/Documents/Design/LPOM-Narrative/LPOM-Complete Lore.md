@@ -268,7 +268,7 @@ Quickly, she realises that **she is immortal**, and becomes a **prophet, a god**
 
 But this **surge of power** in an overall, now quiet world, did not go unnoticed to the eyes of the Greater Ones. **Wougrla, the Judge**, descend on earth by **taking a physical form**. They **inform Eluryae of the origin of her power** a bit more, enough so she understands the necessity of the choice she has to make, that the last interaction of a powerful being with Earth **resulted in much more than what can be qualified as a catastrophe**.
 
-![[MoonCreationGif.gif|367]]
+![[MoonCreationGif.gif|397]]
 
 Wougrla wants her to ascend and destroy her physical form, abandoning her human part, to become a greater one. But the human emotions are strong, and Eluryae refuses.
 **Not surprised** by the outcome of this first choice, **Wougrla propose another possibility**, to **abandon her Greater Ancestry**. But **Eluryae is a proud and ambitious person**, who refuses to abandon her powers.
@@ -355,37 +355,69 @@ The entire timeline of the Eluryian realm is impossible to completely tell, hole
 
 #### I - Neo-Initium Era -10 000 BH
 
-##### Arrival
-Collaboration, establishement of colonies
+The first year of human on the land of Elury, after establishing contact, was a time of collaboration. 
+Establishing themselves with several settlements on the shores and in the field around the Eluryian mountain.
 
-##### War over ressources
-Scare ressources during winter, conflict, sentinels
+They quickly taught techniques of agriculture, first architecture, and breeding to the Malenaians, Merovlogiens, and Alfiryans. 
 
-##### Peace, trading routes
-Currencies, trading routes, breeding, technology advance, from nomad to final sedentary
+Trading bulls, sheep, chicken, and seeds for ressources that others could not get.
 
-- At first, collaboration was established, even with a heavy barrier language, most of the humans establised themselves on rivers, but the biggest colony was on the side of the mountains on the east, where no one who crossed came back. Thus founding the city of Eluryae the Great.
-- They then met the Alfiryans and Malenaians, but the people of Elury were not trusting humans, as they were so culturally different
+![[FirstAgricultureIllustrationHumans.png|331]]
 
-- And the humans did not either, as they thought the autochtones could be the great evil the prophecies of Eluryae spoke of.
+---
 
-- During the beginning of the iron age. 345 years after Eluryae's Death, and 29 years after the arrival of Humans on the land of Elury. The first conflict between humans and Alfiryans happened
+Soon the first winter arrived, during a shorter year, that killed most of the unprepared crops, and send the humans into a conflict, resulting in bands of thieves across settlements.
+
+The other people decided to help the one who helped them, and chased the thieves and other criminals until they decided to hide into the Great Forest, these people would go on to become the [[LPOM-Narrative Design#The Sentinels|Sentinels]].
+
+This incident gave the people of Elury worry about humans, a cautious collaboration. On the other side, the humans were collaborating while trying to see if the Eluryian were the one the prophecies of Eluryae spoke of.
+
+Over the years, several settlements quickly became villages, farms, outpost, trading routes, while not named yet, were established, breeding was quickly mastered, technology advanced rapidly, sewing and sheep allowed for clothes, and venturing into further territories and exploration.
+
+Every people became sedentary, at the exception of the Merovlogiens, who still kept the nomad way of life.
 
 #### II - Era of Community
-##### Corruption
-Trading exchange, rich and poor rises, cultural rise with game as well, stories, richer, several settlements and villages, corruption rise, disparity poverness
 
-##### Revolution
-Anger of the poor against the rich wich results in a more controlled distribution of ressources
+Some hundreds of years after the last Malenaians established themselves as sedentary people around their now mines, the first consequences arised.
 
-##### Rise of Gold
-A fast prosperity, but lack of ressources, pushes tons of unused gold to enter the market again, sparking anger in religious families, and a diabolisation of trading.
+Trading exchange were easier, the population began to rise dramatically, from a few hundred people to a few thousands. 
 
+Certain worked in the fields, others in the city, the work became jobs, quickly a currency was used for fast exchange, replacing barter.
+
+Soon, people were also needed to manage the currencies used, along with their ressources, paper was quickly introduced after a few dozen years, right after alcohol.
+
+This led to a concentration of money for certain people, creating disparity and the first sign of poverty. 
+Corruption was also noted, althought the term did not exist yet.
+
+Very quickly, the poorest rose against the richest and expressed their anger, this led to a more controlled distribution of ressources, and the establishment of minimum wages with a defined currency.
+
+---
+
+Extract from old human clay tablet dating around this period (traduced from the Tonguish)
+
+*"No people, without a roof will be, as for, ressources/money(1) will be provided for everyone, wether they act or not"*
+(1): Translators are divided on the exact meaning.
+
+---
+
+After these events, a fast jump in production and demand with the exploding population, created a lack of money, people reverted back to bartering.
+
+Merchants preferred to introduce tons of unused gold in the economy, a logic that contradicted with religious beliefs at the time, as they memories and tales of the Golden Corruption were still very real.
+
+This led to the richer and religious families to forbid certain merchants to sell in their villages, and a diabolisation of trading in general.
 #### III - Era of beliefs
-##### Religion war
-The religious settlement rally a cause to defend their beliefs, provoking the massacre of an entire trading settlements on the fields.
+
+![[StBarthelemyMassacre.png|395]]
+
+As the economy, and population, continued to take in size, religion continued to grow in influence for every people, and the continued and now normalized use of gold only angered more the religious traders.
+
+The diabolisation
+
+
 Leading to the rest of the religion rallying against or with each other, a war lasting 50 years, ending in each side stopping and accepting a truce.
 
+- Ink
+- Graphite and pen
 #### IV - Era of Dragons
 
 ##### Dragon era
@@ -396,6 +428,13 @@ Technology rapidly advance, catapult, armor, steel, a human conqueror rally the 
 
 ##### Unification
 She unifies the people under one banner, the realm of Elury, with the capital as Eluryae, silencing the religious meddling as well.
+
+- Armour
+- More uses for leather
+- Steel alliage
+- Idea of the realm
+- Establishment of a first calendar
+
 #### V - Era of Darkness
 ##### Broken Kingdoms
 The human regent assassination divide the kingdoms into several groups.
@@ -406,6 +445,11 @@ A cult known as the golden fanatics reveal themselves.
 ##### Second unification
 150 years hole in history, second unification, establishment of a new dinasty.
 
+- Poison
+- Crossbow
+- Weapons progression
+- Canal & environmental modification
+
 #### VI - Era of War
 ##### People of the sea
 Airship lifted by air, with people armed with guns and cannons attack the realm, the defeat of Elury is imminent even with the resistance.
@@ -413,14 +457,21 @@ Airship lifted by air, with people armed with guns and cannons attack the realm,
 ##### Pyrofeu Emergence
 The pyrofeu people emerges by provoking the eruption of the mountain into a volcano and make the mother ship explode, they are merged with the rest of the Eluryian realm.
 
+- Catapulte
+- Salpetre & explosives
+- Wine
+- Drugs 
 
 #### VII - Era of Silver
 ##### Alfiryan Revolt
 The Alfiryan people revolt after a surplus of taxes and lack of aid from the other people.
 
 #####  Malenaians Trading
-
 The Malenaians steps in and take dominance by leading the negotiations and redefining themselves the trade routes in their advantage, they also install silver as a universal currency, making their mines the only provider.
+
+- Weight and balances
+- Banks
+- First metric system based around malenaians
 
 #### VIII - Era of Man
 ##### Three regent
@@ -432,6 +483,9 @@ The conqueror descendant unite the realms once more, and establish back the orig
 ##### Prosperity
 A long period of prosperity in the realm.
 
+- Weapons progression
+- New calendar
+
 #### IX - Era of Negoc
 ##### Pyrofeu and Malenaians
 Malenaians started to mine on Pyrofeu territory, resulting in a conflict between the two.
@@ -441,6 +495,11 @@ The humans steps in, with a greater military strenght, force the two to co exist
 
 ##### Tensed time
 The distress among people rise up, racism, higher prices, less trade, economic and political tension
+
+- New metric system
+- Gundpower first discovery and uses
+
+
 #### X - Era of Conflicts
 ##### Alfiryan Isolation
 The Alfiryan people isolate themselves more and more over the years, going further as their science advance, until they establish themselves in the isolated canyons of Elury.
@@ -456,6 +515,10 @@ The dispute of the rivers escalate, separating two faction
 
 ##### Plague
 A sudden plague stops the war, forcing a Fourth unification
+
+- Weapons progression
+- Huge medecine advance
+
 #### XI - Era of Corruption
 ##### Political Crisis
 A sudden sentinel attack on the capital during the night killing most of the highers ups. They were corrupted by the Golden Corruption.
@@ -467,11 +530,18 @@ A great war in the north, making religion rises, old ways come back, Alfiryan re
 ##### Fanatic Controls
 A sudden discovery by the army generals that everything was orchestrated by the Golden Fanatics, the culprit are found, and either killed or send to the desolated mountains to be banished. A prison is built around what is believed to be the rift.
 
+- Ink pen
+- Playing cards
+- Distillation
 #### XII - Era of Change
 ##### Plague
 The plague destroy a good part of the realm again, as it was not correctly severed for the first time, this 
 ##### Traderoutes redraw
 An era of prosperity where several new villages are founded, people send, and new technologies discovered. The capital is rebuilt anew as well and fitted out for everyone, not just humans.
+
+- Modern metric system
+- modern calendar
+- pressure tube
 
 #### XIII - Current Era of War
 ##### Malenaians - Pyrofeu
@@ -480,6 +550,7 @@ Malenaians and Pyrofeu continue to dispute territories, and are at each other's 
 ##### Gunpowder
 Humans master gundpower and force the Malenaians and Pyrofeu once more to co exist, they become more and mroe agressive in their hard and soft power.
 
+- Gunpowder masterisation
 
 ## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].
 

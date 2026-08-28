@@ -12,7 +12,7 @@ Linear temple:
 
 - Action in a room has consequences in another
 
-What is important is the atmosphere of each temple, and a slow build-up of the music until the final boss of it.
+What is important is the atmosphere of each temple, and a **slow build-up of the music** until the final boss of it.
 ### Forest Temple
 Linear temple
 The player obtains the [[LPOM-Player Design#Gun]]
@@ -24,7 +24,7 @@ Ideas:
 ![[HorrorForestFire.png|500]]
 ### Cavern Temple
 Linear Temple
-The player obtains the [[LPOM-Player Design#Grapling Hook]]
+The player obtains the [[LPOM-Player Design#Grapling Hook|Grapling Hook]]
 
 - A temple with a main big room and the player goes to each one like a cross.
 - The grappling hook allows to attain a certain verticality.
@@ -33,35 +33,35 @@ The player obtains the [[LPOM-Player Design#Grapling Hook]]
 
 ### Fire Temple
 Non linear temple
-The player obtains the [[LPOM-Player Design#Magnetic Boots]]
+The player obtains the [[LPOM-Player Design#Magnetic Boots|Magnetic Boots]]
 - 
 
 ![[DormantVolcano.png|500]]
 ### Sky Temple
 
 Non linear temple
-The player obtains the [[LPOM-Player Design#Mount]], and got the [[LPOM-Player Design#Spirit Totem]]
+The player obtains the [[LPOM-Player Design#Mount|Mount]], and got the [[LPOM-Player Design#Spirit Totem|Spirit Totem]]
 
 ![[CanyonTemple.png|500]]
 ### Melting Glacier Temple
 
 Linear temple
-The player obtains a [[LPOM-Player Design#Better sword]]
+The player obtains a [[LPOM-Player Design#Better sword|BetterSword]]
 
 ![[GlacierCavern.png|500]]
 ### Mind Temple
 Non linear temple
-The player obtains the [[LPOM-Player Design#Eye of truth]]
+The player obtains the [[LPOM-Player Design#Eye of truth|Eye of truth]]
 
 ![[StoneTowerMajorasMask.png|500]]
 ### Shadow Temple
 Non linear temple
-The player got a [[LPOM-Player Design#Cat]] previously
+No object to the temple, a shorter one
 
 ![[ShadowTempleOOT.png|500]]
 ### Hell Temple
 Non linear temple
-The player obtains the [[LPOM-Player Design#Double Gun]]
+The player obtains the [[LPOM-Player Design#Double Gun|Double Gun]]
 
 ![[NineHells.png|500]]
 ### Castle of Light Temple

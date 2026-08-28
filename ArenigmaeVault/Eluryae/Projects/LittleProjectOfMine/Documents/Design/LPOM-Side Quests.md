@@ -2,6 +2,9 @@ There is a completion system, a 100%, but there are other content beyond that th
 
 There is no quest journal (or not a normal one, the player could have a a notebook to actually write in it ?)
 
+Ideas
+- There is a cavern that closes behind the player
+
 ## Easter Eggs
 
 ### NPC via personality/character

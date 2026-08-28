@@ -1,5 +1,5 @@
 ## Adventure
-The player of the project will be able to explore their map, find little secrets and side quests all around, it is not an Open World. 
+The player of the project will be able to explore their map, find little secrets and side quests all around, **it is not an Open World**. 
 
 It is a linear story, and as the map opens, as the player obtains new ways to navigate it, they will be able to go back to certain places they were not able to before.
 

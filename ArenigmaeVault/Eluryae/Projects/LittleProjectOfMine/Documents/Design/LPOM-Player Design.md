@@ -489,7 +489,7 @@ If the player perfectly dodge a hit at the right moment, they can immediately **
 
 ---
 #### Counter more enemies
-This is an upgrade of the counter, the player will, **after** one shotting a **first** enemy, be given the ability to **fire** a shot to the **evaded enemy** and **kill them instantly** as well.
+This is an upgrade of the counter, the player will, **after** one shotting a **first** enemy, be given the ability to **fire** a shot to the **nearest enemy** and **kill them instantly** as well.
 
 ![[GOTChainAssassinate.png|500]]
 

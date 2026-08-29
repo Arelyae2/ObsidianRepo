@@ -1723,6 +1723,62 @@ The humans are ruled by a **Regent**.
 
 A small army of castrated men and women that are found in the **Thornins** of the [[#Lost Mountains]].
 
+#### Order of the Triskelions
+
+![[TriskelionLegSymbolArmored.png|217]]
+
+The **order of the Triskelions** is an organisation of people swore to transport messages across the realm, divided into two groups.
+
+They are localized in the **[[#Temple of Strenght Legs]]** in [[#Cobbly Village]].
+
+###### The Runners
+
+They are the most used part of the Triskelions, someone who will carry written messages & objects as fast as they can.
+
+###### The Whisperers:
+The second part of the order are Triskelions so secret that most people do not know of their existence, living secretly in the order. 
+
+They are older Triskelions who were runners once, and who swore an oath to stay as Triskelions until their death, to be impartial no matter the species.
+
+This allows for a total fidelity from them, the message they carry being extremely secret, they will learn it and burn it before carrying it, and saying it directly to the ear of the recipient.
+
+They are instructed, if captured, and without escape, to cut out their own tongue with a single knife. Or better, to cut their own throat.
+
+---
+
+Since the Triskelions are a non profitable order, they take fund and gifts from everyone who benefits from their service.
+
+It is tradition to welcome a Triskelion as a good omen into one's home when they travel.
+
+#### Knight Companies
+
+Before defining a Knight Company, one must define what is an Eluryian Knight.
+##### Eluryian Knight
+
+![[HOTDHouseodTheDragonsKingsguardCaptain.png|242]]
+
+The Eluryian Knight, in the modern world of Elury, is defined by several aspects of their character.
+
+- They must be literate, and educated in other matters than just combat.
+  
+- They know how to fight in the weapon of their choosing, wich can be a sword, but also a spear, a double sword, etc...
+
+- They understand the consequences of death, as well to how administer it quickly
+
+- They are sworn to protect the weak and the innocent, and to not use their status to gain power.
+
+- They must have a family, or people they care for, so that they defend them.
+
+Those general rules mean that everyone could become an Eluryian Knight, no matter their race, origins, or sex. And they are part of a company until they retire.
+
+---
+
+##### Company
+
+A Knight company is a team of Knights from 5 to 15 members each. Each company is assigned to a big enough Eluryian settlements, village, city, outpost, to protect it. 
+
+All Knights of the Company can be originate from the place they live in, with some exceptions.
+
 
 
 ## Religions
@@ -1815,33 +1871,7 @@ To go from a Kilogram to a Pack: **multiply** by *0.68*
 
 The world of Elury, other than language, uses different system to make travel messages, informations, research, and even object.
 
-##### Order of the Triskelions
-
-![[TriskelionLegSymbolArmored.png|217]]
-
-The **order of the Triskelions** is an organisation of people swore to transport messages across the realm, divided into two groups.
-
-They are localized in the **[[#Temple of Strenght Legs]]** in [[#Cobbly Village]].
-
-###### The Runners
-
-They are the most used part of the Triskelions, someone who will carry written messages & objects as fast as they can.
-
-###### The Whisperers:
-The second part of the order are Triskelions so secret that most people do not know of their existence, living secretly in the order. 
-
-They are older Triskelions who were runners once, and who swore an oath to stay as Triskelions until their death, to be impartial no matter the species.
-
-This allows for a total fidelity from them, the message they carry being extremely secret, they will learn it and burn it before carrying it, and saying it directly to the ear of the recipient.
-
-They are instructed, if captured, and without escape, to cut out their own tongue with a single knife. Or better, to cut their own throat.
-
----
-
-Since the Triskelions are a non profitable order, they take fund and gifts from everyone who benefits from their service.
-
-It is tradition to welcome a Triskelion as a good omen into one's home when they travel.
-
+The order of the [[#Order of the Triskelions|Triskelions]] will be used.
 #### Language
 
 #### Trading & Economy

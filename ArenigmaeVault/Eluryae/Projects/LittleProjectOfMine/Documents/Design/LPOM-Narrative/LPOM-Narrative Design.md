@@ -1719,10 +1719,6 @@ The humans are ruled by a **Regent**.
 
 ### Sub-Factions
 
-#### The Golden Masters
-
-A small army of castrated men and women that are found in the **Thornins** of the [[#Lost Mountains]].
-
 #### Order of the Triskelions
 
 ![[TriskelionLegSymbolArmored.png|217]]
@@ -1733,22 +1729,22 @@ They are localized in the **[[#Temple of Strenght Legs]]** in [[#Cobbly Village]
 
 ###### The Runners
 
-They are the most used part of the Triskelions, someone who will carry written messages & objects as fast as they can.
+They are the most **used part of the Triskelions**, someone who will carry **written messages & objects** as fast as they can.
 
 ###### The Whisperers:
-The second part of the order are Triskelions so secret that most people do not know of their existence, living secretly in the order. 
+The second part of the order are **Triskelions so secret** that most people do not know of their existence, **living secretly in the order**. 
 
-They are older Triskelions who were runners once, and who swore an oath to stay as Triskelions until their death, to be impartial no matter the species.
+They are **older Triskelions** who were runners once, and who **swore an oath** to stay as Triskelions until their death, to be **impartial no matter the species**.
 
-This allows for a total fidelity from them, the message they carry being extremely secret, they will learn it and burn it before carrying it, and saying it directly to the ear of the recipient.
+This allows for a **total fidelity from them**, the message they carry being extremely secret, they will **learn it and burn it before carrying it**, and saying it directly to the ear of the recipient.
 
-They are instructed, if captured, and without escape, to cut out their own tongue with a single knife. Or better, to cut their own throat.
+They are instructed, if **captured, and without escape**, to **cut out their own tongue** with a single knife. Or better, to **cut their own throat**.
 
 ---
 
-Since the Triskelions are a non profitable order, they take fund and gifts from everyone who benefits from their service.
+Since the Triskelions are a **non profitable order**, they take **fund and gifts** from everyone who benefits from their service.
 
-It is tradition to welcome a Triskelion as a good omen into one's home when they travel.
+It is tradition to **welcome a Triskelion** as a **good omen** into one's home when they travel.
 
 #### Knight Companies
 
@@ -1757,29 +1753,135 @@ Before defining a Knight Company, one must define what is an Eluryian Knight.
 
 ![[HOTDHouseodTheDragonsKingsguardCaptain.png|242]]
 
-The Eluryian Knight, in the modern world of Elury, is defined by several aspects of their character.
+The **Eluryian Knight**, in the modern world of Elury, is defined by **several aspects** of their character.
 
-- They must be literate, and educated in other matters than just combat.
+- They must be **literate, and educated** in other **matters than just combat**.
   
-- They know how to fight in the weapon of their choosing, wich can be a sword, but also a spear, a double sword, etc...
+- They know how to fight in the **weapon of their choosing**, wich can be a sword, but also a spear, a double sword, etc...
 
-- They understand the consequences of death, as well to how administer it quickly
+- They understand the **consequences of death**, as well to how administer it quickly
 
-- They are sworn to protect the weak and the innocent, and to not use their status to gain power.
+- They are **sworn to protect the weak and the innocent**, and to not use their status to gain power.
 
-- They must have a family, or people they care for, so that they defend them.
+- They must **have a family, or people they care** for, so that they defend them.
 
-Those general rules mean that everyone could become an Eluryian Knight, no matter their race, origins, or sex. And they are part of a company until they retire.
+Those general rules mean that **everyone could become an Eluryian Knight**, no matter their race, origins, or sex. And they are **part of a company until they retire**.
 
 ---
+##### Dubbing Ceremony
+
+To make a Knight, someone must first fill the criteria defined earlier, this is decided by questioning the people around them and more common people.
+
+They also need to present themselves before the regent for approval.
+
+![[AdoubementKnightCeremonyDubbingPainting.png|201]]
+
+Then, another Knight will use their weapon and pronounce the following swords.
+
+*""(Full name)", do you swear, by our Goddess Elurye, to defend your land against it's evil. ?"
+
+*(They answer)
+
+*"Do you swear, by the Greater Ones who made this world, to the sacrifice of your soul, for the living of other's ?"
+
+*(They answer)
+
+*"And do you swear, by Eluryae, to answer, when called upon, to brave Death even in it's more powerful moments ?"
+
+*(They answer)
+
+*"Very well, Knight of Elury"
 
 ##### Company
 
-A Knight company is a team of Knights from 5 to 15 members each. Each company is assigned to a big enough Eluryian settlements, village, city, outpost, to protect it. 
+A Knight company is a **team of Knights from 5 to 15 members** each. Each company is **assigned to a big enough Eluryian settlements**, village, city, outpost, to protect it. 
 
-All Knights of the Company can be originate from the place they live in, with some exceptions.
+**All Knights** of the Company can **originate from the place they live in**, with some exceptions.
+
+A **company of Knights** always has a **Captain**.
+
+#### Deybut - The Sea Company
+
+The sea company, is the **youngest company** in the Eluryian Realm, composed of **older, retired members** of other company to train the **younger recruits of the Deybut** village.
+
+Their armor is made of a mix of **iron and leather**. 
+Their weapons are a mix of **swords** and **double spears**.
+
+![[LeatherIronArmor.png|186]]
+
+Their **symbol is the swordfish**.
+![[SwordFishEspadonMer.png|306]]
+
+#### Riospe - The Silver Company
+
+The **oldest company**, but also the **most experienced, not in combat**, but in guarding. 
+As they are **trained** in **escorting the Malenaians Travelers** and the money of the realm.
+
+Their company is also one of the **biggest, with 30 members**, an exception so that **15 are at all times in Riospe**, and the **others are escorting** Malenaians travelers.
+
+One of their members is [[LPOM-Side Quests#Simon|Simon]].
+
+Their **armor is the most sophisticated**, a mix of Silver and high quality steel. 
+Equipping themselves with **swords, axes and heavy shield**.
+
+![[VelaryonArmor.png|250]]
+
+They **do not have symbols**, as the **silver lining of the armor is a symbol of itself**.
+
+#### Effof - The Sand Company
+
+One of the **smallest company in Elury**, counting only and officially 7 knights in total.
+
+Since this **company is situated in Effof, the Alfyrian city**, one of the **race containing the most talented warriors not even being knights**, the use of a **company is less than needed**.
+
+More than that, it is the only **fully human company in the realm**, as their secondary purpose, other than defend, is to spy on the Alfiryan people for the capital for some years now.
+
+They are still a **formidable force in combat**, with **very few armor for protection**, to gain agility. Copying Alfiryans.
+
+They are **good friends** with [[#Ema the Alfiryan|Ema]], **whom they Knight** and name their captain before the final battle.
+
+#### Pyrofeu Caverns - The Fire Company
+
+The Fire Knights are made to patrol in the Pyrofeu Caverns, but also serve as translator between the Pyrofeus people and the Eluryian realm.
+
+Since the **region are so hot**, they are equipped with **heavy armor, a mix of obsidian and fabric** to **cool them down constantly**, specially **made by Malenaians** for them.
+
+![[ObsidianKnight.png|199]]
+
+They also use heavy weapons with two hands, **mass, tridents, two handed axes**...
+Their **symbol is a glowing Ember**.
+
+#### Mudda - The Wood Company
 
 
+
+#### Cobbly - The Warrior Company
+
+#### Eluryae The Great
+
+##### The Regent Company
+
+
+##### The City Company
+
+
+##### The Gate Company
+
+
+##### The Watching Company
+
+
+#### Other Companies
+
+##### The Travel Company
+
+##### The Fields Company
+
+##### The Ash Company
+
+##### The Golden Company
+
+A small army of castrated men and women that are found in the **Thornins** of the [[#Lost Mountains]].
 
 ## Religions
 

@@ -1798,7 +1798,7 @@ A Knight company is a **team of Knights from 5 to 15 members** each. Each compan
 
 **All Knights** of the Company can **originate from the place they live in**, with some exceptions.
 
-A **company of Knights** always has a **Captain**.
+A **company of Knights** always has a **Captain**, with a **second in command**.
 
 #### Deybut - The Sea Company
 
@@ -1853,11 +1853,35 @@ Their **symbol is a glowing Ember**.
 
 #### Mudda - The Wood Company
 
+The Knight of the forest are **trained in the arts of discretion and ambush**. 
 
+They use the **lightest armor in all companies**, with **very few layers of protection**, but more for **camouflage and hiding** for long periods of time.
 
+One of their **former captain** is notably the **inventor of glasses** some hundreds of years ago, when **also inventing telescopes**. 
+
+ ![[MagnifyingGlassesWatchmaker.png|233]]
+
+They **perfected this technology** themselves with the **help of Malenaians**. Their archers now equipped of **adjustable magnifying glasses** to see from kilometers afar.
+
+![[FantasyArcher.png|218]]
+
+They mainly use **bows and daggers**, with the exception of the **captain and their second in command with two swords each.**
+Their symbol is a **simple plant for life**.
 #### Cobbly - The Warrior Company
 
+The warrior Knights are the most experienced, as they contain the oldest of soldiers in their ranks. 
+
+These warriors are more symbolic than truly Knights, made to train the young soldier in Cobbly, acting as mentor and guide for the ne generation, equipped with complex but simple looking armor.
+
+Even with their old age, they still are wonders in combat.
+
+![[SerBarristanSelmy.png|176]]
+
+Their weapons vary for all, as they come from all different companies.
+Their symbol is a **star made of sword**.
 #### Eluryae The Great
+
+The capital of the **Eluryian realm** having many needs, also has **4 companies**.
 
 ##### The Regent Company
 

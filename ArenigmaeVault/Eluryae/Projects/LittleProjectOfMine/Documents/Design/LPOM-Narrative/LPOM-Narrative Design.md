@@ -1980,7 +1980,7 @@ They are **represented** either by a **sun, or an open hand**.
 
 ### House of Eluryae
 
-The Godess Eluryae is the god of the [[#Humans]], they see it as the one that **created magic and gave life to the world**.
+The **Godess Eluryae** is the god of the [[#Humans]], they see it as the one that **created magic and gave life to the world**.
 
 Said to be **even more powerful** than the "so called" **Greater Ones** (according to a human priest).
 
@@ -1988,7 +1988,8 @@ The way of praying is similar to the **Catholic Religion**, with it's faults and
 
 ![[Catholicism.png|500]]
 
-### Three Gods
+### Minor Religions
+#### Three Gods
 
 ### Magic
 

@@ -1,3 +1,10 @@
+---
+banner: Eluryae/Projects/LittleProjectOfMine/Images/007FirstLightThumbnail.png
+banner-height: 560
+pixel-banner-flag-color: checkers
+banner-display: auto
+banner-repeat: true
+---
 ## The truth
 ![[howdidthishappenhistoryoftheworldplanet.gif|469]]
 ### In the beginning

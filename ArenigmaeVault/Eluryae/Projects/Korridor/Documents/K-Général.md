@@ -206,7 +206,7 @@ https://www.youtube.com/watch?v=9iTQCA7FxEQ
 
 - **Statut** : En cours (Recherche & Proto)
     
-- **Deadline Milestone** : [[2026-07-07]] (3 semaines après le stage)
+- **Deadline Milestone** : 2026-07-07 (3 semaines après le stage)
     
 - **Cycle de travail** : 8 semaines au total
     
@@ -374,4 +374,4 @@ _Chaque salle des catacombes représente une ville/date clé. Le joueur est un "
     
 - **Game Design** : [Vidéo Ref 2](https://www.youtube.com/watch?v=9iTQCA7FxEQ)
     
-- **Villes clés** : [[Rome]], [[Lyon]], [[Paris]], [[Bologne]].
+- **Villes clés** : 

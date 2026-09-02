@@ -1,3 +1,7 @@
+---
+banner: Eluryae/Projects/LittleProjectOfMine/Images/BattleOfGoldColor.png
+pixel-banner-flag-color: blue-fade-dark
+---
 
 **Little project of mine** is a project inspired by Zelda Twilight Princess, the purpose is to relive the feeling of old Zelda Games, but with a more serious tone and 2005-2010 graphics.
 

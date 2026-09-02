@@ -237,7 +237,7 @@ He will however join the **[[#Battle of The Order]]** after Simon's death.
 
 #### Regent Manuel
 
-Manuel is the human Regent, the **highest rank of power** possible in Elury.
+Manuel is the [[#Humans|human]] Regent, the **highest rank of power** possible in Elury.
 
 ![[KingTheoden.png|450]]
 
@@ -253,7 +253,7 @@ They will be the **General** of the **Eluryian Army** during the **[[#Battle of 
 
 ### Progression
 
-It's a sword fantasy world, a tolkien like story, where characters are driven by greater forces than themselves, to give hope.
+It's a sword fantasy world, a Tolkien like story, where characters are driven by greater forces than themselves, to give hope.
 
 Heroism against darkness, light and dark.
 
@@ -353,7 +353,7 @@ The **human** forces are **not enough, nor powerful**, to take the city back, [[
 
 **Trusting** [[#CP]] , Manuel asks for **their help** as the rest of the human army builds **fortification for civilians**.
 
-*We do not know what will happen soon, I know we have disappointed the people in many ways, especially you, but i ask for your help. As a someone also aspiring to the joy of life, we have to fight for it.*
+*We do not know what will happen soon, I know we have disappointed the people in many ways, especially you, but I ask for your help. As a someone also aspiring to the joy of life, we have to fight for it.*
 
 ---
 
@@ -414,9 +414,11 @@ The **night before the battle**, the player will be able to **access every merch
 
 The morning of the battle, **Merovlogiens scouts** sends intel to the player that the Golden Corruption army is **gathering** at the entry of the [[#Great Eluryian Fields]], just before the path to [[#Eluryae the Great]].
 
+![[MonsterBattleArmy.png|415]]
+
 After a last meeting between [[#Regent Manuel]], [[#Brennan The Malenaian Traveler]], **Simon**,  [[#Ema the Alfiryan]] and the rest of the **Alfyrian Mistresses**, with the army gathered up, a single gigantic assault is launched, a cavalry charge of [[#Asmodens]] and humans on horses towards the enemy, with the infantry behind.
 
-![[MonsterBattleArmy.png|415]]
+![[PelennorFieldsChargeGIF.gif]]
 
 Even with the enormous [[#Golden Corruption]] forces, the player, with the help of **Simon** and [[#Ema the Alfiryan|Ema]],  will bring down most of the enemy, forcing the [[#Yellow King]] to enter the battle and challenges the player on **single duel** that the player will get **out of victorious**, and winning the battle.
 
@@ -427,6 +429,7 @@ As the **battlefield clears** up, the [[#Yellow King]] decides to flee north, to
 [[#Brennan The Malenaian Traveler|Brennan]]'s wife, [[LPOM-Side Quests#Simon|Simon]], is **nowhere to be seen**, presumed dead.
 
 [[#Regent Manuel|Manuel]] and the rest of the allies decide to **send the player after him**, as even if he is losing, he still poses a **potential threat**. While the rest of the army gather up to prepare an **offensive towards the city**, and clear up the [[#Great Eluryian Fields]] and around.
+
 ##### Seventh temple
 
 The **[[LPOM-Level Design#Shadow Temple|Shadow Temple]]** is located in the cracks of the [[#Lost Mountains]], it is the home of the fanatics of the [[#Golden Corruption]], and where the [[#Yellow King]] is hiding.
@@ -772,7 +775,7 @@ The city contains **most of the [[#Humans]] inhabitants** of Elury, and is the p
 It also welcomes all races, and **adapt** certain part of it in consequence (**wider street** for [[#Malenaians]], **lava pool** for [[#Pyrofeu]], **barn** for the Asmodens of the [[#Alfiryans]]..
 However, most of those collaborations dates from another time, and are either abandonned, or directly destroyed and replaced for humans only. The politics of the world slowly changing.
 
-#### Library of Eluryae
+##### Library of Eluryae
 
 The library of Eluryae is at the **center of the Eluryian academy**, educating the most intelligent [[#General Trivia|Boffins]] from **around the realm**, every race included.
 
@@ -788,7 +791,7 @@ This is also where most of the archeologic research is made, a **group of Boffin
 
 The player will be **able to access most of the scrolls** in a given list for their **quests and research**, as it is normally only **allowed to noble, apprentice Boffins**, or people with enough money to **fund the library or the First-Curator's pocket**.
 
-#### Castle Of Light
+##### Castle Of Light
 
 The representation of the humans dominance over the other races (also the last dungeon).
 A building that is for humans only (except the Tower of the Council)
@@ -796,7 +799,7 @@ A building that is for humans only (except the Tower of the Council)
 ![[HyruleCastleBOTW.png|500]]
 
 It is mostly a military building.
-##### Tower of the Council
+###### Tower of the Council
 
 At the peak of it's highest tower, even above the tower of the human **Regent**.
 
@@ -804,23 +807,25 @@ Sits the **Tower of the Council**, a huge room after a long round staircase, whe
 
 ![[WarRoomDRStrangelove.png|600]]
 
-- High Blacksmith of the [[#Malenaians]]
-- High Foots of the [[#Malenaians]]
+- **High Blacksmith** of the [[#Malenaians]]
+- **High Foot** of the [[#Malenaians]]
   
-- The [[#Alfiryans]] Mistress of the **Army**
-- The [[#Alfiryans]] Mistress of the **Forge**
-- The [[#Alfiryans]] Mistress of the **Dance**
-- The [[#Alfiryans]] Mistress of **Science**
+- The [[#Alfiryans|Alfiryan]] Mistress of the **Army**
+- The [[#Alfiryans|Alfiryan]] Mistress of the **Forge**
+- The [[#Alfiryans|Alfiryan]] Mistress of the **Dance**
+- The [[#Alfiryans|Alfiryan]] Mistress of **Science**
   
-- Chief of the [[#Pyrofeu]]
+- **Chief** of the [[#Pyrofeu]]
   
-- The [[#Humans]] Regent
-  
-- The three [[#Merovlogiens]] Elders
+- The [[#Humans|Human]] **Regent**
+- The [[#Humans|Human]] **Prime Administrator**
+
+- The three [[#Merovlogiens|Merovlogien]] **Elders**
 
 This council **never truly worked**, only serving as a way to falsely **create diplomatic and public agreement**.
 
 Only the **Alfiryans**, **Humans**, and **Malenaians**, sits at the table, the Pyrofeu and Merovlogiens ambassadors were never seen.
+
 #### Effof City
 
 The City of **Effof** is the **main and last City** of the [[#Alfiryans]]. Sitting in the [[#Great Eluryian Canyons]], as a **giant bridge** above the **most profound crack**.
@@ -1050,7 +1055,7 @@ There is **no snow**, even at the highest levels, **no water**, only **mist and 
 
 In the deepest part of this regions, lies an artificial forest of spike, traps, and corpes, as if the ancestors wanted to **warn anyone to not enter these lands**.
 
-It does not have any name, nor referenced on any map, but [[#The Golden Masters]] refer to it as "**Thornins**".
+It does not have any name, nor referenced on any map, but [[#The Golden Company]] refer to it as "**Thornins**".
 
 ![[HostileArchitectureNuclearWaste1.png|521]]
 
@@ -1716,6 +1721,8 @@ They are also in a **political conflict against the Pyrofeus** since they refuse
 
 The humans are ruled by a **Regent**.
 
+The succession is defined by the Regent's family.
+
 
 ### Sub-Factions
 
@@ -1726,7 +1733,7 @@ The humans are ruled by a **Regent**.
 The **order of the Triskelions** is an organisation of people swore to transport messages across the realm, divided into two groups.
 
 They are localized in the **[[#Temple of Strenght Legs]]** in [[#Cobbly Village]].
-
+With a minor location in the **Tower of Three** in [[#Eluryae the Great]]
 ###### The Runners
 
 They are the most **used part of the Triskelions**, someone who will carry **written messages & objects** as fast as they can.
@@ -1751,7 +1758,7 @@ It is tradition to **welcome a Triskelion** as a **good omen** into one's home w
 Before defining a Knight Company, one must define what is an Eluryian Knight.
 ##### Eluryian Knight
 
-![[HOTDHouseodTheDragonsKingsguardCaptain.png|242]]
+![[HOTDHouseodTheDragonsKingsguardCaptain.png|232]]
 
 The **Eluryian Knight**, in the modern world of Elury, is defined by **several aspects** of their character.
 
@@ -1881,15 +1888,59 @@ Their weapons vary for all, as they come from all different companies.
 Their symbol is a **star made of sword**.
 #### Eluryae The Great
 
-The capital of the **Eluryian realm** having many needs, also has **4 companies**.
+The capital of the **Eluryian realm** having many needs, meeting them with **4 companies**.
 
 ##### The Regent Company
 
+The regent company is officially the most **important and trained company**, charged with protecting the [[#Regent Manuel|Regent]].
+
+![[GameOfThronesKingsguardMembers.png|632]]
+
+They are obligated to respect a ratio of **Malenaians**, **Alfiryans**, **Humans** and **Merovlogiens**.
+
+---
+
+In reality, it is mostly a **glorified sentinel job**, as those Knights never truly see combat, only a **handful have true experience**.
+
+More than that, the Knights **named in the regent company** are often **not the most skilled** but of **noble birth**, using **connections and money to buy their way** into glory.
+
+---
+
+With time, this got **reflected in their armors**, becoming less for protection, and more for ceremony, show off.
+
+![[CeremonialArmorRich.png|226]]
+
+They **all use swords**.
+Their **symbol is a castle**.
 
 ##### The City Company
 
+The City company is the **biggest in all of the realm, with a hundred men** in total.
+They are tasked with **guarding the city**, catching thieves, **keeping the law and order** in place in the capital.
+
+They are also instructed to **help the poor, and weak**, and keep the **children with their parents**.
+
+Their **armor is all of the same form**, a bright **blue and silver color** to **make them recognizable** in the streets.
+
+![[BlueSuitOfArmor.png|199]]
+
+They use **swords**, **spears, and bows**.
+Their symbol is a simple **piece of bread**, representing the help they must bring to their people.
+
+---
+
+More than that, since they are the company that **interacts the most with common people**, they must take an **additional vow when joining** in front of the **captain of the company**.
+
+*I swear not to abuse of the death I administer, for injustice is the worst of fate*
+
+*I swear not to abuse of the power I wield, for a forgetful knight becomes what they hunt*
+
+*I swear not to abuse of the people under my watch, for a Knight of dishonor, only deserve what they give*
+
+These **words are even engraved on their armor**.
 
 ##### The Gate Company
+The Gate company is the guarding one before the different entrances of [[#Eluryae the Great]]
 
 
 ##### The Watching Company
@@ -1899,13 +1950,21 @@ The capital of the **Eluryian realm** having many needs, also has **4 companies*
 
 ##### The Travel Company
 
+
 ##### The Fields Company
 
+
 ##### The Ash Company
+
 
 ##### The Golden Company
 
 A small army of castrated men and women that are found in the **Thornins** of the [[#Lost Mountains]].
+
+![[GreenWichArmour.png|175]]
+
+![[GoldenArmoredArm.jpg|221]]
+
 
 ## Religions
 
@@ -2001,4 +2060,8 @@ The order of the [[#Order of the Triskelions|Triskelions]] will be used.
 #### Language
 
 #### Trading & Economy
+
+#### Calendars
+
+13 month of around 28 day each.
 

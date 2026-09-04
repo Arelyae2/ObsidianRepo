@@ -2066,3 +2066,12 @@ The order of the [[#Order of the Triskelions|Triskelions]] will be used.
 
 13 month of around 28 day each.
 
+### Cultural differences
+
+#### Sarcasm
+ Sarcasm is not understood well by [[#Alfiryans]], creating issues and sometimes conflict between them and [[#Humans]].
+ 
+#### Salutes
+From West to East, there are different ways for one to say hello to another.
+On the far West, people will shake the full arm of someone.
+On the far East, only a handshake is expected.

@@ -2064,7 +2064,7 @@ The order of the [[#Order of the Triskelions|Triskelions]] will be used.
 
 #### Calendars
 
-13 month of around 28 day each.
+13 month of around 28 day each with one exception with 29 day.
 
 ### Cultural differences
 

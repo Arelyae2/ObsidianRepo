@@ -555,7 +555,7 @@ Humans master gundpower and force the Malenaians and Pyrofeu once more to co exi
 
 - Gunpowder masterisation
 
-## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Narrative Design#Eluryae the Great|Eluryae the Great]].
+## "*The truth of creation*" By **Bartolomhew Herald** - scroll 15-41 of the library of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae the Great]].
 
 ### Preface
 

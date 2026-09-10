@@ -93,7 +93,7 @@ Certain optional quest can be found after cutscenes that the player can "stumble
 
 ### The Dream Tower
 
-An ancient place in the city of [[LPOM-Narrative Design#Eluryae the Great|Eluryae]] where the player can revisit certain bosses, temples, or mission. 
+An ancient place in the city of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae]] where the player can revisit certain bosses, temples, or mission. 
 
 ### The Ancient Caverns
 

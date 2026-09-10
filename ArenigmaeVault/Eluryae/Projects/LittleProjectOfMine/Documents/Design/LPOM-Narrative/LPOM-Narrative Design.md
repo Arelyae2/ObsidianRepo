@@ -83,7 +83,7 @@ Whatever the player decides, the Golden King takes **physical form** by **gettin
 
 ##### History
 
-The Yellow King was born from an aristocratic family in [[#Eluryae the Great]]. 
+The Yellow King was born from an aristocratic family in [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]. 
 
 He took **interest in literature and politics** at a **young age**. Being **good with words**, he decided to change the **world for the best**, he was sent on an espionage mission of the fanatics of the [[#Golden Corruption]]. As they tempted to stole old artifacts from the city's library.
 
@@ -345,7 +345,7 @@ After fleeing the city, and **establishing a camp to the other side** of the [[#
 
 ##### Gather Your Allies
 
-Gather your Allies is a **main quest** given to the player, as [[#Eluryae the Great]], was taken by the [[#Yellow King]] and his army. 
+Gather your Allies is a **main quest** given to the player, as [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]], was taken by the [[#Yellow King]] and his army. 
 
 ![[MinasTirith.png|402]]
 
@@ -412,7 +412,7 @@ Against the [[#Yellow King]] and his army.
 
 The **night before the battle**, the player will be able to **access every merchants** to upgrade their guns through **Simon**, her husband [[#Brennan The Malenaian Traveler|Brennan]] will then give an fresh **armor set** to the player, from [[#Malenaians]] **metals**, reinforced with [[#Pyrofeu]] **black obsidian**, and **decorated** with [[#Alfiryans]] **arts**.
 
-The morning of the battle, **Merovlogiens scouts** sends intel to the player that the Golden Corruption army is **gathering** at the entry of the [[#Great Eluryian Fields]], just before the path to [[#Eluryae the Great]].
+The morning of the battle, **Merovlogiens scouts** sends intel to the player that the Golden Corruption army is **gathering** at the entry of the [[#Great Eluryian Fields]], just before the path to [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]].
 
 ![[MonsterBattleArmy.png|415]]
 
@@ -506,7 +506,7 @@ On the death of the [[#Angel Of Order]], a rift opens again, the player steps fr
 
 #### Finale
 
-As they get out of the [[#Nine Hells]], the player is now in the middle of the [[#Lost Mountains]], soon, [[#Ema the Alfirya|Ema]] and a **search party** finds them and shows them what is happening, a **dark cloud** is gathering around the city of [[#Eluryae the Great]]. Concentrating on the [[#Castle Of Light]] itself.
+As they get out of the [[#Nine Hells]], the player is now in the middle of the [[#Lost Mountains]], soon, [[#Ema the Alfirya|Ema]] and a **search party** finds them and shows them what is happening, a **dark cloud** is gathering around the city of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]. Concentrating on the [[LPOM-Eluryae the Great#Castle Of Light|Castle of Light]] itself.
 
 ![[HyruleCastleBOTW.gif]]
 
@@ -529,11 +529,11 @@ Meanwhile, the player and a few chosen will be **infiltrating** the city by the 
 At the **signal of the player**, the [[#Battle of the Order]] begins.
 ##### Battle of the Order
 
-The morning after, The Player, [[#Brennan The Malenaian Traveler|Brennan]], [[#Ema the Alfiryan|Ema]], her **wife**, and an **Aflyrian squad**, travels towards the side of the gate of [[#Eluryae the Great]] as the **Eluryian army pushes** towards the front gate, it is **heavily raining**, and **fog clouds** the horizon.
+The morning after, The Player, [[#Brennan The Malenaian Traveler|Brennan]], [[#Ema the Alfiryan|Ema]], her **wife**, and an **Aflyrian squad**, travels towards the side of the gate of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]] as the **Eluryian army pushes** towards the front gate, it is **heavily raining**, and **fog clouds** the horizon.
 
 ![[BattleFieldRainMedieval.png|407]]
 
-As the battle rages outside, The player and their allies realize that the **doors** of the [[#Castle Of Light]] are **locked behind** a [[#Catalyst of the Corruption]] in the most **infested part of the city**, they will lead a single **cavalry charge** inside the city walls, and **destroy the catalyst**.
+As the battle rages outside, The player and their allies realize that the **doors** of the [[LPOM-Eluryae the Great#Castle Of Light|Castle of Light]] are **locked behind** a [[#Catalyst of the Corruption]] in the most **infested part of the city**, they will lead a single **cavalry charge** inside the city walls, and **destroy the catalyst**.
 
 ![[GladiatorOpeningBattle.png|464]]
 
@@ -541,11 +541,11 @@ Upon the destruction, the doors will open on their own, inviting the player only
 
 ##### Final Temple
 
-The [[#Castle of Light]] is the final temple of the game. A **linear temple** where the player will progress **higher and higher**, seeing that the conflicts is now extending, the [[#Great Eluryian Forest]] is **on fire**, the [[#Great Eluryian Volcano]] is **erupting**, and **smoke** is coming out of the [[#Malenaians Mines]].
+The [[LPOM-Eluryae the Great#Castle of Light|Castle Of Light]] is the final temple of the game. A **linear temple** where the player will progress **higher and higher**, seeing that the conflicts is now extending, the [[#Great Eluryian Forest]] is **on fire**, the [[#Great Eluryian Volcano]] is **erupting**, and **smoke** is coming out of the [[#Malenaians Mines]].
 
 ##### The Final Boss
 
-The player will meet the [[#Golden King]] in the [[#Tower of the Council]].
+The player will meet the [[#Golden King]] in the [[LPOM-Eluryae the Great#Tower of the Council|Tower of the Council]].
 
 ![[GoldenKing.png|243]]
 
@@ -602,7 +602,7 @@ The second does the same but the **views are nearer, and the player with some of
 - The search of the [[#Merovlogiens]]
 - The construction of a new [[#Alfiryans]] city
 
-[[#Eluryae the Great]] was **fully restored** to it's glory, and [[#Cobbly Village]] was extended to welcome part of the [[#Alfiryans]] while constructing a new city.
+[[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]] was **fully restored** to it's glory, and [[#Cobbly Village]] was extended to welcome part of the [[#Alfiryans]] while constructing a new city.
 
 ### Cutscenes
 #### Dialogue
@@ -761,71 +761,6 @@ Located in the **deep north** of the realm.
 It contains **only ruins and abandoned halls** covered in mysterious glyphes and runes, showing that **an ancient and intelligent civilization lived** in Elury years ago.
 
 Other **similar ruins are scattered** all around the realm.
-
-#### Eluryae the Great
-
-The city of Eluryae, **capital of Elury**, is sitted on the **foot** of the [[#Rocky Chains]], a steep city, and at it's highest peak, it's core.
-
-![[MinasTirith.png|361]]
-
-The city contains **most of the [[#Humans]] inhabitants** of Elury, and is the pivoting point of merchants and travelers before going back to their natal homes.
-
-![[HyruleCastleTown.png|500]]
-
-It also welcomes all races, and **adapt** certain part of it in consequence (**wider street** for [[#Malenaians]], **lava pool** for [[#Pyrofeu]], **barn** for the Asmodens of the [[#Alfiryans]]..
-However, most of those collaborations dates from another time, and are either abandonned, or directly destroyed and replaced for humans only. The politics of the world slowly changing.
-
-##### Library of Eluryae
-
-The library of Eluryae is at the **center of the Eluryian academy**, educating the most intelligent [[#General Trivia|Boffins]] from **around the realm**, every race included.
-
-![[TibetanScrollLibrary.png|218]]
-
-Thousands of **scroll and tablets of clays** dating back to the **first humans setting foot** on the Eluryian's shores.
-
-![[ClayTabletLibrary.png|283]]
-
-This is also where most of the archeologic research is made, a **group of Boffins** called the **Curators**, with the **First-Curator** as the head of the library, attend to the old artifacts.
-
-![[LibraryOfCongress.png]]
-
-The player will be **able to access most of the scrolls** in a given list for their **quests and research**, as it is normally only **allowed to noble, apprentice Boffins**, or people with enough money to **fund the library or the First-Curator's pocket**.
-
-##### Castle Of Light
-
-The representation of the humans dominance over the other races (also the last dungeon).
-A building that is for humans only (except the Tower of the Council)
-
-![[HyruleCastleBOTW.png|500]]
-
-It is mostly a military building.
-###### Tower of the Council
-
-At the peak of it's highest tower, even above the tower of the human **Regent**.
-
-Sits the **Tower of the Council**, a huge room after a long round staircase, where all the main leaders of all races sits around a table:
-
-![[WarRoomDRStrangelove.png|600]]
-
-- **High Blacksmith** of the [[#Malenaians]]
-- **High Foot** of the [[#Malenaians]]
-  
-- The [[#Alfiryans|Alfiryan]] Mistress of the **Army**
-- The [[#Alfiryans|Alfiryan]] Mistress of the **Forge**
-- The [[#Alfiryans|Alfiryan]] Mistress of the **Dance**
-- The [[#Alfiryans|Alfiryan]] Mistress of **Science**
-  
-- **Chief** of the [[#Pyrofeu]]
-  
-- The [[#Humans|Human]] **Regent**
-- The [[#Humans|Human]] **Prime Administrator**
-
-- The three [[#Merovlogiens|Merovlogien]] **Elders**
-
-This council **never truly worked**, only serving as a way to falsely **create diplomatic and public agreement**.
-
-Only the **Alfiryans**, **Humans**, and **Malenaians**, sits at the table, the Pyrofeu and Merovlogiens ambassadors were never seen.
-
 #### Effof City
 
 The City of **Effof** is the **main and last City** of the [[#Alfiryans]]. Sitting in the [[#Great Eluryian Canyons]], as a **giant bridge** above the **most profound crack**.
@@ -880,6 +815,10 @@ The [[#Merovlogiens]] being a nomad species, their villages is made to be movabl
 ![[FishVillage.png|500]]
 
 A series of floating **wooden houses** that can be **attached** to each other, and walked on easily.
+
+#### Eluryae the Great - The Capital
+
+[[LPOM-Eluryae the Great]]
 
 ### Regions
 
@@ -1702,7 +1641,7 @@ The humans are the **dominating species of Elury**, their technological advancem
 
 ![[AgricultureHumans.png]]
 
-Their main city is at the **far East** of Elury, in the grand city of [[#Eluryae the Great]], a castle surrounded by a small city, sitting on a gigantic mountain chain. 
+Their main city is at the **far East** of Elury, in the grand city of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]], a castle surrounded by a small city, sitting on a gigantic mountain chain. 
 
 This main city communicates with other villages via trade routes.
 
@@ -1733,7 +1672,7 @@ The succession is defined by the Regent's family.
 The **order of the Triskelions** is an organisation of people swore to transport messages across the realm, divided into two groups.
 
 They are localized in the **[[#Temple of Strenght Legs]]** in [[#Cobbly Village]].
-With a minor location in the **Tower of Three** in [[#Eluryae the Great]]
+With a minor location in the **Tower of Three** in [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]
 ###### The Runners
 
 They are the most **used part of the Triskelions**, someone who will carry **written messages & objects** as fast as they can.
@@ -1886,7 +1825,7 @@ Even with their old age, they still are wonders in combat.
 
 Their weapons vary for all, as they come from all different companies.
 Their symbol is a **star made of sword**.
-#### Eluryae The Great
+#### The Capital
 
 The capital of the **Eluryian realm** having many needs, meeting them with **4 companies**.
 
@@ -1940,7 +1879,7 @@ More than that, since they are the company that **interacts the most with common
 These **words are even engraved on their armor**.
 
 ##### The Gate Company
-The Gate company is the guarding one before the different entrances of [[#Eluryae the Great]]
+The Gate company is the guarding one before the different entrances of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]
 
 
 ##### The Watching Company

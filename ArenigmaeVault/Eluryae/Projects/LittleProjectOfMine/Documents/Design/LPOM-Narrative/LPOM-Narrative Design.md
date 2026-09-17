@@ -1879,8 +1879,19 @@ More than that, since they are the company that **interacts the most with common
 These **words are even engraved on their armor**.
 
 ##### The Gate Company
-The Gate company is the guarding one before the different entrances of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]
+The Gate company is the guarding one before the different entrances of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]].
+They are **surnamed** as the "**boredom**" company or the "**waiting**" company. As they mainly stay in one place during their services.
 
+The ones on the exterior of the inner city are more active during their service, as they control suspicious activity or cargo that may enter the city.
+
+The one at the gate of the [[LPOM-Eluryae the Great#Castle Of Light|Castle of Light]] are even more controlling of everyone trying to enter the castle.
+
+As they work in pairs of two, they also always stay together to know the other.
+
+
+They are equipped with a spear and a heavy shield, each forming the side of a double gate. Their armor is also the heaviest of all, making them almost 2 meters tall for humans.
+
+Their symbol is a door.
 
 ##### The Watching Company
 

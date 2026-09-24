@@ -95,3 +95,10 @@ Sits the **Tower of the Council**, a huge room after a long round staircase, whe
 This council **never truly worked**, only serving as a way to falsely **create diplomatic and public agreement**.
 
 Only the **Alfiryans**, **Humans**, and **Malenaians**, sits at the table, the Pyrofeu and Merovlogiens ambassadors were never seen.
+
+## The Gardens
+
+## The Cells
+
+## The Regent's Passage
+## The Undergrounds

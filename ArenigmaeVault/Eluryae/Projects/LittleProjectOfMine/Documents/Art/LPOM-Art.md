@@ -9,7 +9,6 @@
 
 [Technical references](https://youtu.be/U2KWF1CwhVU?si=LCn_G8IyYkIPUUJA)
 
-Realistic texture with low resolution
 Non realistic stylised character
 ![[TwilightPrincessTitle.png|450]]
 ## Characters

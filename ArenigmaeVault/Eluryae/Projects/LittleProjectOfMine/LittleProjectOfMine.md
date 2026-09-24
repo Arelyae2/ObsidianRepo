@@ -134,7 +134,7 @@ The fully defined side quest, according to the player's mecanics, and how we can
 - [[LPOM-Side Quests#Others|Others]]
 - [[LPOM-Side Quests#Mini stories|Mini stories]]
 
-![[SkywardSwordSideQuest.png|400]]
+![[SkywardSwordSideQuest.png|388]]
 
 ---
 

@@ -1746,7 +1746,7 @@ A Knight company is a **team of Knights from 5 to 15 members** each. Each compan
 
 A **company of Knights** always has a **Captain**, with a **second in command**.
 
-#### Deybut - The Sea Company
+##### Deybut - The Sea Company
 
 The sea company, is the **youngest company** in the Eluryian Realm, composed of **older, retired members** of other company to train the **younger recruits of the Deybut** village.
 
@@ -1758,7 +1758,7 @@ Their weapons are a mix of **swords** and **double spears**.
 Their **symbol is the swordfish**.
 ![[SwordFishEspadonMer.png|306]]
 
-#### Riospe - The Silver Company
+##### Riospe - The Silver Company
 
 The **oldest company**, but also the **most experienced, not in combat**, but in guarding. 
 As they are **trained** in **escorting the Malenaians Travelers** and the money of the realm.
@@ -1774,7 +1774,7 @@ Equipping themselves with **swords, axes and heavy shield**.
 
 They **do not have symbols**, as the **silver lining of the armor is a symbol of itself**.
 
-#### Effof - The Sand Company
+##### Effof - The Sand Company
 
 One of the **smallest company in Elury**, counting only and officially 7 knights in total.
 
@@ -1786,7 +1786,7 @@ They are still a **formidable force in combat**, with **very few armor for prote
 
 They are **good friends** with [[#Ema the Alfiryan|Ema]], **whom they Knight** and name their captain before the final battle.
 
-#### Pyrofeu Caverns - The Fire Company
+##### Pyrofeu Caverns - The Fire Company
 
 The Fire Knights are made to patrol in the Pyrofeu Caverns, but also serve as translator between the Pyrofeus people and the Eluryian realm.
 
@@ -1797,7 +1797,7 @@ Since the **region are so hot**, they are equipped with **heavy armor, a mix of 
 They also use heavy weapons with two hands, **mass, tridents, two handed axes**...
 Their **symbol is a glowing Ember**.
 
-#### Mudda - The Wood Company
+##### Mudda - The Wood Company
 
 The Knight of the forest are **trained in the arts of discretion and ambush**. 
 
@@ -1813,7 +1813,7 @@ They **perfected this technology** themselves with the **help of Malenaians**. T
 
 They mainly use **bows and daggers**, with the exception of the **captain and their second in command with two swords each.**
 Their symbol is a **simple plant for life**.
-#### Cobbly - The Warrior Company
+##### Cobbly - The Warrior Company
 
 The warrior Knights are the most experienced, as they contain the oldest of soldiers in their ranks. 
 
@@ -1825,7 +1825,7 @@ Even with their old age, they still are wonders in combat.
 
 Their weapons vary for all, as they come from all different companies.
 Their symbol is a **star made of sword**.
-#### The Capital
+##### The Capital
 
 The capital of the **Eluryian realm** having many needs, meeting them with **4 companies**.
 
@@ -1896,7 +1896,7 @@ Their symbol is a door.
 ##### The Watching Company
 
 
-#### Other Companies
+##### Other Companies
 
 ##### The Travel Company
 
@@ -1915,6 +1915,23 @@ A small army of castrated men and women that are found in the **Thornins** of th
 
 ![[GoldenArmoredArm.jpg|221]]
 
+### Families
+#### Teumoters
+Malenaians - Coin Makers
+#### Tegmoer
+Malenaians - Diggers
+#### Tottens
+Human - Transport
+#### Bodas
+Human and Alfyrian - Merchants
+#### Gytiaktar
+Malenaians - Merchants
+#### Leblanc
+Humans - Farmers
+#### Wastefe
+Alfyrians - Mercenaries
+#### Bruwy
+Human - Wine maker and cook
 
 ## Religions
 
@@ -1951,7 +1968,7 @@ The events of the game **awakens the magic** in Elury and the rest of the world.
 
 ![[AncientMagic.png|500]]
 
-## General Trivia
+## Culture
 
 ### Vocabulary
 
@@ -1964,7 +1981,11 @@ The events of the game **awakens the magic** in Elury and the rest of the world.
 
 - The term **"Magic", is used as both**, the **inexplicable manipulation** of elements, and now in the "modern world", as what we would call **science**.
 
-- Scientists are called Boffins.
+- **Scientists** are called **Boffins**.
+
+- A **family is not called a family**, although the **term do exist**, people will commonly refer to a **tree** or a **branch**.
+  
+  High born/rich families will refer themselves more, and proudly, as a tree. Whereas low born will be referred to be part of a branch. As it is a more humbling term.
 
 ### Systems
 
@@ -2008,6 +2029,8 @@ To go from a Kilogram to a Pack: **multiply** by *0.68*
 The world of Elury, other than language, uses different system to make travel messages, informations, research, and even object.
 
 The order of the [[#Order of the Triskelions|Triskelions]] will be used.
+
+They will also use a system of banners and flags from high distances to communicate between cities, coupled with a long lens.
 #### Language
 
 #### Trading & Economy
@@ -2025,3 +2048,29 @@ The order of the [[#Order of the Triskelions|Triskelions]] will be used.
 From West to East, there are different ways for one to say hello to another.
 On the far West, people will shake the full arm of someone.
 On the far East, only a handshake is expected.
+
+### Food
+
+#### Wines
+
+The wine culture is heavily present in Elury, for every species, where humans will prefer red wine, and Malenaians white whine, but Alfyrian will make their own tequila.
+
+Hence, wine is a very luxury and protected product. The rich families of Elury manage a series of controlled names.
+
+##### Confluence's Coast
+##### Great Alyria
+
+##### Roasted Rivers
+
+##### Don Couteau
+
+##### Redland
+
+##### Mudpride
+
+##### Durandal
+
+---
+##### Other wines
+
+Every other wine is more basic and accessible to the public, but less tasteful or different.

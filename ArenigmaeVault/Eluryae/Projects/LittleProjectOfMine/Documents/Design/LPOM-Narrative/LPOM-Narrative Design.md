@@ -2058,6 +2058,10 @@ On the far West, people will shake the full arm of someone.
 On the far East, only a handshake is expected.
 
 ### Food
+#### Herbs
+#### Meat
+#### Fishing
+#### Condiments
 
 #### Vegetables
 #### Fruits

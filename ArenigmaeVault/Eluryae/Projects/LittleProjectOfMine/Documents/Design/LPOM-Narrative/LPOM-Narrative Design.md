@@ -83,7 +83,7 @@ Whatever the player decides, the Golden King takes **physical form** by **gettin
 
 ##### History
 
-The Yellow King was born from an aristocratic family in [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]. 
+The Yellow King was born from an aristocratic family in [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]]. 
 
 He took **interest in literature and politics** at a **young age**. Being **good with words**, he decided to change the **world for the best**, he was sent on an espionage mission of the fanatics of the [[#Golden Corruption]]. As they tempted to stole old artifacts from the city's library.
 
@@ -291,7 +291,7 @@ The player can choose to **go back to Deybut**, now completely **burned**, only 
 
 ##### First Loop
 
-The player objectives is now to go inside the [[#Great Eluryian Forest]], find the [[#Catalyst of the Corruption]], and destroy it.
+The player objectives is now to go inside the [[#Grand Eluryian Forest]], find the [[#Catalyst of the Corruption]], and destroy it.
 
 Upon **entering the region**, they will **change** into their [[LPOM-Player Design#Spirit|Spirit Form]], they will either found the sentinel village or get captured by one, they will then see the harbinger being **prayed** to and going into the temple, sealed by **X numbers of [[#Catalyst of the Corruption|Catalyst]]** inside the forest.
 
@@ -341,11 +341,11 @@ Once **defeated**, he will be cured of the [[#Golden Corruption]] inside him, bu
 
 #### Third Act
 
-After fleeing the city, and **establishing a camp to the other side** of the [[#Great Eluryian Fields]], the player will have **explained what happened**. In the same time, the city will have been **completely taken** by the [[#Golden Corruption]].
+After fleeing the city, and **establishing a camp to the other side** of the [[#Grand Eluryian Fields]], the player will have **explained what happened**. In the same time, the city will have been **completely taken** by the [[#Golden Corruption]].
 
 ##### Gather Your Allies
 
-Gather your Allies is a **main quest** given to the player, as [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]], was taken by the [[#Yellow King]] and his army. 
+Gather your Allies is a **main quest** given to the player, as [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]], was taken by the [[#Yellow King]] and his army. 
 
 ![[MinasTirith.png|402]]
 
@@ -385,7 +385,7 @@ Upon knowing that the humans will fight, the **Malenaians decide not to all join
 
 ---
 
-Visiting the **Pyrofeu**, the player will realise that they **disappeared** from their regular settlements, and are at the highest peak of the [[#Great Eluryian Volcano]], to monitor the situation, and expand the lava lakes once humans disappear.
+Visiting the **Pyrofeu**, the player will realise that they **disappeared** from their regular settlements, and are at the highest peak of the [[#Grand Eluryian Volcano]], to monitor the situation, and expand the lava lakes once humans disappear.
 
 However, **younger warriors** will **agree to go**, even taking **black obsidian as gifts** to the **other species** to give.
 
@@ -412,7 +412,7 @@ Against the [[#Yellow King]] and his army.
 
 The **night before the battle**, the player will be able to **access every merchants** to upgrade their guns through **Simon**, her husband [[#Brennan The Malenaian Traveler|Brennan]] will then give an fresh **armor set** to the player, from [[#Malenaians]] **metals**, reinforced with [[#Pyrofeu]] **black obsidian**, and **decorated** with [[#Alfiryans]] **arts**.
 
-The morning of the battle, **Merovlogiens scouts** sends intel to the player that the Golden Corruption army is **gathering** at the entry of the [[#Great Eluryian Fields]], just before the path to [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]].
+The morning of the battle, **Merovlogiens scouts** sends intel to the player that the Golden Corruption army is **gathering** at the entry of the [[#Grand Eluryian Fields]], just before the path to [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]].
 
 ![[MonsterBattleArmy.png|415]]
 
@@ -428,7 +428,7 @@ As the **battlefield clears** up, the [[#Yellow King]] decides to flee north, to
 
 [[#Brennan The Malenaian Traveler|Brennan]]'s wife, [[LPOM-Side Quests#Simon|Simon]], is **nowhere to be seen**, presumed dead.
 
-[[#Regent Manuel|Manuel]] and the rest of the allies decide to **send the player after him**, as even if he is losing, he still poses a **potential threat**. While the rest of the army gather up to prepare an **offensive towards the city**, and clear up the [[#Great Eluryian Fields]] and around.
+[[#Regent Manuel|Manuel]] and the rest of the allies decide to **send the player after him**, as even if he is losing, he still poses a **potential threat**. While the rest of the army gather up to prepare an **offensive towards the city**, and clear up the [[#Grand Eluryian Fields]] and around.
 
 ##### Seventh temple
 
@@ -506,7 +506,7 @@ On the death of the [[#Angel Of Order]], a rift opens again, the player steps fr
 
 #### Finale
 
-As they get out of the [[#Nine Hells]], the player is now in the middle of the [[#Lost Mountains]], soon, [[#Ema the Alfirya|Ema]] and a **search party** finds them and shows them what is happening, a **dark cloud** is gathering around the city of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]. Concentrating on the [[LPOM-Eluryae the Great#Castle Of Light|Castle of Light]] itself.
+As they get out of the [[#Nine Hells]], the player is now in the middle of the [[#Lost Mountains]], soon, [[#Ema the Alfirya|Ema]] and a **search party** finds them and shows them what is happening, a **dark cloud** is gathering around the city of [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]]. Concentrating on the [[LPOM-Eluryae the Grand#Castle Of Light|Castle of Light]] itself.
 
 ![[HyruleCastleBOTW.gif]]
 
@@ -529,11 +529,11 @@ Meanwhile, the player and a few chosen will be **infiltrating** the city by the 
 At the **signal of the player**, the [[#Battle of the Order]] begins.
 ##### Battle of the Order
 
-The morning after, The Player, [[#Brennan The Malenaian Traveler|Brennan]], [[#Ema the Alfiryan|Ema]], her **wife**, and an **Aflyrian squad**, travels towards the side of the gate of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]] as the **Eluryian army pushes** towards the front gate, it is **heavily raining**, and **fog clouds** the horizon.
+The morning after, The Player, [[#Brennan The Malenaian Traveler|Brennan]], [[#Ema the Alfiryan|Ema]], her **wife**, and an **Aflyrian squad**, travels towards the side of the gate of [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]] as the **Eluryian army pushes** towards the front gate, it is **heavily raining**, and **fog clouds** the horizon.
 
 ![[BattleFieldRainMedieval.png|407]]
 
-As the battle rages outside, The player and their allies realize that the **doors** of the [[LPOM-Eluryae the Great#Castle Of Light|Castle of Light]] are **locked behind** a [[#Catalyst of the Corruption]] in the most **infested part of the city**, they will lead a single **cavalry charge** inside the city walls, and **destroy the catalyst**.
+As the battle rages outside, The player and their allies realize that the **doors** of the [[LPOM-Eluryae the Grand#Castle Of Light|Castle of Light]] are **locked behind** a [[#Catalyst of the Corruption]] in the most **infested part of the city**, they will lead a single **cavalry charge** inside the city walls, and **destroy the catalyst**.
 
 ![[GladiatorOpeningBattle.png|464]]
 
@@ -541,11 +541,11 @@ Upon the destruction, the doors will open on their own, inviting the player only
 
 ##### Final Temple
 
-The [[LPOM-Eluryae the Great#Castle of Light|Castle Of Light]] is the final temple of the game. A **linear temple** where the player will progress **higher and higher**, seeing that the conflicts is now extending, the [[#Great Eluryian Forest]] is **on fire**, the [[#Great Eluryian Volcano]] is **erupting**, and **smoke** is coming out of the [[#Malenaians Mines]].
+The [[LPOM-Eluryae the Grand#Castle of Light|Castle Of Light]] is the final temple of the game. A **linear temple** where the player will progress **higher and higher**, seeing that the conflicts is now extending, the [[#Grand Eluryian Forest]] is **on fire**, the [[#Grand Eluryian Volcano]] is **erupting**, and **smoke** is coming out of the [[#Malenaians Mines]].
 
 ##### The Final Boss
 
-The player will meet the [[#Golden King]] in the [[LPOM-Eluryae the Great#Tower of the Council|Tower of the Council]].
+The player will meet the [[#Golden King]] in the [[LPOM-Eluryae the Grand#Tower of the Council|Tower of the Council]].
 
 ![[GoldenKing.png|243]]
 
@@ -602,7 +602,7 @@ The second does the same but the **views are nearer, and the player with some of
 - The search of the [[#Merovlogiens]]
 - The construction of a new [[#Alfiryans]] city
 
-[[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]] was **fully restored** to it's glory, and [[#Cobbly Village]] was extended to welcome part of the [[#Alfiryans]] while constructing a new city.
+[[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]] was **fully restored** to it's glory, and [[#Cobbly Village]] was extended to welcome part of the [[#Alfiryans]] while constructing a new city.
 
 ### Cutscenes
 #### Dialogue
@@ -702,7 +702,7 @@ The **long years**, for the odd ones, a hotter years with longer days.
 ### Towns and Cities
 #### Town of Deybut
 
-The Deybut town is one of the **latest human settlement**, the only town still at the shore of the Great Sea, at the far west of Elury. **This is where CP lives**.
+The Deybut town is one of the **latest human settlement**, the only town still at the shore of the Grand Sea, at the far west of Elury. **This is where CP lives**.
 
 ![[BOTWFishVillage.png|400]]
 
@@ -763,7 +763,7 @@ It contains **only ruins and abandoned halls** covered in mysterious glyphes and
 Other **similar ruins are scattered** all around the realm.
 #### Effof City
 
-The City of **Effof** is the **main and last City** of the [[#Alfiryans]]. Sitting in the [[#Great Eluryian Canyons]], as a **giant bridge** above the **most profound crack**.
+The City of **Effof** is the **main and last City** of the [[#Alfiryans]]. Sitting in the [[#Grand Eluryian Canyons]], as a **giant bridge** above the **most profound crack**.
 
 ![[GrandCanyon.png|300]]
 
@@ -799,7 +799,7 @@ Houses and bridge are **carved from, or directly in the walls** of the cavern.
 
 #### Pyrofeu Caverns
 
-Those caverns deep at the center of the [[#Great Eluryian Volcano]] are the home of the [[#Pyrofeu]] race.
+Those caverns deep at the center of the [[#Grand Eluryian Volcano]] are the home of the [[#Pyrofeu]] race.
 
 
 ![[FireTempleTOTK.png|500]]
@@ -810,21 +810,21 @@ The caverns can go from **extremely narrow to enormous**, welcoming up to five f
 
 #### Merovlogiens Settlements
 
-The [[#Merovlogiens]] being a nomad species, their villages is made to be movable along the [[#Great Eluryian Rivers]].
+The [[#Merovlogiens]] being a nomad species, their villages is made to be movable along the [[#Grand Eluryian Rivers]].
 
 ![[FishVillage.png|500]]
 
 A series of floating **wooden houses** that can be **attached** to each other, and walked on easily.
 
-#### Eluryae the Great - The Capital
+#### Eluryae the Grand - The Capital
 
-[[LPOM-Eluryae the Great]]
+[[LPOM-Eluryae the Grand]]
 
 ### Regions
 
-#### Great Sea
+#### Grand Sea
 
-The Great Sea is the body of water at the far west of Elury, **extending until the horizon**.
+The Grand Sea is the body of water at the far west of Elury, **extending until the horizon**.
 
 ![[BretagneMerPlage.png|500]]
 
@@ -836,11 +836,11 @@ There are only a **few amounts of cliff** in the north and south side of the rea
 
 ---
 
-The shores of the Great Sea notably welcomes the [[#Town of Deybut]].
+The shores of the Grand Sea notably welcomes the [[#Town of Deybut]].
 
-#### Great Eluryian Forest
+#### Grand Eluryian Forest
 
-The Great Eluryian Forest is an **immense patch of wilderness** that extends on the West side of the Eluryian realm.
+The Grand Eluryian Forest is an **immense patch of wilderness** that extends on the West side of the Eluryian realm.
 
 It is sitted in a **bowl shaped zone**, but **extends so high** in the deepest part, that it **looks like a normal forest**.
 ##### The First Rim
@@ -872,7 +872,7 @@ If a traveler **has not turned back** at this point, it is **unlikely they will 
 ![[WendigoUntilDawn.png|500]]
 #### Grand Eluryian Caverns
 
-Between the [[#Great Eluryian Forest]] and the [[#Great Eluryian Volcano]], sits below the Caverns of Elury, a complex of **mines and natural caverns** built and mined by what is believed to be [[#Malenaians]] and their **ancestors**.
+Between the [[#Grand Eluryian Forest]] and the [[#Grand Eluryian Volcano]], sits below the Caverns of Elury, a complex of **mines and natural caverns** built and mined by what is believed to be [[#Malenaians]] and their **ancestors**.
 
 ##### Entrance
 
@@ -901,9 +901,9 @@ However, ancient structures, and **signs of life**, **humans and Malenaians**, w
 
 ![[GrandCavern.png|400]]
 
-#### Great Eluryian Volcano
+#### Grand Eluryian Volcano
 
-The Great Volcano of Elury is a **dormant mount** that is still getting out fumes constantly in the air.
+The Grand Volcano of Elury is a **dormant mount** that is still getting out fumes constantly in the air.
 
 ![[DormantVolcano.png|500]]
 
@@ -919,7 +919,7 @@ The player will be **able to go up** the volcano with it, but will be quickly **
 
 ##### Infernal Caverns
 
-The Infernal Caverns are a **hollow** part of the Great Volcano, at first it seems only like **caverns of black rocks**, but it quicklyt reveal itself to contain **lava lakes and rivers**.
+The Infernal Caverns are a **hollow** part of the Grand Volcano, at first it seems only like **caverns of black rocks**, but it quicklyt reveal itself to contain **lava lakes and rivers**.
 
 ![[VolcanoCaverns.png|500]]
 It also contains huge amount of Obsidian Glass.
@@ -937,13 +937,13 @@ Only **fumes** can get out of it.
 
 ##### States
 
-After certain **actions by the player**, the volcan will **violently awaken**, and destroy part of the [[#Great Eluryian Forest]], as well as making the [[#Great Glaciers]] start to melt away.
+After certain **actions by the player**, the volcan will **violently awaken**, and destroy part of the [[#Grand Eluryian Forest]], as well as making the [[#Grand Glaciers]] start to melt away.
 
 ![[Awokened Volcano.png|500]]
 
-#### Great Eluryian Fields
+#### Grand Eluryian Fields
 
-After the [[#Great Eluryian Volcano]], if someone would continue traveling to the the east, they would find the Eluryian Fields, making **most** of the **North East** part of the realm.
+After the [[#Grand Eluryian Volcano]], if someone would continue traveling to the the east, they would find the Eluryian Fields, making **most** of the **North East** part of the realm.
 
 ![[MapRough.png|400]]
 
@@ -953,30 +953,30 @@ It can become very **dangerous at night**, **monsters** will go out and hunt.
 
 ![[HyruleField.png|500]]
 
-#### Great Eluryian Canyons
+#### Grand Eluryian Canyons
 
-The Great Eluryian Canyon is a series of **infinite shafts** and **cracks** of the earth, **larger and larger**, until it is **impossible to see even the other side** (map limit).
+The Grand Eluryian Canyon is a series of **infinite shafts** and **cracks** of the earth, **larger and larger**, until it is **impossible to see even the other side** (map limit).
 
 ![[GreatCanyonFantasyArt.png|400]]
 
 It notably welcomes [[#Effof City]], the [[#Alfiryans]] settlement.
 #### Eluryian Swamps
 
-The Eluryian Swamps are an **extension** of the [[#Great Eluryian Forest]] above water lakes, this mix created swamps containing **dangerous** animals.
+The Eluryian Swamps are an **extension** of the [[#Grand Eluryian Forest]] above water lakes, this mix created swamps containing **dangerous** animals.
 
 ![[SwampBG3.png|400]]
 
 It also welcomes [[#Mudda Town]]
 
-#### Great Glaciers
+#### Grand Glaciers
 
 In the south region of the Eluryian realm, sits a **giant Glacier** that seems to extend until the [[#Rocky Chains]] takes over.
 
 ![[GlacierNoir.png|500]]
 
-After the player's action to wake up the [[#Great Eluryian Volcano]], and **redirect lava towards** the glacier, it will start to **melt away**, revealing ancient structures inside.
+After the player's action to wake up the [[#Grand Eluryian Volcano]], and **redirect lava towards** the glacier, it will start to **melt away**, revealing ancient structures inside.
 
-#### Great Eluryian Rivers
+#### Grand Eluryian Rivers
 
 A set of **water bodies** that courses through hyrules.
 
@@ -1470,7 +1470,7 @@ Their **skin is of a very deep red, almost rubis** like, their **fully black eye
 
 They live up to **50 years at their oldest**, a naturally very short lived species that slowly progresses in science to live longer.
 
-They live in the [[#Great Eluryian Volcano]], they can **swim in magma naturally**, and live on the shore of the lava lakes and river.
+They live in the [[#Grand Eluryian Volcano]], they can **swim in magma naturally**, and live on the shore of the lava lakes and river.
 
 #### Culture
 
@@ -1508,7 +1508,7 @@ Their most prominent culture is **combat**, a very **agressive style of attack**
 
 ### Merovlogiens
 
-The Merovlogiens are a species of humanoid  birds that lives in the [[#Great Eluryian Rivers]] 
+The Merovlogiens are a species of humanoid  birds that lives in the [[#Grand Eluryian Rivers]] 
 
 ![[KingFisher.png|400]]
 
@@ -1554,14 +1554,14 @@ They are **not a combative species**, but can be **extremely efficient if killin
 
 ### The Sentinels
 
-The sentinels are a tribe of humanoids cannibalistic monsters that lives in the [[#Great Eluryian Forest]].
+The sentinels are a tribe of humanoids cannibalistic monsters that lives in the [[#Grand Eluryian Forest]].
 
 ![[SentinelsV1.png|200]]
 #### Physicality
 
 ##### Origins
 
-The sentinels were one of the **first human tribe** that landed on the shores of the Eluryian Continent, they quickly **separated from the rest** of their species, and **installed a village** on the borders of what will be the [[#Great Eluryian Forest]].
+The sentinels were one of the **first human tribe** that landed on the shores of the Eluryian Continent, they quickly **separated from the rest** of their species, and **installed a village** on the borders of what will be the [[#Grand Eluryian Forest]].
 
 After an attempt from **another settlements to makes them disappear**, they **resented** the rest of the settlers, and disappeared directly in the forest.
 
@@ -1582,7 +1582,7 @@ Their **skin** became **translucent**, and their face disappeared in the profit 
 The Sentinels are monsters that can measure up to **2.5 meters** when fully extended on their legs, with **translucent white skin** and **little white eyes** shining in the dark.
 
 #### Culture
-The Sentinels take their name for their extremely protective nature of the deep parts of the Great Forest, hunting anyone intruding their land.
+The Sentinels take their name for their extremely protective nature of the deep parts of the Grand Forest, hunting anyone intruding their land.
 
 Inside their caverns, the player will be able to find hands spray painted on the walls, and representation of them, seemingly proving a form of intelligence.
 
@@ -1641,7 +1641,7 @@ The humans are the **dominating species of Elury**, their technological advancem
 
 ![[AgricultureHumans.png]]
 
-Their main city is at the **far East** of Elury, in the grand city of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]], a castle surrounded by a small city, sitting on a gigantic mountain chain. 
+Their main city is at the **far East** of Elury, in the grand city of [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]], a castle surrounded by a small city, sitting on a gigantic mountain chain. 
 
 This main city communicates with other villages via trade routes.
 
@@ -1672,7 +1672,7 @@ The succession is defined by the Regent's family.
 The **order of the Triskelions** is an organisation of people swore to transport messages across the realm, divided into two groups.
 
 They are localized in the **[[#Temple of Strenght Legs]]** in [[#Cobbly Village]].
-With a minor location in the **Tower of Three** in [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]]
+With a minor location in the **Tower of Three** in [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]]
 ###### The Runners
 
 They are the most **used part of the Triskelions**, someone who will carry **written messages & objects** as fast as they can.
@@ -1879,12 +1879,12 @@ More than that, since they are the company that **interacts the most with common
 These **words are even engraved on their armor**.
 
 ##### The Gate Company
-The Gate company is the guarding one before the different entrances of [[LPOM-Eluryae the Great#Eluryae the Great|Eluryae The Great]].
+The Gate company is the guarding one before the different entrances of [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]].
 They are **surnamed** as the "**boredom**" company or the "**waiting**" company. As they mainly stay in one place during their services.
 
 The ones on the exterior of the inner city are more active during their service, as they control suspicious activity or cargo that may enter the city.
 
-The one at the gate of the [[LPOM-Eluryae the Great#Castle Of Light|Castle of Light]] are even more controlling of everyone trying to enter the castle.
+The one at the gate of the [[LPOM-Eluryae the Grand#Castle Of Light|Castle of Light]] are even more controlling of everyone trying to enter the castle.
 
 As they work in pairs of two, they also always stay together to know the other.
 
@@ -1915,29 +1915,31 @@ A small army of castrated men and women that are found in the **Thornins** of th
 
 ![[GoldenArmoredArm.jpg|221]]
 
-### Families
-#### Teumoters
+#### Families
+##### Teumoters
 Malenaians - Coin Makers
-#### Tegmoer
+##### Tegmoer
 Malenaians - Diggers
-#### Tottens
+##### Tottens
 Human - Transport
-#### Bodas
+##### Bodas
 Human and Alfyrian - Merchants
-#### Gytiaktar
+##### Gytiaktar
 Malenaians - Merchants
-#### Leblanc
+##### Leblanc
 Humans - Farmers
-#### Wastefe
+##### Wastefe
 Alfyrians - Mercenaries
-#### Bruwy
+##### Bruwy
 Human - Wine maker and cook
 
-## Religions
+
+## Culture
+### Religions
 
 All the [[#Races & Factions]] believe in some sort of deity or god, their politics are not oriented on it but it does impact certain aspect of their culture.
 
-### Greater Ones
+#### Greater Ones
 
 The few intervention the [[#Greater Ones]] made them being seen as Gods to [[#Alfiryans]], [[#Merovlogiens]], and [[#Malenaians]].
 
@@ -1945,7 +1947,7 @@ The few intervention the [[#Greater Ones]] made them being seen as Gods to [[#Al
 
 They are **represented** either by a **sun, or an open hand**.
 
-### House of Eluryae
+#### House of Eluryae
 
 The **Godess Eluryae** is the god of the [[#Humans]], they see it as the one that **created magic and gave life to the world**.
 
@@ -1955,10 +1957,11 @@ The way of praying is similar to the **Catholic Religion**, with it's faults and
 
 ![[Catholicism.png|500]]
 
-### Minor Religions
-#### Three Gods
 
-### Magic
+#### Minor Religions
+##### Three Gods
+
+#### Magic
 
 Magic in Elury was **rumored to exist during an ancient period of time**, with **living beings** having the ability to **manipulate elements of nature**.
 
@@ -1967,8 +1970,6 @@ It is now **asleep**, said to be shut by **Eluryae**, the only rare occurence be
 The events of the game **awakens the magic** in Elury and the rest of the world.
 
 ![[AncientMagic.png|500]]
-
-## Culture
 
 ### Vocabulary
 
@@ -2031,7 +2032,7 @@ The world of Elury, other than language, uses different system to make travel me
 The order of the [[#Order of the Triskelions|Triskelions]] will be used.
 
 They will also use a system of banners and flags from high distances to communicate between cities, coupled with a long lens.
-#### Language
+
 
 #### Trading & Economy
 
@@ -2039,6 +2040,13 @@ They will also use a system of banners and flags from high distances to communic
 
 13 month of around 28 day each with one exception with 29 day.
 
+### Institutions
+#### The Bank
+#### Penal System
+
+#### Funeral System
+
+#### Medical System
 ### Cultural differences
 
 #### Sarcasm
@@ -2050,6 +2058,9 @@ On the far West, people will shake the full arm of someone.
 On the far East, only a handshake is expected.
 
 ### Food
+
+#### Vegetables
+#### Fruits
 
 #### Wines
 
@@ -2074,3 +2085,22 @@ Hence, wine is a very luxury and protected product. The rich families of Elury m
 ##### Other wines
 
 Every other wine is more basic and accessible to the public, but less tasteful or different.
+
+### Language
+
+#### Tonguish Human
+#### Eluryiaan Tongue
+
+#### Eluryian
+
+#### Fire Tongue
+
+#### Sign Language
+
+### Historical Figures
+
+
+### Medias
+#### Books
+#### Stories
+#### Songs

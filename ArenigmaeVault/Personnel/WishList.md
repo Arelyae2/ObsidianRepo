@@ -12,6 +12,7 @@
 - Set d'enceinte
 - Sodastream et bouteilles en verre
 - Ventilateur de plafond
+- Imprimante 3D Bambulab
 
 # Meuble
 - Bureau a angle/en L (ou deux bureaux normaux)

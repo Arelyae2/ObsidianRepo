@@ -12,6 +12,17 @@
 
 # Cuisine
 
+- Garlic Bread
+- Pain 
+- Brioche
+- Pate a speculoos
+- compote de pomme
+- biscuits de noel
+- citronnade
+- brunsli
+- Sauce miel
+- marinade
+- 
 ## Salé
 ## Sucré
 

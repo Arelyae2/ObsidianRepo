@@ -66,14 +66,14 @@ The player move according to the **direction** of the camera.
 *Horizontal Offset*
 
 The player has the ability to target enemies and object. This will focus the camera on an **offset either right or left** (depending on the entity position).
-![[TargetingAngle1.png|400]]
+![[TargetingAngle1.png|459]]
 
 ---
 
 *Circular Offset*
 
 If the player **move to their right**, (see below how), the camera offset will move to the side to put the **player at the right of the screen** sideways, and the entity at the left.
-![[TargetingAngle5.png|400]]
+![[TargetingAngle5.png|497]]
 
 If the player **move to their left**, they will be at the left of the screen, and the **entity at the right**.
 ![[TargetingAngle2.png|400]]

@@ -825,9 +825,11 @@ A series of floating **wooden houses** that can be **attached** to each other, a
 
 #### Ruins
 
-#### The Twin Towers
+
+#### The Dream Tower
 
 
+#### The Tower of Trials
 
 
 ### Regions

@@ -88,7 +88,7 @@ Certain optional quest can be found after cutscenes that the player can "stumble
 ### Beyond Elury
 
 ### The Fate of the Merovlogiens
-
+![[EldenRingAlbinauricVillageDeadCorpseHang.png]]
 ## Optional Zones
 
 ### The Dream Tower
@@ -109,3 +109,6 @@ A rogue like place where the player is emptied of it's inventory and hearts and 
 ## Mini Temples
 
 Optional temples to propose other mechanics or variations but that can only last for a short while
+
+### The Eluryian Dark Cells
+

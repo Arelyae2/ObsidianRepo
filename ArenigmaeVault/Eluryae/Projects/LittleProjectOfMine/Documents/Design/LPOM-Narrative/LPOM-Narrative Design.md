@@ -164,7 +164,7 @@ The [[#Golden King]] **gave it** to his Consort as a safeguard in case **he woul
 
 The Angel Of Order is the **second general** of the [[#Golden King]] that **descended in the Eluryian realm** to protect the [[#Yellow King]] after realising that the player will defeat him. They serve as **one of the boss** of the game.
 
-![[AngelOfTheOrder.png|200]]
+![[AngelOfTheOrder.png|362]]
 
 They are first seen as a mini boss, **guarding** the entrance to the **Yellow King's chambers**, but despise him. He believes that the [[#Golden King]] is wasting his time with him.
 
@@ -448,7 +448,7 @@ Crawling away, he takes off his **mask and cloak**, revealing a **simple human**
 
 As he talks, he has **trouble breathing**, more and more, trying to find words to explain himself, the breathing starts to **wheeze**, then he **chokes** on what appears to be nothing, he falls on his arms.
 
-![[StarWarsForceChoke.png|410]]
+![[StarWarsForceChoke.png|700]]
 
 The lights of the room **dims out, as winds start to rush in**, the man has more and more trouble breathing, suddenly, he stares at the roof, and screams in pain. The **scream is immediately shut** down by a **mass growing from his mouth**, and suddenly sprouts out of his now dislocated jaw, a **hand**, then an entire arm.
 
@@ -518,7 +518,7 @@ All people **were evacuated**, and are now hiding inside the [[#Grand Eluryian C
 - [[#Cobbly Village]] population's was **wiped out**.
 - The [[#Merovlogiens]] are **nowhere to be seen**, and part of their settlements were seen **drifting in the rivers**, burning.
 
-![[MemeWriting.png|360]]
+![[MemeWriting.png|321]]
 
 The refuges inside the [[#Grand Eluryian Caverns]] will soon be discovered, and the rest of the army, **Alfyrian**, **Human**, **Malenaians**, and **Pyrofeu**, the city must not only be retaken, but what is hiding inside, the [[#Golden King]]., must be eliminated.
 
@@ -569,7 +569,7 @@ As he talks and gets angrier, his armor starts to glow more and more, his voice 
 
 He explodes into a beam of energy and magic, and rises as the [[#God of Gold]]
 
-![[GodOfGold.png|223]]
+![[GodOfGold.png|563]]
 
 #### Ending
 
@@ -820,6 +820,18 @@ A series of floating **wooden houses** that can be **attached** to each other, a
 
 [[LPOM-Eluryae the Grand]]
 
+
+### Structures
+
+#### Ruins
+
+
+#### The Dream Tower
+
+
+#### The Tower of Trials
+
+
 ### Regions
 
 #### Grand Sea
@@ -986,7 +998,7 @@ A set of **water bodies** that courses through hyrules.
 
 The lost mountains are a small chains of **high mountains** at the **north west** of the realm. Nature seems to be banished from it, containing no traces of plant, only dead animals and giant skeleton.
 
-![[BlackAndWhiteMountains.png|400]]
+![[BlackAndWhiteMountains.png|700]]
 
 There is **no snow**, even at the highest levels, **no water**, only **mist and grey/black sand and rocks**.
 
@@ -996,7 +1008,7 @@ In the deepest part of this regions, lies an artificial forest of spike, traps, 
 
 It does not have any name, nor referenced on any map, but [[#The Golden Company]] refer to it as "**Thornins**".
 
-![[HostileArchitectureNuclearWaste1.png|521]]
+![[HostileArchitectureNuclearWaste1.png|700]]
 
 It contains the ruins of the [[#Forgotten City]], and the **rift** to the [[#Nine Hells]]
 
@@ -1009,6 +1021,28 @@ The Rocky chains are a set of **giant mountains** circling around the realm, com
 
 No one reportedly came beyond the rocky chains, and by proxy the Eluryian realm, no logs are telling of what is beyond the realm...
 
+The rocky chains are impenetrable, the sea is unwelcoming, and the canyons is to deep.
+
+However, the player, if bold and persistent enough, will be able to find a path and find several places before being limited by the map.
+
+##### Petrified Fields
+
+![[FalloutPetrifiedCorpse.png|514]]
+
+
+##### The Underworld 
+
+![[NolanTheOdysseyChristopherTheUnderworld.png|515]]
+
+##### The Ashen Capital
+
+![[EldenRingTreeLeyndellAshenCapital.png|477]]
+
+##### The Necromancers
+
+
+#### The Map Limits
+##### The Alfiryans Hunters
 
 ## Races & Factions
 
@@ -1017,7 +1051,7 @@ The universe of Elury holds several races and faction all around. From foes to f
 
 #### Normally 
 
-The Golden Corruption is a **natural ocurrences** of every realm and reality. 
+The Golden Corruption is a **natural occurrences** of every realm and reality. 
 
 ---
 
@@ -1230,7 +1264,7 @@ They are an **androgynous** species, **male and female are not discernable**.
 
 They descend from a **small stone lizard**. The **tail was lost** as time progressed, but most of the **features are still there and there**.
 
-![[OroborosStoneLizard.png|272]]
+![[OroborosStoneLizard.png|404]]
 
 
 They can live up to **300 years** at their oldest, and attain **maturity at around 80 years old**. This is also the time where they decide if they will be [[#Settlers]] or [[#Travelers]]
@@ -1371,7 +1405,7 @@ During **great times of war**, or when doing a **parade**, the Alfiryans will do
 
 In the formation, the squads at the **back will play music**, the squads **inside** will **watch** around for threat, and the **side and front squads will wave** the enormous **Alfyrian flag**.
 
-![[MilitaryParade.png|500]]
+![[MilitaryParade.png|700]]
 
 A tactic used to **impress enemy and allies alike**.
 
@@ -1492,7 +1526,7 @@ With the black obsidian, they also **craft weapons**, and **armor** that they sc
 
 Their **armor fully cover** them when on the ground, **retaining** a burning **heat** to maintain them alive.
 
-![[LordOfNightArmorGOT.png|300]]
+![[LordOfNightArmorGOT.png|284]]
 
 When at **home**, they only keep a **light armor on the shoulders and hips** to stay agile.
 
@@ -1611,7 +1645,7 @@ They pray to what they believe is **an outer god they call the "Harbinger"**, th
 
 The "Harbinger" is actually a **long living representation of the [[#Golden Corruption]]**, and feast on the sacrifices infused with the fear of the sentinels from it.
 
-![[LovecraftianHorror.png|494]]
+![[LovecraftianHorror.png|417]]
 
 ---
 #### Relation with the player
@@ -1770,7 +1804,7 @@ One of their members is [[LPOM-Side Quests#Simon|Simon]].
 Their **armor is the most sophisticated**, a mix of Silver and high quality steel. 
 Equipping themselves with **swords, axes and heavy shield**.
 
-![[VelaryonArmor.png|250]]
+![[VelaryonArmor.png|249]]
 
 They **do not have symbols**, as the **silver lining of the armor is a symbol of itself**.
 
@@ -1792,7 +1826,7 @@ The Fire Knights are made to patrol in the Pyrofeu Caverns, but also serve as tr
 
 Since the **region are so hot**, they are equipped with **heavy armor, a mix of obsidian and fabric** to **cool them down constantly**, specially **made by Malenaians** for them.
 
-![[ObsidianKnight.png|199]]
+![[ObsidianKnight.png|285]]
 
 They also use heavy weapons with two hands, **mass, tridents, two handed axes**...
 Their **symbol is a glowing Ember**.
@@ -1987,6 +2021,9 @@ The events of the game **awakens the magic** in Elury and the rest of the world.
 - A **family is not called a family**, although the **term do exist**, people will commonly refer to a **tree** or a **branch**.
   
   High born/rich families will refer themselves more, and proudly, as a tree. Whereas low born will be referred to be part of a branch. As it is a more humbling term.
+
+- Similarly to **our real world**, "Saints" do exist, important **character of history** elevated above their **condition of mortal**.
+  They are not called **Saints** However, but **Great**.
 
 ### Systems
 

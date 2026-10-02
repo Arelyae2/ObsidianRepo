@@ -1,6 +1,7 @@
 
 # Main
 - Machine à café à grain
+- Mousseur a lait
 - **Grand tableau véléda sur pied**
 - Aspirateur
 - Set de poêle

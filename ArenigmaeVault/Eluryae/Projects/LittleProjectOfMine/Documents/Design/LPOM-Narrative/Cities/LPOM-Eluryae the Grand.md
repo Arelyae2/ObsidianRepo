@@ -1,6 +1,6 @@
 
 
-The city of Eluryae, **capital of Elury**, is sitted on the **foot** of the [[LPOM-Narrative Design#Rocky Chains]], a steep city, and at it's highest peak, it's core.
+The city of Eluryae, **capital of Elury**, is sitted on the **foot** of the [[LPOM-Narrative Design#Rocky Chains|Rocky Chains]], a steep city, and at it's highest peak, it's core.
 
 ![[MinasTirith.png|361]]
 

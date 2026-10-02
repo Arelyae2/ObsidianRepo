@@ -820,6 +820,16 @@ A series of floating **wooden houses** that can be **attached** to each other, a
 
 [[LPOM-Eluryae the Grand]]
 
+
+### Structures
+
+#### Ruins
+
+#### The Twin Towers
+
+
+
+
 ### Regions
 
 #### Grand Sea

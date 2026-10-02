@@ -1009,6 +1009,28 @@ The Rocky chains are a set of **giant mountains** circling around the realm, com
 
 No one reportedly came beyond the rocky chains, and by proxy the Eluryian realm, no logs are telling of what is beyond the realm...
 
+The rocky chains are impenetrable, the sea is unwelcoming, and the canyons is to deep.
+
+However, the player, if bold and persistent enough, will be able to find a path and find several places before being limited by the map.
+
+##### Petrified Fields
+
+![[FalloutPetrifiedCorpse.png|514]]
+
+
+##### The Underworld 
+
+![[NolanTheOdysseyChristopherTheUnderworld.png|515]]
+
+##### The Ashen Capital
+
+![[EldenRingTreeLeyndellAshenCapital.png|477]]
+
+##### The Necromancers
+
+
+#### The Map Limits
+##### The Alfiryans Hunters
 
 ## Races & Factions
 

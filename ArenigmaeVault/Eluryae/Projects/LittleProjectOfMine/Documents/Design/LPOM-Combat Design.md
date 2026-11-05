@@ -331,22 +331,23 @@ Bringing it down by catching on it's tail and wings
 
 ![[DarknutTwilightPrincess.png|450]]
 
-#### Living Machine
+#### Living Temple
 
 ### Battle of the Gold
 #### Yellow King
 
 ### Shadow Temple
 
-#### Horrific Insect
-
-#### Yellow King
-### Hell Temple
-
 #### Dark Player Character
 
 ![[DarkLinkZeldaHyruleWarriors.png|150]]
 
+#### Yellow King
+
+
+### Hell Temple
+
+#### Angel of the order
 #### Angel of the Order
 
 ![[AngelOfTheOrder.png|250]]

@@ -42,11 +42,17 @@ The player obtains the [[LPOM-Player Design#Magnetic Boots|Magnetic Boots]]
 Non linear temple
 The player obtains the [[LPOM-Player Design#Mount|Mount]], and got the [[LPOM-Player Design#Spirit Totem|Spirit Totem]]
 
+The temple is a giant clock acting as a loop, with scheduled events, that are only accessible during certain windows of time.
+
+The player unlocks it by using the desert as a compass.
+(Paul's Dream)
+
 ![[CanyonTemple.png|500]]
 ### Melting Glacier Temple
 
 Linear temple
 The player obtains a [[LPOM-Player Design#Better sword|BetterSword]]
+The player unlocks huge part of the temple by directing lava into the glacier, melting it in the process.
 
 ![[GlacierCavern.png|500]]
 ### Mind Temple
@@ -57,6 +63,7 @@ The player obtains the [[LPOM-Player Design#Eye of truth|Eye of truth]]
 ### Shadow Temple
 Non linear temple
 No object to the temple, a shorter one
+The mini boss of this temple is a shadow of the player from their cut off arm.
 
 ![[ShadowTempleOOT.png|500]]
 ### Hell Temple
@@ -87,6 +94,6 @@ Infiltration & Maze like, going up in the trees branches to avoid the sentinels 
 
 Chase sequence (poppy playtime like with a sentinel, no death in case of getting caught, put in a cage with other dead squirrels, easy escape to go back).
 
-![[HugguWuggyChasePoppyPlaytime.png|400]]
+![[HugguWuggyChasePoppyPlaytime.png|350]]
 
 When falling off the trees, the player will not be captured immediately by a sentinel, and have a chance to escape.

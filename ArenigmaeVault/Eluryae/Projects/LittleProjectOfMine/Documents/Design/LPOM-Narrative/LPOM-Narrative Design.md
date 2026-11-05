@@ -38,7 +38,7 @@ They do **not want to help directly** the player, but **train them** to defeat t
 
 **James Spader**, tallking in a growly and calm voice.
 
-![[JamesSpaderRobertCalifornia.png|440]]
+![[JamesSpaderRobertCalifornia.png|427]]
 [Exemple](https://www.youtube.com/watch?v=yPJHHTuMaJ8)
 
 #### Yellow King
@@ -47,7 +47,7 @@ The Yellow King is the leader of the **fanatics** of the [[#Golden Corruption]] 
 
 He is a **human** **presenting, and even seeing himself**, as a horror beyond the comprehension of everyone, hiding his face behind a **huge cloak and a skull mask made of gold**.
 
-![[YellowKing.png|300]]
+![[YellowKing.png|416]]
 
 His **disguises** and lies show a huge **insecurity** and need to put other down to elevate himself.
 
@@ -65,7 +65,7 @@ His goal given by the Golden King is to **corrupt** the [[#Heir of the Corruptio
 
 He will be **searching him for the first act of the game**. And will realise that it is the player at the end of it.
 
-![[GCLiqui.png|400]]
+![[GCLiqui.png|374]]
 
 He will then try to **corrupt the player**, but they will be saved by their **Greater Ones ancestry**, **escaping the Yellow King**.
 
@@ -118,7 +118,7 @@ He descended, **taking an humanoid form**, and became the Golden King.
 
 He rules over the [[#True Order]], one day, a **portal appeared  in his own castle** by the means of a **forgotten magic in his realm**.
 
-![[Pandemonium.png|400]]
+![[Pandemonium.png|700]]
 
 He realises that **magic is nearly gone in the realm of Elury**, **defenseless** against any potentiel attack, he decides to give to the [[#Yellow King]] some of his own powers to control the [[#Golden Corruption]].
 
@@ -373,7 +373,7 @@ The morning of the day before the battle, [[#Regent Manuel|Manuel]] and the play
 
 Then, a **war march** comes along, the entire **Alfyrian army**. Along with food for the civilians.
 
-![[MilitaryParade.png|352]]
+![[MilitaryParade.png|700]]
 
 Ema explains that the council **continued to debate** after the player left, and **unanimously** decided to go after the argument was made that **Eluryian humans** were still **Eluryians**, and that the **Golden Corruption would surely not stop there**.
 
@@ -418,7 +418,7 @@ The morning of the battle, **Merovlogiens scouts** sends intel to the player tha
 
 After a last meeting between [[#Regent Manuel]], [[#Brennan The Malenaian Traveler]], **Simon**,  [[#Ema the Alfiryan]] and the rest of the **Alfyrian Mistresses**, with the army gathered up, a single gigantic assault is launched, a cavalry charge of [[#Asmodens]] and humans on horses towards the enemy, with the infantry behind.
 
-![[PelennorFieldsChargeGIF.gif]]
+![[PelennorFieldsChargeGIF.gif|695]]
 
 Even with the enormous [[#Golden Corruption]] forces, the player, with the help of **Simon** and [[#Ema the Alfiryan|Ema]],  will bring down most of the enemy, forcing the [[#Yellow King]] to enter the battle and challenges the player on **single duel** that the player will get **out of victorious**, and winning the battle.
 
@@ -436,7 +436,14 @@ The **[[LPOM-Level Design#Shadow Temple|Shadow Temple]]** is located in the crac
 
 ![[ShadowTempleOOT.png|500]]
 
-The player, will traverse it, and find the [[#Yellow King]] praying, he will act as the final boss of the temple.
+The player, will traverse it, and find: 
+
+- Their cut offed arm, summoning a **shadow version of themselves** acting as a mini boss.
+![[DarkLinkZeldaHyruleWarriors.png|204]]
+
+
+- The [[#Yellow King]] chanting a song similar to [hellfire](https://youtu.be/tTFba5gmFuc?si=W41wQxE1sVpR2jrb), foreshadowing the next events.
+- The [[#Yellow King]] praying, he will act as the final boss of the temple.
 
 ###### The Death of the Yellow King
 
@@ -454,7 +461,7 @@ The lights of the room **dims out, as winds start to rush in**, the man has more
 
 A second hand opens the **rest of his jaw** and finishes to **silence him**. As the rest of the person gets out of the now dead [[#Yellow King]]. The [[#Golden King]].
 
-![[GoldenKing.png|289]]
+![[GoldenKing.png|325]]
 
 *Two hundred, twenty eight thousand, one hundred and thirty seven years, as i have waited for such an occasion. It is not a lowly wench like this one that will stop me. My impatience must be quenched.*
 
@@ -535,7 +542,7 @@ The morning after, The Player, [[#Brennan The Malenaian Traveler|Brennan]], [[#E
 
 As the battle rages outside, The player and their allies realize that the **doors** of the [[LPOM-Eluryae the Grand#Castle Of Light|Castle of Light]] are **locked behind** a [[#Catalyst of the Corruption]] in the most **infested part of the city**, they will lead a single **cavalry charge** inside the city walls, and **destroy the catalyst**.
 
-![[GladiatorOpeningBattle.png|464]]
+![[GladiatorOpeningBattle.png|696]]
 
 Upon the destruction, the doors will open on their own, inviting the player only inside.
 
@@ -704,13 +711,13 @@ The **long years**, for the odd ones, a hotter years with longer days.
 
 The Deybut town is one of the **latest human settlement**, the only town still at the shore of the Grand Sea, at the far west of Elury. **This is where CP lives**.
 
-![[BOTWFishVillage.png|400]]
+![[BOTWFishVillage.png|431]]
 
 The inhabitants are specialized in **fishing** and the **breeding** of [[#Salted Cows]].
 ##### Salted Cows
-Salted Cows are a **rare breed** of cows raised in Deybut, and who originate from the very region, their meat and milk are an extremely **praised meal** for the rest of the realm.
+Salted Cows are a **rare breed** of cows raised in Deybut, and who originate from the very region, their meat and milk are an extremely **praised meal** for the rest of the realm. 
 
-![[HighlandCows.png|300]]
+![[HighlandCows.png|337]]
 
 The cows eat normal wheat, but drink exclusively **water directly from the sea**, saturating their meat and milk in **salt**.
 
@@ -765,7 +772,7 @@ Other **similar ruins are scattered** all around the realm.
 
 The City of **Effof** is the **main and last City** of the [[#Alfiryans]]. Sitting in the [[#Grand Eluryian Canyons]], as a **giant bridge** above the **most profound crack**.
 
-![[GrandCanyon.png|300]]
+![[GrandCanyon.png|310]]
 
 It **resembles the Kaminoan** architecture in **star wars**, circles like building that stretches around above the water. 
 
@@ -974,11 +981,18 @@ The Grand Eluryian Canyon is a series of **infinite shafts** and **cracks** of t
 It notably welcomes [[#Effof City]], the [[#Alfiryans]] settlement.
 #### Eluryian Swamps
 
-The Eluryian Swamps are an **extension** of the [[#Grand Eluryian Forest]] above water lakes, this mix created swamps containing **dangerous** animals.
+The Eluryian Swamps are an **extension** of the [[#Grand Eluryian Forest]] above water lakes with high humidity, this mix created swamps containing **dangerous** animals.
 
 ![[SwampBG3.png|400]]
 
 It also welcomes [[#Mudda Town]]
+
+---
+
+![[BayouDeLouisianeMarecageMarécage$.png|434]]
+
+Mood: https://youtu.be/4v2N3SJxPAk?si=E6nL1LqzsE56VCMl
+(Delta Slim's Patch by Ludwig Goransson for Sinners)
 
 #### Grand Glaciers
 
@@ -1010,7 +1024,7 @@ It does not have any name, nor referenced on any map, but [[#The Golden Company]
 
 ![[HostileArchitectureNuclearWaste1.png|700]]
 
-It contains the ruins of the [[#Forgotten City]], and the **rift** to the [[#Nine Hells]]
+It contains the ruins of the [[#Forgotten City]], and [[#The Rift]] to the [[#Nine Hells]]
 
 #### Rocky Chains
 
@@ -1206,6 +1220,14 @@ The nine hells take their name from the 9 factions that fight each other:
 - The True Order
 
 The **True Order is the one dominating** all, and trying to exterminate the weaker faction to **install it's legacy**.
+
+#### The Rift
+
+In order to access the Nine Hells, one must pass by the [[#Lost Mountains]] and through the thorns to access the tower of the fanatics of the Golden Corruption. Built **inside the rift** itself.
+
+The rift is **not a portal**, but a **fracture between the world of Elury and the Nine Hells**, mixing them **together in a single point in space**. Visually, it looks like nothing is here, as the **light passes through it**.
+
+The Fanatics over the years, **mapped the rift**, and built their tower around it. Creating **access hallways and chambers** allowing **armies to go through** easier that when the rift was let as it was in the wild.
 
 ### True Order
 
@@ -1534,7 +1556,7 @@ When at **home**, they only keep a **light armor on the shoulders and hips** to 
 
 Their most prominent culture is **combat**, a very **agressive style of attack**. **Ignoring defense and pain** to win no matter what.
 
-![[ObsidianWeapon-1.png|300]]
+![[ObsidianWeapon-1.png|296]]
 
 #### Relation with the player
 
@@ -1604,7 +1626,7 @@ But their lack of knowledge of the forest made it impossible for them to **hunt 
 This way of life **transformed them** in the generations, along with **incest and bloodlust**.
 Their biggest mutation came with the **rise and fall of magic in ancient Elury**, finally transforming them into a **complete monstrous species**.
 
-![[Monsters.png|271]]
+![[Monsters.png|249]]
 
 They became **fast and agile**, their arms became as long as their already **elongated legs**
 
@@ -1620,7 +1642,7 @@ The Sentinels take their name for their extremely protective nature of the deep 
 
 Inside their caverns, the player will be able to find hands spray painted on the walls, and representation of them, seemingly proving a form of intelligence.
 
-![[HandCavePrehistoric.png|330]]
+![[HandCavePrehistoric.png|313]]
 
 ##### Cannibalism
 
@@ -1645,7 +1667,7 @@ They pray to what they believe is **an outer god they call the "Harbinger"**, th
 
 The "Harbinger" is actually a **long living representation of the [[#Golden Corruption]]**, and feast on the sacrifices infused with the fear of the sentinels from it.
 
-![[LovecraftianHorror.png|417]]
+![[LovecraftianHorror.png|469]]
 
 ---
 #### Relation with the player
@@ -1863,7 +1885,7 @@ Their symbol is a **star made of sword**.
 
 The capital of the **Eluryian realm** having many needs, meeting them with **4 companies**.
 
-##### The Regent Company
+###### The Regent Company
 
 The regent company is officially the most **important and trained company**, charged with protecting the [[#Regent Manuel|Regent]].
 
@@ -1886,7 +1908,7 @@ With time, this got **reflected in their armors**, becoming less for protection,
 They **all use swords**.
 Their **symbol is a castle**.
 
-##### The City Company
+###### The City Company
 
 The City company is the **biggest in all of the realm, with a hundred men** in total.
 They are tasked with **guarding the city**, catching thieves, **keeping the law and order** in place in the capital.
@@ -1912,7 +1934,7 @@ More than that, since they are the company that **interacts the most with common
 
 These **words are even engraved on their armor**.
 
-##### The Gate Company
+###### The Gate Company
 The Gate company is the guarding one before the different entrances of [[LPOM-Eluryae the Grand#Eluryae the Grand|Eluryae The Grand]].
 They are **surnamed** as the "**boredom**" company or the "**waiting**" company. As they mainly stay in one place during their services.
 
@@ -1920,28 +1942,30 @@ The ones on the exterior of the inner city are more active during their service,
 
 The one at the gate of the [[LPOM-Eluryae the Grand#Castle Of Light|Castle of Light]] are even more controlling of everyone trying to enter the castle.
 
-As they work in pairs of two, they also always stay together to know the other.
+As they work in **pairs of two**, they also **always stay together** to know the other.
 
 
-They are equipped with a spear and a heavy shield, each forming the side of a double gate. Their armor is also the heaviest of all, making them almost 2 meters tall for humans.
+They are equipped with a **spear and a heavy shield**, each forming the **side of a double gate**. Their armor is also the **heaviest of all**, with lifts, making them almost 2 meters tall for humans.
+
+![[HeavyKnightArmorWartalesShiroGames.png|248]]
 
 Their symbol is a door.
 
-##### The Watching Company
+###### The Watching Company
 
 
 ##### Other Companies
 
-##### The Travel Company
+###### The Travel Company
 
 
-##### The Fields Company
+###### The Fields Company
 
 
-##### The Ash Company
+###### The Ash Company
 
 
-##### The Golden Company
+###### The Golden Company
 
 A small army of castrated men and women that are found in the **Thornins** of the [[#Lost Mountains]].
 
@@ -1964,8 +1988,13 @@ Malenaians - Merchants
 Humans - Farmers
 ##### Wastefe
 Alfyrians - Mercenaries
-##### Bruwy
+##### Bruly
 Human - Wine maker and cook
+##### Reigner
+The executioners "Joyless is our promise"
+https://www.youtube.com/watch?v=5UWIQqPhaFo
+#### The Golden Fanatics
+
 
 
 ## Culture
@@ -2145,3 +2174,6 @@ Every other wine is more basic and accessible to the public, but less tasteful o
 #### Books
 #### Stories
 #### Songs
+
+### Fashion
+
